@@ -1,0 +1,173 @@
+id	taxon	trait	dstate	cval	units	country	state	county	place.name	lat	long	loc.conf_km	created.by	created.date	modified.by	modified.date	notes	source.taxon	specimen.type	Source	Accession	Date	LvsSampled	leaf.light.env	source.notes	source.notes
+15	Ceanothus cuneatus var. rigidus	leaf_size		0.49	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. rigidus	B	UCBG	87.1252	03/23/01	5	Sun		
+58	Ceanothus megacarpus var. insularis	leaf_size		1.69	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus megacarpus var. insularis	B	UCSC	88.128	8/17/01	5	Sun		
+41	Ceanothus integerrimus	leaf_size		5.44	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus integerrimus	B	UCBG	90.1566	07/24/01	4	Sun		
+37	Ceanothus impressus	leaf_size		0.16	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus impressus	B	UCBG	90.1691	03/23/01	7	Sun		
+28	Ceanothus griseus	leaf_size		3.52	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus griseus	B	UCSC	2001.56	8/17/01	4	Sun	labelled var. horizontalis, mentioned but not recognized in Jepson	
+86	Cercocarpus betuloides	leaf_size		2.85	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Cercocarpus betuloides	H	UCJEP	56553	02/07/01	3	NA		
+85	Cercocarpus betuloides	leaf_size		1.11	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Cercocarpus betuloides	H	UCJEP	691101	02/07/01	3	NA		
+1	Ceanothus arboreus	leaf_size		15.13	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus arboreus	B	UCBG	770413	00xxxx	3	Sun		
+32	Ceanothus hearstiorum	leaf_size		1.61	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus hearstiorum	B	UCBG	821079	00xxxx	3	Sun		
+67	Ceanothus prostratus	leaf_size		0.63	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus prostratus	B	UCBG	821456	00xxxx	4	Sun		
+22	Ceanothus foliosus	leaf_size		0.35	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus foliosus	B	UCBG	831381	00xxxx	3	Sun		
+9	Ceanothus cuneatus var. cuneatus	leaf_size		1.10	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. cuneatus	B	UCBG	831518	00xxxx	4	Sun	var name added by default	
+81	Ceanothus thyrsiflorus	leaf_size		3.85	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	891973	00xxxx	3	Sun	var name added by default	
+51	Ceanothus maritimus	leaf_size		1.87	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCBG	900052	00xxxx	3	Sun		
+27	Ceanothus gloriosus var. porrectus	leaf_size		0.70	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus gloriosus var. porrectus	B	UCBG	900152	00xxxx	3	Sun		
+43	Ceanothus integerrimus	leaf_size		5.03	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus integerrimus	B	UCBG	901566	00xxxx	3	Sun		
+16	Ceanothus cyaneus	leaf_size		4.69	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cyaneus	B	UCBG	920419	00xxxx	3	Sun		
+61	Ceanothus oliganthus var. oliganthus	leaf_size		3.76	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus oliganthus var. oliganthus	B	UCBG	950575	00xxxx	3	Sun	var name added by default	
+82	Ceanothus tomentosus	leaf_size		1.97	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus tomentosus	B	UCBG	980654	00xxxx	3	Sun		
+83	Ceanothus velutinus var. hookeri	leaf_size		35.42	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus velutinus var. hookeri	B	WPA	112-92*A	09/07/01	2	Sun		
+36	Ceanothus impressus	leaf_size		0.12	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus impressus	B	UCSC	2001.10	8/17/01	10	Sun		
+38	Ceanothus impressus	leaf_size		0.07	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus impressus	B	UCSC	2001.10	8/17/01	10	Sun		
+34	Ceanothus hearstiorum	leaf_size		0.40	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus hearstiorum	B	UCSC	2001.50	8/17/01	10	Sun		
+29	Ceanothus griseus	leaf_size		3.70	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus griseus	B	UCBG	61.1736	07/24/01	4	Sun		
+49	Ceanothus maritimus	leaf_size		1.64	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCBG	64.1194	07/24/01	4	Sun		
+75	Ceanothus thyrsiflorus	leaf_size		7.27	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	77.0173	07/24/01	4	Sun	var name added by default	
+33	Ceanothus hearstiorum	leaf_size		1.23	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus hearstiorum	B	UCBG	77.0416	07/24/01	4	Sun		
+14	Ceanothus cuneatus var. rigidus	leaf_size		0.23	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. rigidus	B	UCSC	78.11	8/17/01	10	Sun		
+21	Ceanothus foliosus	leaf_size		0.15	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus foliosus	B	UCSC	78.140	8/17/01	10	Sun		
+57	Ceanothus megacarpus var. insularis	leaf_size		1.01	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus megacarpus var. insularis	B	UCSC	79.192	8/17/01	10	Sun		
+77	Ceanothus thyrsiflorus	leaf_size		4.02	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	80.0060	07/24/01	4	Sun	var name added by default	
+12	Ceanothus cuneatus var. fascicularis	leaf_size		0.69	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. fascicularis	B	UCBG	80.0115	07/24/01	5	Sun		
+7	Ceanothus crassifolius	leaf_size		4.45	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus crassifolius	B	UCBG	80.0116	07/24/01	6	Sun		
+26	Ceanothus gloriosus var. porrectus	leaf_size		2.80	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus gloriosus var. porrectus	B	UCBG	80.0828	07/24/01	4	Sun		
+71	Ceanothus thyrsiflorus	leaf_size		18.51	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	80.0829	07/24/01	4	Sun		
+63	Ceanothus oliganthus var. sorediatus	leaf_size		2.18	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus oliganthus var. sorediatus	B	UCBG	81.1110	07/24/01	4	Sun		
+65	Ceanothus papillosus	leaf_size		4.47	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus papillosus	B	UCBG	82.0484	07/24/01	5	Sun		
+47	Ceanothus leucodermis	leaf_size		3.22	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus leucodermis	B	UCBG	82.1059	07/24/01	4	Sun		
+50	Ceanothus maritimus	leaf_size		0.96	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCBG	82.1074	07/24/01	5	Sun		
+73	Ceanothus thyrsiflorus	leaf_size		2.53	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	82.1109	07/24/01	4	Sun		
+69	Ceanothus purpureus	leaf_size		1.92	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus purpureus	B	UCBG	82.1375	07/24/01	4	Sun		
+70	Ceanothus spinosus	leaf_size		4.05	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus spinosus	B	UCBG	83.0099	07/24/01	4	Sun		
+64	Ceanothus oliganthus var. sorediatus	leaf_size		2.92	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus oliganthus var. sorediatus	B	UCBG	83.0107	07/24/01	4	Sun		
+78	Ceanothus thyrsiflorus	leaf_size		1.55	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	83.0206	07/24/01	5	Sun	var name added by default	
+20	Ceanothus foliosus	leaf_size		1.41	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus foliosus	B	UCBG	83.1170	07/24/01	6	Sun		
+56	Ceanothus masonii	leaf_size		1.62	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus masonii	B	UCBG	83.1425	07/24/01	4	Sun		
+55	Ceanothus masonii	leaf_size		1.92	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus masonii	B	UCBG	84.0009	07/24/01	4	Sun		
+62	Ceanothus oliganthus var. oliganthus	leaf_size		2.35	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus oliganthus var. oliganthus	B	UCSC	84.320	8/17/01	4	Shade	shade; var name added by default	
+10	Ceanothus cuneatus var. cuneatus	leaf_size		0.59	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. cuneatus	B	UCBG	85.1225	07/24/01	4	Sun	var name added by default	
+84	Ceanothus verrucosus	leaf_size		1.71	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus verrucosus	B	UCBG	86.0883	07/24/01	4	Sun		
+42	Ceanothus integerrimus	leaf_size		2.61	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus integerrimus	B	UCBG	87.1311	07/24/01	6	Sun		
+60	Ceanothus oliganthus var. oliganthus	leaf_size		3.01	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus oliganthus var. oliganthus	B	UCBG	87.1620	07/24/01	6	Sun	var name added by default	
+13	Ceanothus cuneatus var. fascicularis	leaf_size		1.20	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. fascicularis	B	UCBG	88.1259	07/24/01	4	Sun		
+23	Ceanothus gloriosus var. exaltatus	leaf_size		4.66	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus gloriosus var. exaltatus	B	UCBG	88.1281	07/24/01	4	Sun		
+72	Ceanothus thyrsiflorus	leaf_size		2.16	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCSC	88.133	8/17/01	4	Sun		
+79	Ceanothus thyrsiflorus	leaf_size		2.73	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCSC	88.133	8/17/01	6	Sun	var name added by default	
+76	Ceanothus thyrsiflorus	leaf_size		3.07	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCSC	88.137	8/17/01	4	Sun	var name added by default	
+35	Ceanothus hearstiorum	leaf_size		3.27	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus hearstiorum	B	UCSC	88.208	8/17/01	4	Sun		
+68	Ceanothus purpureus	leaf_size		3.27	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus purpureus	B	UCSC	88.208	8/17/01	4	Sun		
+80	Ceanothus thyrsiflorus	leaf_size		3.79	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCSC	88.237	8/17/01	3	Sun	var name added by default	
+2	Ceanothus arboreus	leaf_size		23.72	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus arboreus	B	UCBG	89.1079	07/24/01	3	Sun		
+45	Ceanothus jepsonii var. jepsonii	leaf_size		1.81	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus jepsonii var. jepsonii	B	UCBG	89.1959	07/24/01	4	Sun		
+46	Ceanothus lemmonii	leaf_size		4.77	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus lemmonii	B	UCBG	90.1086	07/24/01	3	Sun		
+53	Ceanothus maritimus	leaf_size		0.73	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCSC	90.11	8/17/01	5	Sun		
+48	Ceanothus maritimus	leaf_size		1.01	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCSC	90.15	8/17/01	5	Sun		
+25	Ceanothus gloriosus var. gloriosus	leaf_size		0.95	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus gloriosus var. gloriosus	B	UCSC	90.31	8/17/01	10	Sun	var name added by default	
+11	Ceanothus cuneatus var. cuneatus	leaf_size		4.82	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. cuneatus	B	UCSC	90.6	8/17/01	5	Shade	shade; var name added by default	
+30	Ceanothus griseus	leaf_size		2.84	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus griseus	B	UCSC	90.770	8/17/01	5	Sun		
+52	Ceanothus maritimus	leaf_size		1.14	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCSC	90.8	8/17/01	5	Sun		
+54	Ceanothus maritimus	leaf_size		0.68	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCSC	90.9	8/17/01	5	Sun		
+8	Ceanothus cuneatus var. cuneatus	leaf_size		0.43	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. cuneatus	B	UCBG	91.1209	07/24/01	4	Sun	var name added by default	
+74	Ceanothus thyrsiflorus	leaf_size		3.69	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	93.0634	07/24/01	6	Sun	var name added by default	
+4	Ceanothus cordulatus	leaf_size		4.55	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cordulatus	B	UCBG	93.1283	07/24/01	5	Sun		
+6	Ceanothus crassifolius	leaf_size		3.55	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus crassifolius	B	UCBG	94.0349	07/24/01	4	Sun		
+24	Ceanothus gloriosus var. exaltatus	leaf_size		5.92	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus gloriosus var. exaltatus	B	UCBG	95.1407	07/24/01	3	Sun		
+5	Ceanothus crassifolius	leaf_size		0.50	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus crassifolius	B	UCBG	98.0647	07/24/01	5	Sun		
+3	Ceanothus arboreus	leaf_size		8.97	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus arboreus	B	UCSC	98.396	8/17/01	4	Sun		
+17	Ceanothus divergens	leaf_size		1.38	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus divergens	B	UCBG	xx	00xxxx	3	Sun		
+19	Ceanothus ferrisiae	leaf_size		1.58	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus ferrisiae	B	UCBG	xx	00xxxx	3	Sun		
+39	Ceanothus incanus	leaf_size		5.91	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus incanus	B	UCBG	xx	00xxxx	3	Sun		
+44	Ceanothus jepsonii var. jepsonii	leaf_size		1.94	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus jepsonii var. jepsonii	B	UCBG	xx	00xxxx	3	Sun		
+59	Ceanothus megacarpus var. megacarpus	leaf_size		4.30	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus megacarpus var. megacarpus	B	UCBG	xx	00xxxx	3	Sun	var name added by default	
+40	Ceanothus incanus	leaf_size		4.92	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus incanus	B	SABG		00xxxx	3	Sun		
+18	Ceanothus diversifolius	leaf_size		0.94	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus diversifolius	B	UCSC		8/17/01	9	Sun		
+31	Ceanothus griseus	leaf_size		3.23	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus griseus	B	UCSC		8/17/01	4	Sun		
+66	Ceanothus papillosus	leaf_size		0.62	cm2								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus papillosus	B	UCSC		8/17/01	6	Sun		
+101	Ceanothus cuneatus var. rigidus	specific_leaf_area		36.09	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. rigidus	B	UCBG	87.1252	03/23/01	5	Sun		
+144	Ceanothus megacarpus var. insularis	specific_leaf_area		24.82	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus megacarpus var. insularis	B	UCSC	88.128	8/17/01	5	Sun		
+127	Ceanothus integerrimus	specific_leaf_area		110.46	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus integerrimus	B	UCBG	90.1566	07/24/01	4	Sun		
+123	Ceanothus impressus	specific_leaf_area		64.04	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus impressus	B	UCBG	90.1691	03/23/01	7	Sun		
+114	Ceanothus griseus	specific_leaf_area		70.43	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus griseus	B	UCSC	2001.56	8/17/01	4	Sun	labelled var. horizontalis, mentioned but not recognized in Jepson	
+172	Cercocarpus betuloides	specific_leaf_area		63.88	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Cercocarpus betuloides	H	UCJEP	56553	02/07/01	3	NA		
+171	Cercocarpus betuloides	specific_leaf_area		82.35	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Cercocarpus betuloides	H	UCJEP	691101	02/07/01	3	NA		
+87	Ceanothus arboreus	specific_leaf_area		115.55	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus arboreus	B	UCBG	770413	00xxxx	3	Sun		
+118	Ceanothus hearstiorum	specific_leaf_area		101.53	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus hearstiorum	B	UCBG	821079	00xxxx	3	Sun		
+153	Ceanothus prostratus	specific_leaf_area		30.75	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus prostratus	B	UCBG	821456	00xxxx	4	Sun		
+108	Ceanothus foliosus	specific_leaf_area		65.19	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus foliosus	B	UCBG	831381	00xxxx	3	Sun		
+95	Ceanothus cuneatus var. cuneatus	specific_leaf_area		51.82	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. cuneatus	B	UCBG	831518	00xxxx	4	Sun	var name added by default	
+167	Ceanothus thyrsiflorus	specific_leaf_area		57.28	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	891973	00xxxx	3	Sun	var name added by default	
+137	Ceanothus maritimus	specific_leaf_area		34.81	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCBG	900052	00xxxx	3	Sun		
+113	Ceanothus gloriosus var. porrectus	specific_leaf_area		43.35	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus gloriosus var. porrectus	B	UCBG	900152	00xxxx	3	Sun		
+129	Ceanothus integerrimus	specific_leaf_area		99.18	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus integerrimus	B	UCBG	901566	00xxxx	3	Sun		
+102	Ceanothus cyaneus	specific_leaf_area		84.88	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cyaneus	B	UCBG	920419	00xxxx	3	Sun		
+147	Ceanothus oliganthus var. oliganthus	specific_leaf_area		82.53	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus oliganthus var. oliganthus	B	UCBG	950575	00xxxx	3	Sun	var name added by default	
+168	Ceanothus tomentosus	specific_leaf_area		72.67	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus tomentosus	B	UCBG	980654	00xxxx	3	Sun		
+169	Ceanothus velutinus var. hookeri	specific_leaf_area		69.65	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus velutinus var. hookeri	B	WPA	112-92*A	09/07/01	2	Sun		
+122	Ceanothus impressus	specific_leaf_area		118.60	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus impressus	B	UCSC	2001.10	8/17/01	10	Sun		
+124	Ceanothus impressus	specific_leaf_area		37.25	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus impressus	B	UCSC	2001.10	8/17/01	10	Sun		
+120	Ceanothus hearstiorum	specific_leaf_area		65.90	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus hearstiorum	B	UCSC	2001.50	8/17/01	10	Sun		
+115	Ceanothus griseus	specific_leaf_area		70.06	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus griseus	B	UCBG	61.1736	07/24/01	4	Sun		
+135	Ceanothus maritimus	specific_leaf_area		38.49	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCBG	64.1194	07/24/01	4	Sun		
+161	Ceanothus thyrsiflorus	specific_leaf_area		84.17	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	77.0173	07/24/01	4	Sun	var name added by default	
+119	Ceanothus hearstiorum	specific_leaf_area		90.91	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus hearstiorum	B	UCBG	77.0416	07/24/01	4	Sun		
+100	Ceanothus cuneatus var. rigidus	specific_leaf_area		56.80	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. rigidus	B	UCSC	78.11	8/17/01	10	Sun		
+107	Ceanothus foliosus	specific_leaf_area		72.80	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus foliosus	B	UCSC	78.140	8/17/01	10	Sun		
+143	Ceanothus megacarpus var. insularis	specific_leaf_area		42.28	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus megacarpus var. insularis	B	UCSC	79.192	8/17/01	10	Sun		
+163	Ceanothus thyrsiflorus	specific_leaf_area		73.38	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	80.0060	07/24/01	4	Sun	var name added by default	
+98	Ceanothus cuneatus var. fascicularis	specific_leaf_area		52.50	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. fascicularis	B	UCBG	80.0115	07/24/01	5	Sun		
+93	Ceanothus crassifolius	specific_leaf_area		23.52	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus crassifolius	B	UCBG	80.0116	07/24/01	6	Sun		
+112	Ceanothus gloriosus var. porrectus	specific_leaf_area		84.73	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus gloriosus var. porrectus	B	UCBG	80.0828	07/24/01	4	Sun		
+157	Ceanothus thyrsiflorus	specific_leaf_area		910.58	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	80.0829	07/24/01	4	Sun		
+149	Ceanothus oliganthus var. sorediatus	specific_leaf_area		92.77	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus oliganthus var. sorediatus	B	UCBG	81.1110	07/24/01	4	Sun		
+151	Ceanothus papillosus	specific_leaf_area		111.98	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus papillosus	B	UCBG	82.0484	07/24/01	5	Sun		
+133	Ceanothus leucodermis	specific_leaf_area		85.81	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus leucodermis	B	UCBG	82.1059	07/24/01	4	Sun		
+136	Ceanothus maritimus	specific_leaf_area		37.94	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCBG	82.1074	07/24/01	5	Sun		
+159	Ceanothus thyrsiflorus	specific_leaf_area		126.85	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	82.1109	07/24/01	4	Sun		
+155	Ceanothus purpureus	specific_leaf_area		31.59	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus purpureus	B	UCBG	82.1375	07/24/01	4	Sun		
+156	Ceanothus spinosus	specific_leaf_area		75.33	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus spinosus	B	UCBG	83.0099	07/24/01	4	Sun		
+150	Ceanothus oliganthus var. sorediatus	specific_leaf_area		80.72	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus oliganthus var. sorediatus	B	UCBG	83.0107	07/24/01	4	Sun		
+164	Ceanothus thyrsiflorus	specific_leaf_area		67.99	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	83.0206	07/24/01	5	Sun	var name added by default	
+106	Ceanothus foliosus	specific_leaf_area		76.73	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus foliosus	B	UCBG	83.1170	07/24/01	6	Sun		
+142	Ceanothus masonii	specific_leaf_area		48.18	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus masonii	B	UCBG	83.1425	07/24/01	4	Sun		
+141	Ceanothus masonii	specific_leaf_area		48.67	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus masonii	B	UCBG	84.0009	07/24/01	4	Sun		
+148	Ceanothus oliganthus var. oliganthus	specific_leaf_area		78.31	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus oliganthus var. oliganthus	B	UCSC	84.320	8/17/01	4	Shade	shade; var name added by default	
+96	Ceanothus cuneatus var. cuneatus	specific_leaf_area		51.53	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. cuneatus	B	UCBG	85.1225	07/24/01	4	Sun	var name added by default	
+170	Ceanothus verrucosus	specific_leaf_area		39.55	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus verrucosus	B	UCBG	86.0883	07/24/01	4	Sun		
+128	Ceanothus integerrimus	specific_leaf_area		101.82	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus integerrimus	B	UCBG	87.1311	07/24/01	6	Sun		
+146	Ceanothus oliganthus var. oliganthus	specific_leaf_area		130.51	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus oliganthus var. oliganthus	B	UCBG	87.1620	07/24/01	6	Sun	var name added by default	
+99	Ceanothus cuneatus var. fascicularis	specific_leaf_area		46.32	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. fascicularis	B	UCBG	88.1259	07/24/01	4	Sun		
+109	Ceanothus gloriosus var. exaltatus	specific_leaf_area		51.26	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus gloriosus var. exaltatus	B	UCBG	88.1281	07/24/01	4	Sun		
+158	Ceanothus thyrsiflorus	specific_leaf_area		144.22	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCSC	88.133	8/17/01	4	Sun		
+165	Ceanothus thyrsiflorus	specific_leaf_area		65.54	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCSC	88.133	8/17/01	6	Sun	var name added by default	
+162	Ceanothus thyrsiflorus	specific_leaf_area		76.76	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCSC	88.137	8/17/01	4	Sun	var name added by default	
+121	Ceanothus hearstiorum	specific_leaf_area			cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus hearstiorum	B	UCSC	88.208	8/17/01	4	Sun		
+154	Ceanothus purpureus	specific_leaf_area		37.42	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus purpureus	B	UCSC	88.208	8/17/01	4	Sun		
+166	Ceanothus thyrsiflorus	specific_leaf_area		63.20	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCSC	88.237	8/17/01	3	Sun	var name added by default	
+88	Ceanothus arboreus	specific_leaf_area		104.80	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus arboreus	B	UCBG	89.1079	07/24/01	3	Sun		
+131	Ceanothus jepsonii var. jepsonii	specific_leaf_area		24.35	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus jepsonii var. jepsonii	B	UCBG	89.1959	07/24/01	4	Sun		
+132	Ceanothus lemmonii	specific_leaf_area		147.02	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus lemmonii	B	UCBG	90.1086	07/24/01	3	Sun		
+139	Ceanothus maritimus	specific_leaf_area		30.51	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCSC	90.11	8/17/01	5	Sun		
+134	Ceanothus maritimus	specific_leaf_area		46.00	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCSC	90.15	8/17/01	5	Sun		
+111	Ceanothus gloriosus var. gloriosus	specific_leaf_area		35.17	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus gloriosus var. gloriosus	B	UCSC	90.31	8/17/01	10	Sun	var name added by default	
+97	Ceanothus cuneatus var. cuneatus	specific_leaf_area		47.24	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. cuneatus	B	UCSC	90.6	8/17/01	5	Shade	shade; var name added by default	
+116	Ceanothus griseus	specific_leaf_area		64.64	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus griseus	B	UCSC	90.770	8/17/01	5	Sun		
+138	Ceanothus maritimus	specific_leaf_area		33.42	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCSC	90.8	8/17/01	5	Sun		
+140	Ceanothus maritimus	specific_leaf_area		17.03	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus maritimus	B	UCSC	90.9	8/17/01	5	Sun		
+94	Ceanothus cuneatus var. cuneatus	specific_leaf_area		57.05	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cuneatus var. cuneatus	B	UCBG	91.1209	07/24/01	4	Sun	var name added by default	
+160	Ceanothus thyrsiflorus	specific_leaf_area		108.16	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus thyrsiflorus	B	UCBG	93.0634	07/24/01	6	Sun	var name added by default	
+90	Ceanothus cordulatus	specific_leaf_area		417.61	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus cordulatus	B	UCBG	93.1283	07/24/01	5	Sun		
+92	Ceanothus crassifolius	specific_leaf_area		27.67	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus crassifolius	B	UCBG	94.0349	07/24/01	4	Sun		
+110	Ceanothus gloriosus var. exaltatus	specific_leaf_area		45.60	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus gloriosus var. exaltatus	B	UCBG	95.1407	07/24/01	3	Sun		
+91	Ceanothus crassifolius	specific_leaf_area		38.66	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus crassifolius	B	UCBG	98.0647	07/24/01	5	Sun		
+89	Ceanothus arboreus	specific_leaf_area		57.90	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus arboreus	B	UCSC	98.396	8/17/01	4	Sun		
+103	Ceanothus divergens	specific_leaf_area		35.52	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus divergens	B	UCBG	xx	00xxxx	3	Sun		
+105	Ceanothus ferrisiae	specific_leaf_area		29.16	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus ferrisiae	B	UCBG	xx	00xxxx	3	Sun		
+125	Ceanothus incanus	specific_leaf_area		89.14	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus incanus	B	UCBG	xx	00xxxx	3	Sun		
+130	Ceanothus jepsonii var. jepsonii	specific_leaf_area		34.47	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus jepsonii var. jepsonii	B	UCBG	xx	00xxxx	3	Sun		
+145	Ceanothus megacarpus var. megacarpus	specific_leaf_area		49.46	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus megacarpus var. megacarpus	B	UCBG	xx	00xxxx	3	Sun	var name added by default	
+126	Ceanothus incanus	specific_leaf_area		71.39	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus incanus	B	SABG		00xxxx	3	Sun		
+104	Ceanothus diversifolius	specific_leaf_area		120.54	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus diversifolius	B	UCSC		8/17/01	9	Sun		
+117	Ceanothus griseus	specific_leaf_area		53.86	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus griseus	B	UCSC		8/17/01	4	Sun		
+152	Ceanothus papillosus	specific_leaf_area		46.80	cm2/g								D. Ackerly	6/29/06	D. Ackerly	6/29/06		Ceanothus papillosus	B	UCSC		8/17/01	6	Sun		

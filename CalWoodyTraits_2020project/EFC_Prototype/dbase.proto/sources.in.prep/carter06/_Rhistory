@@ -1,0 +1,849 @@
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+plot(bt[,2],bt[,1],type='l')
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+plot(bt[,2],bt[,1],type='l')
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+plot(bt[,2],bt[,1],type='l')
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+plot(bt[,2],bt[,1],type='l')
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+bt[1,2]=0#
+#
+ru = runif(steps)#
+ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+for (i in 2:(steps+1)) bt[i,2] = bt[i-1,2]+ru[i]#
+#
+#print(bt)#
+#plot(bt[,2],bt[,1],type='l',xlim=c(-60,60))#
+lines(bt[,2],bt[,1])
+steps = 1000#
+runs = 100#
+bt=array(NA,dim=c(steps,(runs+1)))#
+bt[,1] = 1:steps#
+bt[1,2:(runs+1)]=0
+for (r in 1:runs) {#
+	ru = runif(steps)#
+	ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+	for (i in 2:(steps+1)) bt[i,r+1] = bt[i-1,r+1]+ru[i]#
+}
+bt
+bt[1,]
+bt[2,]
+bt[3,]
+bt[,2]
+bt[,3]
+bt[1,]
+steps = 1000#
+runs = 100#
+bt=array(NA,dim=c(steps,(runs+1)))#
+bt[,1] = 1:steps#
+bt[1,2:(runs+1)]=0#
+#
+for (r in 1:runs) {#
+	ru = runif(steps)#
+	ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+	for (i in 2:steps) bt[i,r+1] = bt[i-1,r+1]+ru[i]#
+}
+xrange=range(bt[,-1])#
+plot(by[,2],by[,1],type='n',xlim=xrange)
+plot(bt[,2],bt[,1],type='n',xlim=xrange)
+for (r in 1:runs) lines(bt[,(r+1)],bt[,1])
+hist(bt[1000,-1])
+bt=array(NA,dim=c(steps,(runs+1)))#
+bt[,1] = 1:steps#
+bt[1,2:(runs+1)]=0#
+#
+for (r in 1:runs) {#
+	ru = runif(steps)#
+	ru[ru<0.5]=-1; ru[ru>=0.5]=1#
+#
+	for (i in 2:steps) bt[i,r+1] = bt[i-1,r+1]+ru[i]#
+}#
+#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlim=xrange)#
+#
+for (r in 1:runs) lines(bt[,(r+1)],bt[,1])
+for (r in 1:runs) {#
+	lines(bt[,(r+1)],bt[,1])#
+	scan()#
+	}
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlim=xrange)
+for (r in 1:runs) {#
+	lines(bt[,(r+1)],bt[,1])#
+	scan()#
+	}
+pdf('run01.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlim=xrange)#
+#
+for (r in 1:1) {#
+	lines(bt[,(r+1)],bt[,1])#
+	scan()#
+	}#
+dev.off()
+pdf('run01.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlim=xrange)#
+#
+for (r in 1:1) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run02.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlim=xrange)#
+#
+for (r in 1:2) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run03.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlim=xrange)#
+#
+for (r in 1:3) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run04.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlim=xrange)#
+#
+for (r in 1:4) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run05.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlim=xrange)#
+#
+for (r in 1:5) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run10.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlim=xrange)#
+#
+for (r in 1:10) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run100.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlim=xrange)#
+#
+for (r in 1:100) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlab='trait value',ylab='time',xlim=xrange)
+pdf('run100.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlab='trait value',ylab='time',xlim=xrange)#
+#
+for (r in 1:100) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run10.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlab='trait value',ylab='time',xlim=xrange)#
+#
+for (r in 1:10) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run5.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlab='trait value',ylab='time',xlim=xrange)#
+#
+for (r in 1:5) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run4.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlab='trait value',ylab='time',xlim=xrange)#
+#
+for (r in 1:4) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run3.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlab='trait value',ylab='time',xlim=xrange)#
+#
+for (r in 1:3) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run2.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlab='trait value',ylab='time',xlim=xrange)#
+#
+for (r in 1:2) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('run1.pdf')#
+xrange=range(bt[,-1])#
+plot(bt[,2],bt[,1],type='n',xlab='trait value',ylab='time',xlim=xrange)#
+#
+for (r in 1:1) {#
+	lines(bt[,(r+1)],bt[,1])#
+	}#
+dev.off()
+pdf('tips.pdf',height=2,width=6)#
+hist(bt[1000,-1])#
+dev.off()
+pdf('tips.pdf',height=2,width=6,xlab='trait value',ylab='',main='')#
+hist(bt[1000,-1])#
+dev.off()
+?hist
+pdf('tips.pdf',height=3,width=6,xlab='trait value',ylab='',main='')#
+hist(bt[1000,-1])#
+dev.off()
+pdf('tips.pdf',height=3,width=6)#
+hist(bt[1000,-1],xlab='trait value',ylab='',main='')#
+dev.off()
+?apply
+bt.var=apply(bt[,-1],margin=1,var)
+bt.var=apply(bt[,-1],margin=1,fun=var)
+var([bt[1,-1])
+var([bt[1,2:101])
+sd([bt[1,2:101])
+sd(bt[1,2:101])
+var(bt[1,2:101])
+bt.var=apply(bt[,-1],margin=1,fun=var)
+bt.var=apply(bt[,-1],margin=1,FUN=var)
+bt.var=apply(bt[,-1],MARGIN=1,FUN=var)
+bt.var
+dim(bt.var)
+length(vt.var)
+length(vt.var)
+length(bt.var)
+plot(bt.var,bt[,1])
+pdf('var.pdf',height=6,width=3)#
+plot(bt.var,bt[,1],xlab='trait var',ylab='',main='')#
+dev.off()
+plot(bt.var,bt[,1],yaxt='n')
+pdf('var.pdf',height=6,width=3)#
+plot(bt.var,bt[,1],xlab='trait var',ylab='',yaxt='n',main='')#
+dev.off()
+ss = funcion(y,m) {#
+	ss = sum(y-m)^2#
+	return(ss)#
+}
+ss = function(y,m) {#
+	ss = sum(y-m)^2#
+	return(ss)#
+}
+ss(tips,m)
+tips = c(1,2,3,4,5)#
+m=3#
+ss(tips,m)
+ss = function(y,m) {#
+	ss = sum((y-m)^2)#
+	return(ss)#
+}#
+tips = c(1,2,3,4,5)#
+m=3#
+ss(tips,m)
+m=4#
+ss(tips,m)
+ss = NULL#
+for (i in 10:50) {#
+	m = i/10#
+	ss[i] = rbind(ss,c(m,ss(tips,m)))#
+}
+ss = function(y,m) {#
+	ss = sum((y-m)^2)#
+	return(ss)#
+}
+mss = NULL#
+for (i in 10:50) {#
+	m = i/10#
+	mss[i] = rbind(mss,c(m,ss(tips,m)))#
+}
+mss
+warnings()
+mss = NULL#
+for (i in 10:50) {#
+	m = i/10#
+	mss = rbind(mss,c(m,ss(tips,m)))#
+}
+mss
+plot(mss)
+plot(mss,type='lines')
+plot(mss,type='l')
+pdf('minvar.pdf',height=4)#
+plot(mss,type='l')#
+dev.off()
+pdf('minvar.pdf',height=3)#
+plot(mss,type='l',xlab='x',cex=2,ylab='sum sq')#
+dev.off()
+ss = function(y,m,bl) {#
+	ss = sum((y-m)^2/bl)#
+	return(ss)#
+}
+tips = c(1,2,3,4,5)#
+bl=c(1,1,1,1,1)#
+mss = NULL#
+for (i in 10:50) {#
+	m = i/10#
+	mss = rbind(mss,c(m,ss(tips,m)))#
+}
+tips = c(1,2,3,4,5)#
+bl=c(1,1,1,1,1)#
+mss = NULL#
+for (i in 10:50) {#
+	m = i/10#
+	mss = rbind(mss,c(m,ss(tips,m,bl)))#
+}
+plot(mss)
+bl=c(1,1,2,2,2)#
+mss = NULL#
+for (i in 10:50) {#
+	m = i/10#
+	mss = rbind(mss,c(m,ss(tips,m,bl)))#
+}
+plot(mss)
+bl=c(1,1,2,2,2)#
+mss = NULL#
+for (i in 10:50) {#
+	m = i/10#
+	mss = rbind(mss,c(m,ss(tips,m,bl)))#
+}#
+pdf('bl1.pdf',width=4,height=2)#
+plot(mss,type='l',xlab='x',cex=2,ylab='sum sq')#
+dev.off()
+pdf('bl1.pdf',width=4,height=3)#
+plot(mss,type='l',xlab='x',cex=2,ylab='sum sq')#
+dev.off()
+bl=c(5,4,3,2,1)#
+mss = NULL#
+for (i in 10:50) {#
+	m = i/10#
+	mss = rbind(mss,c(m,ss(tips,m,bl)))#
+}#
+pdf('bl2.pdf',width=4,height=3)#
+plot(mss,type='l',xlab='x',cex=2,ylab='sum sq')#
+dev.off()
+R
+R=c(1,2,3)
+V=c(1,2,3)
+Z=c(A,B,C)
+Z=c('A','B','C')
+expand.grid(Z,R,V)
+R=c('R1','R2','R3')
+V=c('AV','ER','MX')
+expand.grid(R,V,Z)
+expand.grid(V,R,Z)
+vt
+vt=read.delim('var.pca.test')
+?prinncomp
+?princomp
+names(vt)
+prcomp(vt[,5:8])
+?prcomp
+prcomp(vt[,5:8],scale.=TRUE)
+prcomp(vt[,5:8],scale.=TRUE)->vt.pca
+biplot(vt.pca)
+dim(means)
+means[which((means$species='Avena barbata')&(means$trait='seed mass'))]
+means[which((means$species=='Avena barbata')&(means$trait=='seed mass'))]
+means[which((means$species=='Avena barbata')&(means$trait=='seed mass')),]
+means[1,]
+means[which((means$taxon=='Avena barbata')&(means$trait=='seed mass')),]
+means[which((means$taxon=='Hordeum vulgare')&(means$trait=='seed mass')),]
+means[which((means$genus=='Hordeum')&(means$trait=='seed mass')),]
+names(means)
+means=means[,-10]
+means[which((means$genus=='Hordeum')&(means$trait=='seed mass')),]
+dim(means)
+means[3217,]
+rm(means)
+hansen.sim
+ls()
+library(ouch)
+hansen.dev
+cd
+cd=read.delim('cd.txt')
+names(cd)
+plot(cd$AvAbLat,cd$CondDiam)
+library(quantreg)
+rq=CondDiam~AvAbLat,tau=0.9,data=cd)
+rq(CondDiam~AvAbLat,tau=0.9,data=cd)
+rq(CondDiam~AvAbLat,tau=0.9,data=cd)->cd90
+abline(cd90)
+rq(CondDiam~AvAbLat,tau=0.1,data=cd)->cd10
+abline(cd10)
+rq(CondDiam~AvAbLat,tau=0.95,data=cd)->cd95
+abline(cd95)
+rq(CondDiam~AvAbLat,tau=0.05,data=cd)->cd05
+abline(cd05)
+gb=read.delim('gb.txt')
+names(gb)
+quartz()
+names(gb$AvAbLat,gb$Gb)
+plot(gb$AvAbLat,gb$Gb)
+rq(Gb~AvAbLat,tau=0.05,data=gb)->gb05
+abline(gb05)
+rq(Gb~AvAbLat,tau=0.95,data=gb)->gb95
+abline(gb95)
+cden=read.delim('cden.txt')
+names(cden)
+quartz(
+)
+plot(cden$AvAbLat,cden$CondDen)
+plot(cden$AvAbLat,cden$CondDen,log='y')
+cden$lCondDen=log10(cden$CondDen)
+plot(cden$AvAbLat,cden$lCondDen,)
+rq(lCondDen~AvAbLat,tau=0.95,data=cden)->cden95
+abline(cden95)
+rq(lCondDen~AvAbLat,tau=0.05,data=cden)->cden05
+abline(cden05)
+cd95
+summary(cd95)
+summary(cd05)
+summary(gb05)
+summary(gb95)
+.00002-1.96*.00031
+.00002-.00031
+-.00226+.00098
+summary(cden95)
+summary(cden05)
+.0147+.00153
+.0191-.00131
+gb$AAL2=gb$AvAbLat^2
+gb2 = glm(Gb~AvAbLat+AAL2,data=gb)
+summary(gb2)
+attributes(gb2)
+lines(gb$AvAbLat,gb2$fit)
+lines(gb$AvAbLat[which(!is.na(gb$AvAbLat))],gb2$fit)
+length(gb$AvAbLat)
+length(gb2$fit)
+gb$AvAbLat
+is.na(gb$AbAvLat)
+lines(gb$AbAvLat[which(!is.na(gb$Gb))],gb2$fitted.values[which(!is.na(gb$Gb))])
+points(gb$AbAvLat[which(!is.na(gb$Gb))],gb2$fitted.values[which(!is.na(gb$Gb))],pch=19,cex=2)
+quartz()
+plot(gb$AvAbLat,gb$Gb)
+attributes(gb2)
+plot((gb$AbAvLat[which(!is.na(gb$Gb))],gb2$fitted.values[which(!is.na(gb$Gb))])
+plot(gb$AbAvLat[which(!is.na(gb$Gb))],gb2$fitted.values[which(!is.na(gb$Gb))])
+gb2 = glm(Gb~AvAbLat+AAL2,data=gb)
+gb2.05 = rq(Gb~AvAbLat+AAL2,tau=0.05,data=gb)
+abline(gb2.05)
+attributes(gb2.05)
+plot(gb2.05$AbAvLat[which(!is.na(gb$Gb))],gb2.05$fitted.values[which(!is.na(gb$Gb))])
+plot(gb$AbAvLat[which(!is.na(gb$Gb))],gb2.05$fitted.values[which(!is.na(gb$Gb))])
+plot(gb$AvAbLat,gb$Gb)
+points(gb$AbAvLat[which(!is.na(gb$Gb))],gb2.05$fitted.values[which(!is.na(gb$Gb))],pch=19)
+quartz()
+plot(gb$AbAvLat[which(!is.na(gb$Gb))],gb2.05$fitted.values[which(!is.na(gb$Gb))])
+plot(cd$AbAvLat,cd$CondDiam)
+abline(cd05)
+abline(cd95)
+plot(gb$AvAbLat,gb$Gb)
+abline(gb05)
+abline(gb95)
+plot(cd$AbAvLat,cd$CondDiam,log='x')
+plot(cd$AbAvLat,cd$CondDiam)
+setwd('~/Documents/Projects/EcologicalFloraCal/Prototype/dbase.proto/dbase.scripts')#
+#
+source('efc.R')
+cm=read.delim('carter06matrix.txt')

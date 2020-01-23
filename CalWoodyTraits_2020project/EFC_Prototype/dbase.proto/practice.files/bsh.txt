@@ -1,0 +1,66 @@
+id	taxon	trait	dstate	cval	units	country	state	county	place.name	lat	long	loc.conf_km	created.by	created.date	modified.by	modified.date	notes	source.taxon	ACCNUM	CARD	source.trait	source.value	source.units	source.notes
+725	Ceanothus arboreus	seed_mass		9.257	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus arboreus	BSH-0-1998	2084	seed mass	9.257	mg	
+726	Ceanothus arboreus	seed_mass		17.425	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus arboreus			seed mass	17.425	mg	
+727	Ceanothus arboreus	seed_mass		15.55	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus arboreus	BSH-0-1999	2084	seed mass	15.55	mg	
+728	Ceanothus cordulatus	seed_mass		3.21	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus cordulatus	BSH-0-2000	2085	seed mass	3.21	mg	
+729	Ceanothus cordulatus	seed_mass		2.12	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus cordulatus			seed mass	2.12	mg	
+730	Ceanothus cuneatus var. cuneatus	seed_mass		9.257	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus cuneatus var. cuneatus	BSH-0-2002	2079	seed mass	9.257	mg	
+731	Ceanothus cuneatus var. cuneatus	seed_mass		13	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus cuneatus var. cuneatus	BSH-0-2001	2079	seed mass	13	mg	wells
+764	Ceanothus cuneatus var. cuneatus	seed_mass		8.358	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus cuneatus var. cuneatus	BSH-0-2032	2116	seed mass	8.358	mg	
+765	Ceanothus cuneatus var. rigidus	seed_mass		6.3	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus cuneatus var. rigidus	BSH-0-2034	2117	seed mass	6.3	mg	
+766	Ceanothus cuneatus var. rigidus	seed_mass		5.15	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus cuneatus var. rigidus			seed mass	5.15	mg	
+767	Ceanothus cuneatus var. rigidus	seed_mass		5.725	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus cuneatus var. rigidus			seed mass	5.725	mg	
+768	Ceanothus cuneatus var. rigidus	seed_mass		3.85	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus cuneatus var. rigidus	BSH-0-2033	2117	seed mass	3.85	mg	
+732	Ceanothus dentatus	seed_mass		3.5	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus dentatus	BSH-0-2003	2081	seed mass	3.5	mg	
+733	Ceanothus dentatus	seed_mass		2.471	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus dentatus	BSH-0-2004	2087	seed mass	2.471	mg	
+735	Ceanothus gloriosus var. exaltatus	seed_mass		5.772	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus gloriosus var. exaltatus	BSH-0-2006	2092	seed mass	5.772	mg	
+734	Ceanothus gloriosus var. gloriosus	seed_mass		5.936	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus gloriosus var. gloriosus	BSH-0-2005	2091	seed mass	5.936	mg	
+736	Ceanothus gloriosus var. porrectus	seed_mass		3.76	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus gloriosus var. porrectus	BSH-0-2007	2093	seed mass	3.76	mg	
+737	Ceanothus greggii var. perplexans	seed_mass		7.434	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus greggii var. perplexans	BSH-0-2008	2094	seed mass	7.434	mg	
+739	Ceanothus griseus	seed_mass		2.83	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus griseus	BSH-0-2011	2095	seed mass	2.83	mg	
+741	Ceanothus griseus	seed_mass		2.793	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus griseus	BSH-0-2012	2096	seed mass	2.793	mg	
+742	Ceanothus griseus	seed_mass		2.367	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus griseus	BSH-0-2013	2096	seed mass	2.367	mg	
+743	Ceanothus impressus	seed_mass		4.428	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus impressus	BSH-0-2014	2097	seed mass	4.428	mg	
+744	Ceanothus impressus	seed_mass		4.086	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus impressus			seed mass	4.086	mg	
+745	Ceanothus incanus	seed_mass		5.924	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus incanus	BSH-0-2015	2098	seed mass	5.924	mg	
+746	Ceanothus integerrimus	seed_mass		6.479	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus integerrimus	BSH-0-2016	2099	seed mass	6.479	mg	
+747	Ceanothus integerrimus	seed_mass		4.967	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus integerrimus			seed mass	4.967	mg	
+748	Ceanothus jepsonii var. jepsonii	seed_mass		4.644	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus jepsonii var. jepsonii	BSH-0-2017	2101	seed mass	4.644	mg	
+749	Ceanothus lemmonii	seed_mass		4.354	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus lemmonii	BSH-0-2018	2103	seed mass	4.354	mg	
+750	Ceanothus maritimus	seed_mass		9.445	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus maritimus	BSH-0-2019	2105	seed mass	9.445	mg	
+751	Ceanothus megacarpus var. megacarpus	seed_mass		24.008	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus megacarpus var. megacarpus	BSH-0-2020	2107	seed mass	24.008	mg	Undecipherable comment
+769	Ceanothus oliganthus var. sorediatus	seed_mass		3.714	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus oliganthus var. sorediatus	BSH-0-2035	2119	seed mass	3.714	mg	
+770	Ceanothus oliganthus var. sorediatus	seed_mass		3.048	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus oliganthus var. sorediatus			seed mass	3.048	mg	
+752	Ceanothus palmeri	seed_mass		2.115	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus palmeri	BSH-0-2021	2109	seed mass	2.115	mg	
+753	Ceanothus papillosus var. papillosus	seed_mass		2.195	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus papillosus var. papillosus	BSH-0-2022	2110	seed mass	2.195	mg	
+754	Ceanothus papillosus var. roweanus	seed_mass		2.366	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus papillosus var. roweanus	BSH-0-2025	2111	seed mass	2.366	mg	
+755	Ceanothus papillosus var. roweanus	seed_mass		1.7	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus papillosus var. roweanus	BSH-0-2026	2111	seed mass	1.7	mg	
+756	Ceanothus papillosus var. roweanus	seed_mass		2.545	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus papillosus var. roweanus	BSH-0-2023	2111	seed mass	2.545	mg	
+758	Ceanothus parryi	seed_mass		3.802	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus parryi	BSH-0-2028	2112	seed mass	3.802	mg	
+759	Ceanothus parryi	seed_mass		2.736	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus parryi	BSH-0-2027	2112	seed mass	2.736	mg	
+760	Ceanothus prostratus	seed_mass		6.175	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus prostratus	BSH-0-2029	2114	seed mass	6.175	mg	
+761	Ceanothus prostratus	seed_mass		11.339	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus prostratus			seed mass	11.339	mg	
+763	Ceanothus purpureus	seed_mass		6.83	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus purpureus	BSH-0-2031	2115	seed mass	6.83	mg	
+771	Ceanothus spinosus	seed_mass		7.41	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus spinosus	BSH-0-2036	2120	seed mass	7.41	mg	
+772	Ceanothus thyrsiflorus	seed_mass		1.98	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus thyrsiflorus	BSH-0-2037	2121	seed mass	1.98	mg	
+773	Ceanothus thyrsiflorus	seed_mass		2.05	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus thyrsiflorus			seed mass	2.05	mg	
+774	Ceanothus thyrsiflorus	seed_mass		2.772	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus thyrsiflorus	BSH-0-2038	2122	seed mass	2.772	mg	
+775	Ceanothus tomentosus	seed_mass		2.648	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus tomentosus	BSH-0-2039	2123	seed mass	2.648	mg	flat/aborted
+776	Ceanothus velutinus var. velutinus	seed_mass		4.85	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus velutinus var. velutinus	BSH-0-2040	2125	seed mass	4.85	mg	
+777	Ceanothus verrucosus	seed_mass		4.929	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Ceanothus verrucosus	BSH-0-2041	2126	seed mass	4.929	mg	
+2	Abies magnifica var. magnifica	seed_mass		68.726	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Abies magnifica var. magnifica			seed mass	68.726	mg	
+2801	Picea sitchensis	seed_mass		2.16	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Picea sitchensis	BSH-0-4067	3044	seed mass	2.16	mg	
+2802	Picea sitchensis	seed_mass		1.544	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Picea sitchensis			seed mass	1.544	mg	
+2805	Pinus attenuata	seed_mass		19	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pinus attenuata	BSH-0-4070	3047	seed mass	19	mg	wells with wings
+2806	Pinus attenuata	seed_mass		24.428	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pinus attenuata			seed mass	24.428	mg	
+2807	Pinus contorta ssp. contorta	seed_mass		3.36	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pinus contorta ssp. contorta	BSH-0-4915	3048	seed mass	3.36	mg	
+2808	Pinus lambertiana	seed_mass		215.995	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pinus lambertiana	BSH-0-4927	3053	seed mass	215.995	mg	
+2809	Pinus monophylla	seed_mass		703.18	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pinus monophylla	BSH-0-4926	3054	seed mass	703.18	mg	
+2810	Pinus monophylla	seed_mass		377.992	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pinus monophylla			seed mass	377.992	mg	
+2811	Pinus muricata	seed_mass		13.788	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pinus muricata	BSH-0-4071	3056	seed mass	13.788	mg	
+2812	Pinus muricata	seed_mass		9.072	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pinus muricata			seed mass	9.072	mg	
+2815	Pinus muricata	seed_mass		28.457	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pinus muricata	BSH-0-4074	3061	seed mass	28.457	mg	
+2813	Pinus radiata	seed_mass		21.92	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pinus radiata	BSH-0-4073	3060	seed mass	21.92	mg	
+2814	Pinus radiata	seed_mass		28.349	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pinus radiata	BSH-0-4072	3060	seed mass	28.349	mg	
+2994	Pseudotsuga menziesii var. menziesii	seed_mass		13.957	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pseudotsuga menziesii var. menziesii	BSH-0-4222	3072	seed mass	13.957	mg	
+2995	Pseudotsuga menziesii var. menziesii	seed_mass		9.028	mg	USA	CA						D. Ackerly	6/29/06	D. Ackerly	D. Ackerly	6/29/06	Pseudotsuga menziesii var. menziesii			seed mass	9.028	mg	

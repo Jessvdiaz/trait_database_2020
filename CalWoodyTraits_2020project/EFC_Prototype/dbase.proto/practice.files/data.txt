@@ -1,0 +1,259 @@
+id	means.id	source	source.id	taxon	trait	dstate	cval	units	country	state	county	place	lat	long
+1	6	ackerly04	15	Ceanothus cuneatus var. rigidus	leaf_size	NA	0.49	cm2	NA	NA	NA	NA	NA	NA
+2	25	ackerly04	58	Ceanothus megacarpus var. insularis	leaf_size	NA	1.69	cm2	NA	NA	NA	NA	NA	NA
+3	19	ackerly04	41	Ceanothus integerrimus	leaf_size	NA	5.44	cm2	NA	NA	NA	NA	NA	NA
+4	17	ackerly04	37	Ceanothus impressus	leaf_size	NA	0.16	cm2	NA	NA	NA	NA	NA	NA
+5	15	ackerly04	28	Ceanothus griseus	leaf_size	NA	3.52	cm2	NA	NA	NA	NA	NA	NA
+6	37	ackerly04	86	Cercocarpus betuloides	leaf_size	NA	2.85	cm2	NA	NA	NA	NA	NA	NA
+7	37	ackerly04	85	Cercocarpus betuloides	leaf_size	NA	1.11	cm2	NA	NA	NA	NA	NA	NA
+8	1	ackerly04	1	Ceanothus arboreus	leaf_size	NA	15.13	cm2	NA	NA	NA	NA	NA	NA
+9	16	ackerly04	32	Ceanothus hearstiorum	leaf_size	NA	1.61	cm2	NA	NA	NA	NA	NA	NA
+10	30	ackerly04	67	Ceanothus prostratus	leaf_size	NA	0.63	cm2	NA	NA	NA	NA	NA	NA
+11	11	ackerly04	22	Ceanothus foliosus	leaf_size	NA	0.35	cm2	NA	NA	NA	NA	NA	NA
+12	4	ackerly04	9	Ceanothus cuneatus var. cuneatus	leaf_size	NA	1.1	cm2	NA	NA	NA	NA	NA	NA
+13	33	ackerly04	81	Ceanothus thyrsiflorus	leaf_size	NA	3.85	cm2	NA	NA	NA	NA	NA	NA
+14	23	ackerly04	51	Ceanothus maritimus	leaf_size	NA	1.87	cm2	NA	NA	NA	NA	NA	NA
+15	14	ackerly04	27	Ceanothus gloriosus var. porrectus	leaf_size	NA	0.7	cm2	NA	NA	NA	NA	NA	NA
+16	19	ackerly04	43	Ceanothus integerrimus	leaf_size	NA	5.03	cm2	NA	NA	NA	NA	NA	NA
+17	7	ackerly04	16	Ceanothus cyaneus	leaf_size	NA	4.69	cm2	NA	NA	NA	NA	NA	NA
+18	27	ackerly04	61	Ceanothus oliganthus var. oliganthus	leaf_size	NA	3.76	cm2	NA	NA	NA	NA	NA	NA
+19	34	ackerly04	82	Ceanothus tomentosus	leaf_size	NA	1.97	cm2	NA	NA	NA	NA	NA	NA
+20	35	ackerly04	83	Ceanothus velutinus var. hookeri	leaf_size	NA	35.42	cm2	NA	NA	NA	NA	NA	NA
+21	17	ackerly04	36	Ceanothus impressus	leaf_size	NA	0.12	cm2	NA	NA	NA	NA	NA	NA
+22	17	ackerly04	38	Ceanothus impressus	leaf_size	NA	0.07	cm2	NA	NA	NA	NA	NA	NA
+23	16	ackerly04	34	Ceanothus hearstiorum	leaf_size	NA	0.4	cm2	NA	NA	NA	NA	NA	NA
+24	15	ackerly04	29	Ceanothus griseus	leaf_size	NA	3.7	cm2	NA	NA	NA	NA	NA	NA
+25	23	ackerly04	49	Ceanothus maritimus	leaf_size	NA	1.64	cm2	NA	NA	NA	NA	NA	NA
+26	33	ackerly04	75	Ceanothus thyrsiflorus	leaf_size	NA	7.27	cm2	NA	NA	NA	NA	NA	NA
+27	16	ackerly04	33	Ceanothus hearstiorum	leaf_size	NA	1.23	cm2	NA	NA	NA	NA	NA	NA
+28	6	ackerly04	14	Ceanothus cuneatus var. rigidus	leaf_size	NA	0.23	cm2	NA	NA	NA	NA	NA	NA
+29	11	ackerly04	21	Ceanothus foliosus	leaf_size	NA	0.15	cm2	NA	NA	NA	NA	NA	NA
+30	25	ackerly04	57	Ceanothus megacarpus var. insularis	leaf_size	NA	1.01	cm2	NA	NA	NA	NA	NA	NA
+31	33	ackerly04	77	Ceanothus thyrsiflorus	leaf_size	NA	4.02	cm2	NA	NA	NA	NA	NA	NA
+32	5	ackerly04	12	Ceanothus cuneatus var. fascicularis	leaf_size	NA	0.69	cm2	NA	NA	NA	NA	NA	NA
+33	3	ackerly04	7	Ceanothus crassifolius	leaf_size	NA	4.45	cm2	NA	NA	NA	NA	NA	NA
+34	14	ackerly04	26	Ceanothus gloriosus var. porrectus	leaf_size	NA	2.8	cm2	NA	NA	NA	NA	NA	NA
+35	33	ackerly04	71	Ceanothus thyrsiflorus	leaf_size	NA	18.51	cm2	NA	NA	NA	NA	NA	NA
+36	28	ackerly04	63	Ceanothus oliganthus var. sorediatus	leaf_size	NA	2.18	cm2	NA	NA	NA	NA	NA	NA
+37	29	ackerly04	65	Ceanothus papillosus	leaf_size	NA	4.47	cm2	NA	NA	NA	NA	NA	NA
+38	22	ackerly04	47	Ceanothus leucodermis	leaf_size	NA	3.22	cm2	NA	NA	NA	NA	NA	NA
+39	23	ackerly04	50	Ceanothus maritimus	leaf_size	NA	0.96	cm2	NA	NA	NA	NA	NA	NA
+40	33	ackerly04	73	Ceanothus thyrsiflorus	leaf_size	NA	2.53	cm2	NA	NA	NA	NA	NA	NA
+41	31	ackerly04	69	Ceanothus purpureus	leaf_size	NA	1.92	cm2	NA	NA	NA	NA	NA	NA
+42	32	ackerly04	70	Ceanothus spinosus	leaf_size	NA	4.05	cm2	NA	NA	NA	NA	NA	NA
+43	28	ackerly04	64	Ceanothus oliganthus var. sorediatus	leaf_size	NA	2.92	cm2	NA	NA	NA	NA	NA	NA
+44	33	ackerly04	78	Ceanothus thyrsiflorus	leaf_size	NA	1.55	cm2	NA	NA	NA	NA	NA	NA
+45	11	ackerly04	20	Ceanothus foliosus	leaf_size	NA	1.41	cm2	NA	NA	NA	NA	NA	NA
+46	24	ackerly04	56	Ceanothus masonii	leaf_size	NA	1.62	cm2	NA	NA	NA	NA	NA	NA
+47	24	ackerly04	55	Ceanothus masonii	leaf_size	NA	1.92	cm2	NA	NA	NA	NA	NA	NA
+48	27	ackerly04	62	Ceanothus oliganthus var. oliganthus	leaf_size	NA	2.35	cm2	NA	NA	NA	NA	NA	NA
+49	4	ackerly04	10	Ceanothus cuneatus var. cuneatus	leaf_size	NA	0.59	cm2	NA	NA	NA	NA	NA	NA
+50	36	ackerly04	84	Ceanothus verrucosus	leaf_size	NA	1.71	cm2	NA	NA	NA	NA	NA	NA
+51	19	ackerly04	42	Ceanothus integerrimus	leaf_size	NA	2.61	cm2	NA	NA	NA	NA	NA	NA
+52	27	ackerly04	60	Ceanothus oliganthus var. oliganthus	leaf_size	NA	3.01	cm2	NA	NA	NA	NA	NA	NA
+53	5	ackerly04	13	Ceanothus cuneatus var. fascicularis	leaf_size	NA	1.2	cm2	NA	NA	NA	NA	NA	NA
+54	12	ackerly04	23	Ceanothus gloriosus var. exaltatus	leaf_size	NA	4.66	cm2	NA	NA	NA	NA	NA	NA
+55	33	ackerly04	72	Ceanothus thyrsiflorus	leaf_size	NA	2.16	cm2	NA	NA	NA	NA	NA	NA
+56	33	ackerly04	79	Ceanothus thyrsiflorus	leaf_size	NA	2.73	cm2	NA	NA	NA	NA	NA	NA
+57	33	ackerly04	76	Ceanothus thyrsiflorus	leaf_size	NA	3.07	cm2	NA	NA	NA	NA	NA	NA
+58	16	ackerly04	35	Ceanothus hearstiorum	leaf_size	NA	3.27	cm2	NA	NA	NA	NA	NA	NA
+59	31	ackerly04	68	Ceanothus purpureus	leaf_size	NA	3.27	cm2	NA	NA	NA	NA	NA	NA
+60	33	ackerly04	80	Ceanothus thyrsiflorus	leaf_size	NA	3.79	cm2	NA	NA	NA	NA	NA	NA
+61	1	ackerly04	2	Ceanothus arboreus	leaf_size	NA	23.72	cm2	NA	NA	NA	NA	NA	NA
+62	20	ackerly04	45	Ceanothus jepsonii var. jepsonii	leaf_size	NA	1.81	cm2	NA	NA	NA	NA	NA	NA
+63	21	ackerly04	46	Ceanothus lemmonii	leaf_size	NA	4.77	cm2	NA	NA	NA	NA	NA	NA
+64	23	ackerly04	53	Ceanothus maritimus	leaf_size	NA	0.73	cm2	NA	NA	NA	NA	NA	NA
+65	23	ackerly04	48	Ceanothus maritimus	leaf_size	NA	1.01	cm2	NA	NA	NA	NA	NA	NA
+66	13	ackerly04	25	Ceanothus gloriosus var. gloriosus	leaf_size	NA	0.95	cm2	NA	NA	NA	NA	NA	NA
+67	4	ackerly04	11	Ceanothus cuneatus var. cuneatus	leaf_size	NA	4.82	cm2	NA	NA	NA	NA	NA	NA
+68	15	ackerly04	30	Ceanothus griseus	leaf_size	NA	2.84	cm2	NA	NA	NA	NA	NA	NA
+69	23	ackerly04	52	Ceanothus maritimus	leaf_size	NA	1.14	cm2	NA	NA	NA	NA	NA	NA
+70	23	ackerly04	54	Ceanothus maritimus	leaf_size	NA	0.68	cm2	NA	NA	NA	NA	NA	NA
+71	4	ackerly04	8	Ceanothus cuneatus var. cuneatus	leaf_size	NA	0.43	cm2	NA	NA	NA	NA	NA	NA
+72	33	ackerly04	74	Ceanothus thyrsiflorus	leaf_size	NA	3.69	cm2	NA	NA	NA	NA	NA	NA
+73	2	ackerly04	4	Ceanothus cordulatus	leaf_size	NA	4.55	cm2	NA	NA	NA	NA	NA	NA
+74	3	ackerly04	6	Ceanothus crassifolius	leaf_size	NA	3.55	cm2	NA	NA	NA	NA	NA	NA
+75	12	ackerly04	24	Ceanothus gloriosus var. exaltatus	leaf_size	NA	5.92	cm2	NA	NA	NA	NA	NA	NA
+76	3	ackerly04	5	Ceanothus crassifolius	leaf_size	NA	0.5	cm2	NA	NA	NA	NA	NA	NA
+77	1	ackerly04	3	Ceanothus arboreus	leaf_size	NA	8.97	cm2	NA	NA	NA	NA	NA	NA
+78	8	ackerly04	17	Ceanothus divergens	leaf_size	NA	1.38	cm2	NA	NA	NA	NA	NA	NA
+79	10	ackerly04	19	Ceanothus ferrisiae	leaf_size	NA	1.58	cm2	NA	NA	NA	NA	NA	NA
+80	18	ackerly04	39	Ceanothus incanus	leaf_size	NA	5.91	cm2	NA	NA	NA	NA	NA	NA
+81	20	ackerly04	44	Ceanothus jepsonii var. jepsonii	leaf_size	NA	1.94	cm2	NA	NA	NA	NA	NA	NA
+82	26	ackerly04	59	Ceanothus megacarpus var. megacarpus	leaf_size	NA	4.3	cm2	NA	NA	NA	NA	NA	NA
+83	18	ackerly04	40	Ceanothus incanus	leaf_size	NA	4.92	cm2	NA	NA	NA	NA	NA	NA
+84	9	ackerly04	18	Ceanothus diversifolius	leaf_size	NA	0.94	cm2	NA	NA	NA	NA	NA	NA
+85	15	ackerly04	31	Ceanothus griseus	leaf_size	NA	3.23	cm2	NA	NA	NA	NA	NA	NA
+86	29	ackerly04	66	Ceanothus papillosus	leaf_size	NA	0.62	cm2	NA	NA	NA	NA	NA	NA
+87	43	ackerly04	101	Ceanothus cuneatus var. rigidus	specific_leaf_area	NA	36.09	cm2/g	NA	NA	NA	NA	NA	NA
+88	62	ackerly04	144	Ceanothus megacarpus var. insularis	specific_leaf_area	NA	24.82	cm2/g	NA	NA	NA	NA	NA	NA
+89	56	ackerly04	127	Ceanothus integerrimus	specific_leaf_area	NA	110.46	cm2/g	NA	NA	NA	NA	NA	NA
+90	54	ackerly04	123	Ceanothus impressus	specific_leaf_area	NA	64.04	cm2/g	NA	NA	NA	NA	NA	NA
+91	52	ackerly04	114	Ceanothus griseus	specific_leaf_area	NA	70.43	cm2/g	NA	NA	NA	NA	NA	NA
+92	74	ackerly04	172	Cercocarpus betuloides	specific_leaf_area	NA	63.88	cm2/g	NA	NA	NA	NA	NA	NA
+93	74	ackerly04	171	Cercocarpus betuloides	specific_leaf_area	NA	82.35	cm2/g	NA	NA	NA	NA	NA	NA
+94	38	ackerly04	87	Ceanothus arboreus	specific_leaf_area	NA	115.55	cm2/g	NA	NA	NA	NA	NA	NA
+95	53	ackerly04	118	Ceanothus hearstiorum	specific_leaf_area	NA	101.53	cm2/g	NA	NA	NA	NA	NA	NA
+96	67	ackerly04	153	Ceanothus prostratus	specific_leaf_area	NA	30.75	cm2/g	NA	NA	NA	NA	NA	NA
+97	48	ackerly04	108	Ceanothus foliosus	specific_leaf_area	NA	65.19	cm2/g	NA	NA	NA	NA	NA	NA
+98	41	ackerly04	95	Ceanothus cuneatus var. cuneatus	specific_leaf_area	NA	51.82	cm2/g	NA	NA	NA	NA	NA	NA
+99	70	ackerly04	167	Ceanothus thyrsiflorus	specific_leaf_area	NA	57.28	cm2/g	NA	NA	NA	NA	NA	NA
+100	60	ackerly04	137	Ceanothus maritimus	specific_leaf_area	NA	34.81	cm2/g	NA	NA	NA	NA	NA	NA
+101	51	ackerly04	113	Ceanothus gloriosus var. porrectus	specific_leaf_area	NA	43.35	cm2/g	NA	NA	NA	NA	NA	NA
+102	56	ackerly04	129	Ceanothus integerrimus	specific_leaf_area	NA	99.18	cm2/g	NA	NA	NA	NA	NA	NA
+103	44	ackerly04	102	Ceanothus cyaneus	specific_leaf_area	NA	84.88	cm2/g	NA	NA	NA	NA	NA	NA
+104	64	ackerly04	147	Ceanothus oliganthus var. oliganthus	specific_leaf_area	NA	82.53	cm2/g	NA	NA	NA	NA	NA	NA
+105	71	ackerly04	168	Ceanothus tomentosus	specific_leaf_area	NA	72.67	cm2/g	NA	NA	NA	NA	NA	NA
+106	72	ackerly04	169	Ceanothus velutinus var. hookeri	specific_leaf_area	NA	69.65	cm2/g	NA	NA	NA	NA	NA	NA
+107	54	ackerly04	122	Ceanothus impressus	specific_leaf_area	NA	118.6	cm2/g	NA	NA	NA	NA	NA	NA
+108	54	ackerly04	124	Ceanothus impressus	specific_leaf_area	NA	37.25	cm2/g	NA	NA	NA	NA	NA	NA
+109	53	ackerly04	120	Ceanothus hearstiorum	specific_leaf_area	NA	65.9	cm2/g	NA	NA	NA	NA	NA	NA
+110	52	ackerly04	115	Ceanothus griseus	specific_leaf_area	NA	70.06	cm2/g	NA	NA	NA	NA	NA	NA
+111	60	ackerly04	135	Ceanothus maritimus	specific_leaf_area	NA	38.49	cm2/g	NA	NA	NA	NA	NA	NA
+112	70	ackerly04	161	Ceanothus thyrsiflorus	specific_leaf_area	NA	84.17	cm2/g	NA	NA	NA	NA	NA	NA
+113	53	ackerly04	119	Ceanothus hearstiorum	specific_leaf_area	NA	90.91	cm2/g	NA	NA	NA	NA	NA	NA
+114	43	ackerly04	100	Ceanothus cuneatus var. rigidus	specific_leaf_area	NA	56.8	cm2/g	NA	NA	NA	NA	NA	NA
+115	48	ackerly04	107	Ceanothus foliosus	specific_leaf_area	NA	72.8	cm2/g	NA	NA	NA	NA	NA	NA
+116	62	ackerly04	143	Ceanothus megacarpus var. insularis	specific_leaf_area	NA	42.28	cm2/g	NA	NA	NA	NA	NA	NA
+117	70	ackerly04	163	Ceanothus thyrsiflorus	specific_leaf_area	NA	73.38	cm2/g	NA	NA	NA	NA	NA	NA
+118	42	ackerly04	98	Ceanothus cuneatus var. fascicularis	specific_leaf_area	NA	52.5	cm2/g	NA	NA	NA	NA	NA	NA
+119	40	ackerly04	93	Ceanothus crassifolius	specific_leaf_area	NA	23.52	cm2/g	NA	NA	NA	NA	NA	NA
+120	51	ackerly04	112	Ceanothus gloriosus var. porrectus	specific_leaf_area	NA	84.73	cm2/g	NA	NA	NA	NA	NA	NA
+121	70	ackerly04	157	Ceanothus thyrsiflorus	specific_leaf_area	NA	910.58	cm2/g	NA	NA	NA	NA	NA	NA
+122	65	ackerly04	149	Ceanothus oliganthus var. sorediatus	specific_leaf_area	NA	92.77	cm2/g	NA	NA	NA	NA	NA	NA
+123	66	ackerly04	151	Ceanothus papillosus	specific_leaf_area	NA	111.98	cm2/g	NA	NA	NA	NA	NA	NA
+124	59	ackerly04	133	Ceanothus leucodermis	specific_leaf_area	NA	85.81	cm2/g	NA	NA	NA	NA	NA	NA
+125	60	ackerly04	136	Ceanothus maritimus	specific_leaf_area	NA	37.94	cm2/g	NA	NA	NA	NA	NA	NA
+126	70	ackerly04	159	Ceanothus thyrsiflorus	specific_leaf_area	NA	126.85	cm2/g	NA	NA	NA	NA	NA	NA
+127	68	ackerly04	155	Ceanothus purpureus	specific_leaf_area	NA	31.59	cm2/g	NA	NA	NA	NA	NA	NA
+128	69	ackerly04	156	Ceanothus spinosus	specific_leaf_area	NA	75.33	cm2/g	NA	NA	NA	NA	NA	NA
+129	65	ackerly04	150	Ceanothus oliganthus var. sorediatus	specific_leaf_area	NA	80.72	cm2/g	NA	NA	NA	NA	NA	NA
+130	70	ackerly04	164	Ceanothus thyrsiflorus	specific_leaf_area	NA	67.99	cm2/g	NA	NA	NA	NA	NA	NA
+131	48	ackerly04	106	Ceanothus foliosus	specific_leaf_area	NA	76.73	cm2/g	NA	NA	NA	NA	NA	NA
+132	61	ackerly04	142	Ceanothus masonii	specific_leaf_area	NA	48.18	cm2/g	NA	NA	NA	NA	NA	NA
+133	61	ackerly04	141	Ceanothus masonii	specific_leaf_area	NA	48.67	cm2/g	NA	NA	NA	NA	NA	NA
+134	64	ackerly04	148	Ceanothus oliganthus var. oliganthus	specific_leaf_area	NA	78.31	cm2/g	NA	NA	NA	NA	NA	NA
+135	41	ackerly04	96	Ceanothus cuneatus var. cuneatus	specific_leaf_area	NA	51.53	cm2/g	NA	NA	NA	NA	NA	NA
+136	73	ackerly04	170	Ceanothus verrucosus	specific_leaf_area	NA	39.55	cm2/g	NA	NA	NA	NA	NA	NA
+137	56	ackerly04	128	Ceanothus integerrimus	specific_leaf_area	NA	101.82	cm2/g	NA	NA	NA	NA	NA	NA
+138	64	ackerly04	146	Ceanothus oliganthus var. oliganthus	specific_leaf_area	NA	130.51	cm2/g	NA	NA	NA	NA	NA	NA
+139	42	ackerly04	99	Ceanothus cuneatus var. fascicularis	specific_leaf_area	NA	46.32	cm2/g	NA	NA	NA	NA	NA	NA
+140	49	ackerly04	109	Ceanothus gloriosus var. exaltatus	specific_leaf_area	NA	51.26	cm2/g	NA	NA	NA	NA	NA	NA
+141	70	ackerly04	158	Ceanothus thyrsiflorus	specific_leaf_area	NA	144.22	cm2/g	NA	NA	NA	NA	NA	NA
+142	70	ackerly04	165	Ceanothus thyrsiflorus	specific_leaf_area	NA	65.54	cm2/g	NA	NA	NA	NA	NA	NA
+143	70	ackerly04	162	Ceanothus thyrsiflorus	specific_leaf_area	NA	76.76	cm2/g	NA	NA	NA	NA	NA	NA
+144	53	ackerly04	121	Ceanothus hearstiorum	specific_leaf_area	NA	NA	cm2/g	NA	NA	NA	NA	NA	NA
+145	68	ackerly04	154	Ceanothus purpureus	specific_leaf_area	NA	37.42	cm2/g	NA	NA	NA	NA	NA	NA
+146	70	ackerly04	166	Ceanothus thyrsiflorus	specific_leaf_area	NA	63.2	cm2/g	NA	NA	NA	NA	NA	NA
+147	38	ackerly04	88	Ceanothus arboreus	specific_leaf_area	NA	104.8	cm2/g	NA	NA	NA	NA	NA	NA
+148	57	ackerly04	131	Ceanothus jepsonii var. jepsonii	specific_leaf_area	NA	24.35	cm2/g	NA	NA	NA	NA	NA	NA
+149	58	ackerly04	132	Ceanothus lemmonii	specific_leaf_area	NA	147.02	cm2/g	NA	NA	NA	NA	NA	NA
+150	60	ackerly04	139	Ceanothus maritimus	specific_leaf_area	NA	30.51	cm2/g	NA	NA	NA	NA	NA	NA
+151	60	ackerly04	134	Ceanothus maritimus	specific_leaf_area	NA	46	cm2/g	NA	NA	NA	NA	NA	NA
+152	50	ackerly04	111	Ceanothus gloriosus var. gloriosus	specific_leaf_area	NA	35.17	cm2/g	NA	NA	NA	NA	NA	NA
+153	41	ackerly04	97	Ceanothus cuneatus var. cuneatus	specific_leaf_area	NA	47.24	cm2/g	NA	NA	NA	NA	NA	NA
+154	52	ackerly04	116	Ceanothus griseus	specific_leaf_area	NA	64.64	cm2/g	NA	NA	NA	NA	NA	NA
+155	60	ackerly04	138	Ceanothus maritimus	specific_leaf_area	NA	33.42	cm2/g	NA	NA	NA	NA	NA	NA
+156	60	ackerly04	140	Ceanothus maritimus	specific_leaf_area	NA	17.03	cm2/g	NA	NA	NA	NA	NA	NA
+157	41	ackerly04	94	Ceanothus cuneatus var. cuneatus	specific_leaf_area	NA	57.05	cm2/g	NA	NA	NA	NA	NA	NA
+158	70	ackerly04	160	Ceanothus thyrsiflorus	specific_leaf_area	NA	108.16	cm2/g	NA	NA	NA	NA	NA	NA
+159	39	ackerly04	90	Ceanothus cordulatus	specific_leaf_area	NA	417.61	cm2/g	NA	NA	NA	NA	NA	NA
+160	40	ackerly04	92	Ceanothus crassifolius	specific_leaf_area	NA	27.67	cm2/g	NA	NA	NA	NA	NA	NA
+161	49	ackerly04	110	Ceanothus gloriosus var. exaltatus	specific_leaf_area	NA	45.6	cm2/g	NA	NA	NA	NA	NA	NA
+162	40	ackerly04	91	Ceanothus crassifolius	specific_leaf_area	NA	38.66	cm2/g	NA	NA	NA	NA	NA	NA
+163	38	ackerly04	89	Ceanothus arboreus	specific_leaf_area	NA	57.9	cm2/g	NA	NA	NA	NA	NA	NA
+164	45	ackerly04	103	Ceanothus divergens	specific_leaf_area	NA	35.52	cm2/g	NA	NA	NA	NA	NA	NA
+165	47	ackerly04	105	Ceanothus ferrisiae	specific_leaf_area	NA	29.16	cm2/g	NA	NA	NA	NA	NA	NA
+166	55	ackerly04	125	Ceanothus incanus	specific_leaf_area	NA	89.14	cm2/g	NA	NA	NA	NA	NA	NA
+167	57	ackerly04	130	Ceanothus jepsonii var. jepsonii	specific_leaf_area	NA	34.47	cm2/g	NA	NA	NA	NA	NA	NA
+168	63	ackerly04	145	Ceanothus megacarpus var. megacarpus	specific_leaf_area	NA	49.46	cm2/g	NA	NA	NA	NA	NA	NA
+169	55	ackerly04	126	Ceanothus incanus	specific_leaf_area	NA	71.39	cm2/g	NA	NA	NA	NA	NA	NA
+170	46	ackerly04	104	Ceanothus diversifolius	specific_leaf_area	NA	120.54	cm2/g	NA	NA	NA	NA	NA	NA
+171	52	ackerly04	117	Ceanothus griseus	specific_leaf_area	NA	53.86	cm2/g	NA	NA	NA	NA	NA	NA
+172	66	ackerly04	152	Ceanothus papillosus	specific_leaf_area	NA	46.8	cm2/g	NA	NA	NA	NA	NA	NA
+173	75	bsh	725	Ceanothus arboreus	seed_mass	NA	9.257	mg	USA	CA	NA	NA	NA	NA
+174	75	bsh	726	Ceanothus arboreus	seed_mass	NA	17.425	mg	USA	CA	NA	NA	NA	NA
+175	75	bsh	727	Ceanothus arboreus	seed_mass	NA	15.55	mg	USA	CA	NA	NA	NA	NA
+176	76	bsh	728	Ceanothus cordulatus	seed_mass	NA	3.21	mg	USA	CA	NA	NA	NA	NA
+177	76	bsh	729	Ceanothus cordulatus	seed_mass	NA	2.12	mg	USA	CA	NA	NA	NA	NA
+178	77	bsh	730	Ceanothus cuneatus var. cuneatus	seed_mass	NA	9.257	mg	USA	CA	NA	NA	NA	NA
+179	77	bsh	731	Ceanothus cuneatus var. cuneatus	seed_mass	NA	13	mg	USA	CA	NA	NA	NA	NA
+180	77	bsh	764	Ceanothus cuneatus var. cuneatus	seed_mass	NA	8.358	mg	USA	CA	NA	NA	NA	NA
+181	78	bsh	765	Ceanothus cuneatus var. rigidus	seed_mass	NA	6.3	mg	USA	CA	NA	NA	NA	NA
+182	78	bsh	766	Ceanothus cuneatus var. rigidus	seed_mass	NA	5.15	mg	USA	CA	NA	NA	NA	NA
+183	78	bsh	767	Ceanothus cuneatus var. rigidus	seed_mass	NA	5.725	mg	USA	CA	NA	NA	NA	NA
+184	78	bsh	768	Ceanothus cuneatus var. rigidus	seed_mass	NA	3.85	mg	USA	CA	NA	NA	NA	NA
+185	98	bsh	732	Ceanothus dentatus	seed_mass	NA	3.5	mg	USA	CA	NA	NA	NA	NA
+186	98	bsh	733	Ceanothus dentatus	seed_mass	NA	2.471	mg	USA	CA	NA	NA	NA	NA
+187	79	bsh	735	Ceanothus gloriosus var. exaltatus	seed_mass	NA	5.772	mg	USA	CA	NA	NA	NA	NA
+188	80	bsh	734	Ceanothus gloriosus var. gloriosus	seed_mass	NA	5.936	mg	USA	CA	NA	NA	NA	NA
+189	81	bsh	736	Ceanothus gloriosus var. porrectus	seed_mass	NA	3.76	mg	USA	CA	NA	NA	NA	NA
+190	99	bsh	737	Ceanothus greggii var. perplexans	seed_mass	NA	7.434	mg	USA	CA	NA	NA	NA	NA
+191	82	bsh	739	Ceanothus griseus	seed_mass	NA	2.83	mg	USA	CA	NA	NA	NA	NA
+192	82	bsh	741	Ceanothus griseus	seed_mass	NA	2.793	mg	USA	CA	NA	NA	NA	NA
+193	82	bsh	742	Ceanothus griseus	seed_mass	NA	2.367	mg	USA	CA	NA	NA	NA	NA
+194	83	bsh	743	Ceanothus impressus	seed_mass	NA	4.428	mg	USA	CA	NA	NA	NA	NA
+195	83	bsh	744	Ceanothus impressus	seed_mass	NA	4.086	mg	USA	CA	NA	NA	NA	NA
+196	84	bsh	745	Ceanothus incanus	seed_mass	NA	5.924	mg	USA	CA	NA	NA	NA	NA
+197	85	bsh	746	Ceanothus integerrimus	seed_mass	NA	6.479	mg	USA	CA	NA	NA	NA	NA
+198	85	bsh	747	Ceanothus integerrimus	seed_mass	NA	4.967	mg	USA	CA	NA	NA	NA	NA
+199	86	bsh	748	Ceanothus jepsonii var. jepsonii	seed_mass	NA	4.644	mg	USA	CA	NA	NA	NA	NA
+200	87	bsh	749	Ceanothus lemmonii	seed_mass	NA	4.354	mg	USA	CA	NA	NA	NA	NA
+201	88	bsh	750	Ceanothus maritimus	seed_mass	NA	9.445	mg	USA	CA	NA	NA	NA	NA
+202	89	bsh	751	Ceanothus megacarpus var. megacarpus	seed_mass	NA	24.008	mg	USA	CA	NA	NA	NA	NA
+203	90	bsh	769	Ceanothus oliganthus var. sorediatus	seed_mass	NA	3.714	mg	USA	CA	NA	NA	NA	NA
+204	90	bsh	770	Ceanothus oliganthus var. sorediatus	seed_mass	NA	3.048	mg	USA	CA	NA	NA	NA	NA
+205	100	bsh	752	Ceanothus palmeri	seed_mass	NA	2.115	mg	USA	CA	NA	NA	NA	NA
+206	101	bsh	753	Ceanothus papillosus var. papillosus	seed_mass	NA	2.195	mg	USA	CA	NA	NA	NA	NA
+207	102	bsh	754	Ceanothus papillosus var. roweanus	seed_mass	NA	2.366	mg	USA	CA	NA	NA	NA	NA
+208	102	bsh	755	Ceanothus papillosus var. roweanus	seed_mass	NA	1.7	mg	USA	CA	NA	NA	NA	NA
+209	102	bsh	756	Ceanothus papillosus var. roweanus	seed_mass	NA	2.545	mg	USA	CA	NA	NA	NA	NA
+210	103	bsh	758	Ceanothus parryi	seed_mass	NA	3.802	mg	USA	CA	NA	NA	NA	NA
+211	103	bsh	759	Ceanothus parryi	seed_mass	NA	2.736	mg	USA	CA	NA	NA	NA	NA
+212	91	bsh	760	Ceanothus prostratus	seed_mass	NA	6.175	mg	USA	CA	NA	NA	NA	NA
+213	91	bsh	761	Ceanothus prostratus	seed_mass	NA	11.339	mg	USA	CA	NA	NA	NA	NA
+214	92	bsh	763	Ceanothus purpureus	seed_mass	NA	6.83	mg	USA	CA	NA	NA	NA	NA
+215	93	bsh	771	Ceanothus spinosus	seed_mass	NA	7.41	mg	USA	CA	NA	NA	NA	NA
+216	94	bsh	772	Ceanothus thyrsiflorus	seed_mass	NA	1.98	mg	USA	CA	NA	NA	NA	NA
+217	94	bsh	773	Ceanothus thyrsiflorus	seed_mass	NA	2.05	mg	USA	CA	NA	NA	NA	NA
+218	94	bsh	774	Ceanothus thyrsiflorus	seed_mass	NA	2.772	mg	USA	CA	NA	NA	NA	NA
+219	95	bsh	775	Ceanothus tomentosus	seed_mass	NA	2.648	mg	USA	CA	NA	NA	NA	NA
+220	104	bsh	776	Ceanothus velutinus var. velutinus	seed_mass	NA	4.85	mg	USA	CA	NA	NA	NA	NA
+221	96	bsh	777	Ceanothus verrucosus	seed_mass	NA	4.929	mg	USA	CA	NA	NA	NA	NA
+222	97	bsh	2	Abies magnifica var. magnifica	seed_mass	NA	68.726	mg	USA	CA	NA	NA	NA	NA
+223	105	bsh	2801	Picea sitchensis	seed_mass	NA	2.16	mg	USA	CA	NA	NA	NA	NA
+224	105	bsh	2802	Picea sitchensis	seed_mass	NA	1.544	mg	USA	CA	NA	NA	NA	NA
+225	106	bsh	2805	Pinus attenuata	seed_mass	NA	19	mg	USA	CA	NA	NA	NA	NA
+226	106	bsh	2806	Pinus attenuata	seed_mass	NA	24.428	mg	USA	CA	NA	NA	NA	NA
+227	107	bsh	2807	Pinus contorta ssp. contorta	seed_mass	NA	3.36	mg	USA	CA	NA	NA	NA	NA
+228	108	bsh	2808	Pinus lambertiana	seed_mass	NA	215.995	mg	USA	CA	NA	NA	NA	NA
+229	109	bsh	2809	Pinus monophylla	seed_mass	NA	703.18	mg	USA	CA	NA	NA	NA	NA
+230	109	bsh	2810	Pinus monophylla	seed_mass	NA	377.992	mg	USA	CA	NA	NA	NA	NA
+231	110	bsh	2811	Pinus muricata	seed_mass	NA	13.788	mg	USA	CA	NA	NA	NA	NA
+232	110	bsh	2812	Pinus muricata	seed_mass	NA	9.072	mg	USA	CA	NA	NA	NA	NA
+233	110	bsh	2815	Pinus muricata	seed_mass	NA	28.457	mg	USA	CA	NA	NA	NA	NA
+234	111	bsh	2813	Pinus radiata	seed_mass	NA	21.92	mg	USA	CA	NA	NA	NA	NA
+235	111	bsh	2814	Pinus radiata	seed_mass	NA	28.349	mg	USA	CA	NA	NA	NA	NA
+236	112	bsh	2994	Pseudotsuga menziesii var. menziesii	seed_mass	NA	13.957	mg	USA	CA	NA	NA	NA	NA
+237	112	bsh	2995	Pseudotsuga menziesii var. menziesii	seed_mass	NA	9.028	mg	USA	CA	NA	NA	NA	NA
+238	77	cornwell06	1	Ceanothus cuneatus var. cuneatus	seed_mass	NA	8.83	mg	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25
+239	90	cornwell06	2	Ceanothus oliganthus var. sorediatus	seed_mass	NA	4.03	mg	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25
+240	113	cornwell06	3	Ceanothus cuneatus var. cuneatus	wood_density	NA	8.83	g/cm3	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25
+241	114	cornwell06	4	Ceanothus oliganthus var. sorediatus	wood_density	NA	0.67	g/cm3	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25
+242	116	cornwell06	5	Ceanothus cuneatus var. cuneatus	max_height	NA	3.2	m	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25
+243	117	cornwell06	6	Ceanothus oliganthus var. sorediatus	max_height	NA	4.2	m	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25
+244	116	cornwell06	7	Ceanothus cuneatus var. cuneatus	max_height	NA	3.2	m	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25
+245	118	cornwell06	8	Cupressus goveniana	max_height	NA	4.2	m	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25
+246	115	cornwell06	9	Ceanothus arboreus	max_height	NA	4.2	m	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25
+247	119	cornwell06	10	Ceanothus arboreus	plant_habit	wnan	0	NA	NA	NA	NA	NA	NA	NA
+248	119	cornwell06	11	Ceanothus arboreus	plant_habit	span	0	NA	NA	NA	NA	NA	NA	NA
+249	119	cornwell06	12	Ceanothus arboreus	plant_habit	suan	0	NA	NA	NA	NA	NA	NA	NA
+250	119	cornwell06	13	Ceanothus arboreus	plant_habit	pehe	0	NA	NA	NA	NA	NA	NA	NA
+251	119	cornwell06	14	Ceanothus arboreus	plant_habit	sh	3	NA	NA	NA	NA	NA	NA	NA
+252	119	cornwell06	15	Ceanothus arboreus	plant_habit	tr	1	NA	NA	NA	NA	NA	NA	NA
+253	120	cornwell06	16	Ceanothus oliganthus var. sorediatus	plant_habit	wnan	0	NA	NA	NA	NA	NA	NA	NA
+254	120	cornwell06	17	Ceanothus oliganthus var. sorediatus	plant_habit	span	0	NA	NA	NA	NA	NA	NA	NA
+255	120	cornwell06	18	Ceanothus oliganthus var. sorediatus	plant_habit	suan	0	NA	NA	NA	NA	NA	NA	NA
+256	120	cornwell06	19	Ceanothus oliganthus var. sorediatus	plant_habit	pehe	1	NA	NA	NA	NA	NA	NA	NA
+257	120	cornwell06	20	Ceanothus oliganthus var. sorediatus	plant_habit	sh	3	NA	NA	NA	NA	NA	NA	NA
+258	120	cornwell06	21	Ceanothus oliganthus var. sorediatus	plant_habit	tr	0	NA	NA	NA	NA	NA	NA	NA

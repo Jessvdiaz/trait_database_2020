@@ -1,0 +1,510 @@
+id	trait.id	trait	state.id	dstate	notes
+1	1	Growth form	1	short basal	
+2	1	Growth form	2	long basal	
+3	1	Growth form	3	semi-basal	
+4	1	Growth form	4	erect leafy	
+5	1	Growth form	5	cushions (=pulvinate)	
+6	1	Growth form	6	tussocks	
+7	1	Growth form	7	dwarf shrubs	
+8	1	Growth form	8	shrubs	
+9	1	Growth form	9	trees	
+10	1	Growth form	10	leafless shrubs or trees	
+11	1	Growth form	11	short succulents	
+12	1	Growth form	12	tall succulents	
+13	1	Growth form	13	palmoids	
+14	1	Growth form	14	epiphytes	
+15	1	Growth form	15	climbers and scramblers	
+16	1	Growth form	16	hemi-epiphytes	
+17	1	Growth form	17	hemiparasites or holoparasites	
+18	1	Growth form	18	aquatic submerged	
+19	1	Growth form	19	aquatic floating	
+20	1	Growth form	20	other growth forms.	
+21	2	Life form	1	phanerophytes	
+22	2	Life form	2	chamaephytes	
+23	2	Life form	3	hemicryptophytes	
+24	2	Life form	4	geophytes	
+25	2	Life form	5	therophytes	
+26	2	Life form	6	helophytes	
+27	2	Life form	7	hydrophytes	
+28	4	Plant habit	1	winter annual	
+29	4	Plant habit	2	spring annual	
+30	4	Plant habit	3	summer annual	
+31	4	Plant habit	4	perennial herbaceous	
+32	4	Plant habit	5	shrub	
+33	4	Plant habit	6	tree	
+34	5	Maximum height (d)	1	0-3 cm	
+35	5	Maximum height (d)	2	3-10 cm	
+36	5	Maximum height (d)	3	10-50	
+37	5	Maximum height (d)	4	50-100	
+38	5	Maximum height (d)	5	100-150	
+39	5	Maximum height (d)	6	150-200	
+40	5	Maximum height (d)	7	200-300	
+41	5	Maximum height (d)	8	>300	
+42	7	Flower height (d)	1	0-5 cm	
+43	7	Flower height (d)	2	5-10	
+44	7	Flower height (d)	3	10-50	
+45	7	Flower height (d)	4	50-100	
+46	7	Flower height (d)	5	100-150	
+47	7	Flower height (d)	6	150-200	
+48	7	Flower height (d)	7	200-300	
+49	7	Flower height (d)	8	>300	
+50	9	Dead branch retention	1	no	
+51	9	Dead branch retention	2	some	
+52	9	Dead branch retention	3	a lot	
+53	57	Twig dry matter content 	1	<200 mg g-1	
+54	57	Twig dry matter content 	2	200Ð400	
+55	57	Twig dry matter content 	3	400Ð600	
+56	57	Twig dry matter content 	4	600Ð800	
+57	57	Twig dry matter content 	5	>800	
+58	58	Twig drying time	1	²5 days	
+59	58	Twig drying time	2	4	
+60	58	Twig drying time	3	3	
+61	58	Twig drying time	4	2	
+62	58	Twig drying time	5	²1	
+63	10	Degree of ramification (branching)	1	no branches	
+64	10	Degree of ramification (branching)	2	only 1st order	
+65	10	Degree of ramification (branching)	3	2 orders	
+66	10	Degree of ramification (branching)	4	3 orders	
+67	10	Degree of ramification (branching)	5	4 orders	
+68	11	Standing fine litter in driest season	1	none	
+69	11	Standing fine litter in driest season	2	some	
+70	11	Standing fine litter in driest season	3	substantial (with dead leaves/twigs or flaking bark)	
+71	11	Standing fine litter in driest season	4	more dead than live fine mass aboveground	
+72	11	Standing fine litter in driest season	5	shoot dies back entirely	
+73	11	Standing fine litter in driest season	6	standing as one litter unit	
+74	12	Volatile oils, waxes and/or resins	1	none	
+75	12	Volatile oils, waxes and/or resins	2	some	
+76	12	Volatile oils, waxes and/or resins	3	substantial	
+77	12	Volatile oils, waxes and/or resins	4	abundant	
+78	12	Volatile oils, waxes and/or resins	5	very abundant	
+79	13	Leaf type	1	simple	
+80	13	Leaf type	2	compound	
+81	13	Leaf type	3	dissected or lobed	
+82	13	Leaf type	4	modified	
+83	13	Leaf type	5	absent	
+84	14	Compound leaf type	1	palmate	
+85	14	Compound leaf type	2	pinnate	
+86	14	Compound leaf type	3	bipinnate	
+87	14	Compound leaf type	4	odd	
+88	14	Compound leaf type	5	even	
+89	15	Blade morphology	1	cylindric	
+90	15	Blade morphology	2	scale-like	
+91	15	Blade morphology	3	narrowly linear	
+92	15	Blade morphology	4	linear	
+93	15	Blade morphology	5	ovate	
+94	15	Blade morphology	6	elliptic	
+95	15	Blade morphology	7	deltate	
+96	15	Blade morphology	8	cordate	
+97	15	Blade morphology	9	reniform	
+98	16	Blade length (d)	1	<0.01 cm	
+99	16	Blade length (d)	2	0.01-1	
+100	16	Blade length (d)	3	1-5	
+101	16	Blade length (d)	4	5-10	
+102	16	Blade length (d)	5	10-50	
+103	16	Blade length (d)	6	50-100	
+104	16	Blade length (d)	7	>100	
+105	17	Blade width (d)	1	<0.01 cm	
+106	17	Blade width (d)	2	0.01-1	
+107	17	Blade width (d)	3	1-5	
+108	17	Blade width (d)	4	5-10	
+109	17	Blade width (d)	5	10-50	
+110	17	Blade width (d)	6	>50	
+111	20	Compound leaf length (d)	1	<0.01 cm	
+112	20	Compound leaf length (d)	2	0.01-1	
+113	20	Compound leaf length (d)	3	1-5	
+114	20	Compound leaf length (d)	4	5-10	
+115	20	Compound leaf length (d)	5	10-50	
+116	20	Compound leaf length (d)	6	50-100	
+117	20	Compound leaf length (d)	7	100-500	
+118	20	Compound leaf length (d)	7	>500	
+119	21	Compound leaf width (d)	1	<0.01 cm	
+120	21	Compound leaf width (d)	2	0.01-1	
+121	21	Compound leaf width (d)	3	1-5	
+122	21	Compound leaf width (d)	4	5-10	
+123	21	Compound leaf width (d)	5	10-50	
+124	21	Compound leaf width (d)	6	50-100	
+125	21	Compound leaf width (d)	7	>100	
+126	25	Blade area (d)	1	<0.01 cm2	
+127	25	Blade area (d)	2	0.01-1	
+128	25	Blade area (d)	3	1-5	
+129	25	Blade area (d)	4	5-10	
+130	25	Blade area (d)	5	10-50	
+131	25	Blade area (d)	6	50-100	
+132	25	Blade area (d)	7	> 100	
+133	27	Raunkiaer leaf size	1	leptophyll < 25 mm2	
+134	27	Raunkiaer leaf size	2	nanophyll 25-225	
+135	27	Raunkiaer leaf size	3	microphyll 225-2025	
+136	27	Raunkiaer leaf size	4	mesophyll 2025-18225	
+137	27	Raunkiaer leaf size	5	macropyll 18225-164025	
+138	27	Raunkiaer leaf size	6	megaphyll > 164026.	
+139	28	Blade  margin	1	not applicable	
+140	28	Blade  margin	2	entire	
+141	28	Blade  margin	3	crenate	
+142	28	Blade  margin	4	dentate	
+143	28	Blade  margin	5	lobed	
+144	28	Blade  margin	6	lobed and dentate	
+145	28	Blade  margin	7	serrate	
+146	33	Stomatal distribution	1	both	
+147	33	Stomatal distribution	2	lower	
+148	33	Stomatal distribution	3	upper	
+149	33	Stomatal distribution	4	none	
+150	33	Stomatal distribution	5	stem	
+151	39	Leaf texture	1	sclerophyll	
+152	39	Leaf texture	2	mesophyll	
+153	39	Leaf texture	3	succulent	
+154	54	Leaf habit	1	evergreen	
+155	54	Leaf habit	2	summer deciduous	
+156	54	Leaf habit	3	winter deciduous	
+157	54	Leaf habit	4	semi-deciduous	
+158	55	Photosynthetic pathway	1	C3	
+159	55	Photosynthetic pathway	2	C4	
+160	55	Photosynthetic pathway	3	CAM	
+161	59	Green/photosynthetic stems	1	yes	
+162	59	Green/photosynthetic stems	2	no	
+163	60	Stem succulence	1	yes	
+164	60	Stem succulence	2	no	
+165	60	Stem succulence	3	in other organs (please specify)	
+166	61	Bark thickness	1	less 1mm	
+167	61	Bark thickness	2	1-10	
+168	61	Bark thickness	3	>10	
+169	63	Bark surface structure (texture)	1	smooth	
+170	63	Bark surface structure (texture)	2	very slight texture	
+171	63	Bark surface structure (texture)	3	intermediate texture	
+172	63	Bark surface structure (texture)	4	strong texture	
+173	63	Bark surface structure (texture)	5	very coarse texture.	
+174	64	Spinescence (density)	1	no spines, thorns or prickles	
+175	64	Spinescence (density)	2	low or very local density of soft spine equivalents <5 mm;	
+176	64	Spinescence (density)	3	high density of soft spine equivalents or intermediate density of spine equivalents of intermediate hardness;	
+177	64	Spinescence (density)	4	intermediate or high density of hard sharp spine equivalents >5 mm;	
+178	64	Spinescence (density)	5	intermediate or high density of hard sharp spine equivalents >20 mm;	
+179	64	Spinescence (density)	6	intermediate or high density of hard sharp spine equivalents >100 mm	
+180	65	Surface indumenta on leaves	1	glabrous	
+181	65	Surface indumenta on leaves	2	canescent	
+182	65	Surface indumenta on leaves	3	ciliate	
+183	65	Surface indumenta on leaves	4	prickle	
+184	65	Surface indumenta on leaves	5	puberulent	
+185	65	Surface indumenta on leaves	6	scabrous	
+186	65	Surface indumenta on leaves	7	scale	
+187	65	Surface indumenta on leaves	8	strigose	
+188	65	Surface indumenta on leaves	9	tomentose.	
+189	66	Surface indumenta on stems	1	glabrous	
+190	66	Surface indumenta on stems	2	canescent	
+191	66	Surface indumenta on stems	3	ciliate	
+192	66	Surface indumenta on stems	4	prickle	
+193	66	Surface indumenta on stems	5	puberulent	
+194	66	Surface indumenta on stems	6	scabrous	
+195	66	Surface indumenta on stems	7	scale	
+196	66	Surface indumenta on stems	8	strigose	
+197	66	Surface indumenta on stems	9	tomentose.	
+198	67	Surface indumenta on flowers	1	glabrous	
+199	67	Surface indumenta on flowers	2	canescent	
+200	67	Surface indumenta on flowers	3	ciliate	
+201	67	Surface indumenta on flowers	4	prickle	
+202	67	Surface indumenta on flowers	5	puberulent	
+203	67	Surface indumenta on flowers	6	scabrous	
+204	67	Surface indumenta on flowers	7	scale	
+205	67	Surface indumenta on flowers	8	strigose	
+206	67	Surface indumenta on flowers	9	tomentose.	
+207	68	Surface indumenta on fruits	1	glabrous	
+208	68	Surface indumenta on fruits	2	canescent	
+209	68	Surface indumenta on fruits	3	ciliate	
+210	68	Surface indumenta on fruits	4	prickle	
+211	68	Surface indumenta on fruits	5	puberulent	
+212	68	Surface indumenta on fruits	6	scabrous	
+213	68	Surface indumenta on fruits	7	scale	
+214	68	Surface indumenta on fruits	8	strigose	
+215	68	Surface indumenta on fruits	9	tomentose.	
+216	69	Surface indumenta on buds	1	glabrous	
+217	69	Surface indumenta on buds	2	canescent	
+218	69	Surface indumenta on buds	3	ciliate	
+219	69	Surface indumenta on buds	4	prickle	
+220	69	Surface indumenta on buds	5	puberulent	
+221	69	Surface indumenta on buds	6	scabrous	
+222	69	Surface indumenta on buds	7	scale	
+223	69	Surface indumenta on buds	8	strigose	
+224	69	Surface indumenta on buds	9	tomentose.	
+225	70	Aromatic/Chemical defences	1	not present or present in not significant amounts,	
+226	70	Aromatic/Chemical defences	2	terpenoids (pyrethrum, essential oils, resins, latex)	
+227	70	Aromatic/Chemical defences	3	phenolics (lignins, tannins, flavonoids, allelopathics)	
+228	70	Aromatic/Chemical defences	4	alkaloids	
+229	70	Aromatic/Chemical defences	5	present, type unknown	
+230	71	Root depth: 1. type	1	shallow	
+231	71	Root depth: 1. type	2	deep	
+232	72	Root depth: 2. depth	1	<0.25 m	
+233	72	Root depth: 2. depth	2	0.25-0.5	
+234	72	Root depth: 2. depth	3	0.5-1	
+235	72	Root depth: 2. depth	4	1-2	
+236	72	Root depth: 2. depth	5	2-5	
+237	72	Root depth: 2. depth	6	5-10	
+238	72	Root depth: 2. depth	7	>10	
+239	74	Root type	1	absent	
+240	74	Root type	2	tap root	
+241	74	Root type	3	fibrous	
+242	74	Root type	4	adventitious	
+243	74	Root type	5	contractile	
+244	75	Mycorrhizal association 	1	arbuscular mycorrhiza	
+245	75	Mycorrhizal association 	2	ectomycorrhiza	
+246	75	Mycorrhizal association 	3	ericoid	
+247	75	Mycorrhizal association 	4	orchid	
+248	75	Mycorrhizal association 	5	no mycorrhizal association	
+249	75	Mycorrhizal association 	6	unknown	
+250	76	Strength of mycorrhizal association 	1	obligate or nearly obligate	
+251	76	Strength of mycorrhizal association 	2	facultative	
+252	76	Strength of mycorrhizal association 	3	not important	
+253	76	Strength of mycorrhizal association 	4	unknown	
+254	77	N fixation	1	Rhizobium	
+255	77	N fixation	2	Actinorhiza (Frankia)	
+256	77	N fixation	3	No	
+257	79	Seed longevity 	1	transient (<1 year)	
+258	79	Seed longevity 	2	short-term persistent (1-5 years)	
+259	79	Seed longevity 	3	long-term persistent (>5 years)	
+260	80	Seed length	1	<1 mm	
+261	80	Seed length	2	1-5	
+262	80	Seed length	3	5-10	
+263	80	Seed length	4	10-25	
+264	80	Seed length	5	25-50	
+265	80	Seed length	6	50-100	
+266	80	Seed length	7	>100	
+267	81	Seed width	1	<1 mm	
+268	81	Seed width	2	1-5	
+269	81	Seed width	3	5-10	
+270	81	Seed width	4	10-25	
+271	81	Seed width	5	25-50	
+272	81	Seed width	6	50-100	
+273	81	Seed width	7	>100	
+274	83	Annual seed production per plant 	1	1-10 seeds/plant	
+275	83	Annual seed production per plant 	2	10-100	
+276	83	Annual seed production per plant 	3	100-1000	
+277	83	Annual seed production per plant 	4	1000-10000	
+278	83	Annual seed production per plant 	5	>10000	
+279	85	Heterocarpy	1	yes	
+280	85	Heterocarpy	2	no	
+281	86	Dispersal mode	1	unassisted dispersal	
+282	86	Dispersal mode	2	wind dispersal (anemochory)	
+283	86	Dispersal mode	3	internal animal transport (endo-zoochory)	
+284	86	Dispersal mode	4	external animal transport (exo-zoochory)	
+285	86	Dispersal mode	5	dispersal by hoarding	
+286	86	Dispersal mode	6	ant dispersal (myrmecochory)	
+287	86	Dispersal mode	7	dispersal by water (hydrochory)	
+288	86	Dispersal mode	8	dispersal by launching (ballistichory)	
+289	86	Dispersal mode	9	bristle contraction	
+290	87	Diaspore type	1	vegetative dispersule	
+291	87	Diaspore type	2	one-seeded generative dispersule	
+292	87	Diaspore type	3	multi-seeded generative dispersule	
+293	88	Seed structure	1	Nutrient rich appendages or structures: Elaisome	
+294	88	Seed structure	2	Nutrient rich appendages or structures: Aril	
+295	88	Seed structure	3	Nutrient rich appendages or structures: Pulp	
+296	88	Seed structure	4	Balloon structures: Open structures	
+297	88	Seed structure	5	Balloon structures: Closed structures	
+298	88	Seed structure	6	Small flat appendages	
+299	88	Seed structure	7	Large flat appendages	
+300	88	Seed structure	8	One short elongated appendage	
+301	88	Seed structure	9	Two or more short appendages	
+302	88	Seed structure	10	One long elongated appendage	
+303	88	Seed structure	11	Two or more long elongated appendages	
+304	88	Seed structure	12	Hooked	
+305	88	Seed structure	13	Other specializations	
+306	88	Seed structure	14	No appendages: Structured surface	
+307	88	Seed structure	15	No appendages: Smooth surface	
+308	88	Seed structure	7	Unknown	
+309	89	Fruit morphology	1	achene	
+310	89	Fruit morphology	2	berry	
+311	89	Fruit morphology	3	capsule	
+312	89	Fruit morphology	4	drupe	
+313	89	Fruit morphology	5	follicle	
+314	89	Fruit morphology	6	legume	
+315	89	Fruit morphology	7	nut	
+316	89	Fruit morphology	8	pome	
+317	89	Fruit morphology	9	utricle	
+318	90	Dehiscent fruit	1	yes	
+319	90	Dehiscent fruit	2	no	
+320	91	Simple fruit	1	yes	
+321	91	Simple fruit	2	no (compound)	
+322	92	Fleshy fruit	1	yes	
+323	92	Fleshy fruit	2	no	
+324	93	Number of seeds per fruit	1	1 seed	
+325	93	Number of seeds per fruit	2	1-3	
+326	93	Number of seeds per fruit	3	3-5	
+327	93	Number of seeds per fruit	4	5-10	
+328	93	Number of seeds per fruit	5	10-15	
+329	93	Number of seeds per fruit	6	15-30	
+330	93	Number of seeds per fruit	7	30-50	
+331	93	Number of seeds per fruit	8	50-100	
+332	93	Number of seeds per fruit	9	100-500	
+333	93	Number of seeds per fruit	10	500-1000	
+334	93	Number of seeds per fruit	11	>1000	
+335	94	Germination (seed type)	1	Recalcitrant	
+336	94	Germination (seed type)	2	Orthodox	
+337	94	Germination (seed type)	3	Dormant	
+338	94	Germination (seed type)	4	Non-dormant	
+339	95	Germination requirements	1	high temperature	
+340	95	Germination requirements	2	low temperature	
+341	95	Germination requirements	3	fluctuating temperature	
+342	95	Germination requirements	4	drying at high temperature	
+343	95	Germination requirements	5	darkness	
+344	95	Germination requirements	6	light	
+345	95	Germination requirements	7	gases: oxygen, carbon dioxide, ethylene, etc..	
+346	95	Germination requirements	8	water: hydratation, wet-dry cycles, etc..	
+347	95	Germination requirements	9	inorganic chemicals: nitrate nitrite, etc.	
+348	95	Germination requirements	10	fire	
+349	95	Germination requirements	11	smoke	
+350	95	Germination requirements	12	charate	
+351	95	Germination requirements	13	animal digestive system	
+352	95	Germination requirements	14	unknown	
+353	96	Longevity	1	<1 yr	
+354	96	Longevity	2	1-5	
+355	96	Longevity	3	6-100	
+356	96	Longevity	4	100+	
+357	97	Reproductive episodes	1	semelparous	
+358	97	Reproductive episodes	2	iteroparous	
+359	98	Minimum age at reproductive maturity 	1	<1 yr	
+360	98	Minimum age at reproductive maturity 	2	1-2	
+361	98	Minimum age at reproductive maturity 	3	3-5	
+362	98	Minimum age at reproductive maturity 	4	6-10	
+363	98	Minimum age at reproductive maturity 	5	10+	
+364	99	Clonality	1	non-clonal	
+365	99	Clonality	2	above-ground: stolons	
+366	99	Clonality	3	above-ground: gemmiparous	
+367	99	Clonality	4	above-ground: other vegetative buds or plant fragments	
+368	99	Clonality	5	below-ground: rhizomes	
+369	99	Clonality	6	below-ground: tubers	
+370	99	Clonality	7	below-ground: bulbs	
+371	99	Clonality	8	below-ground: adventitious root buds	
+372	100	Resprouting behavior	1	non-resprouting	
+373	100	Resprouting behavior	2	epicormic	
+374	100	Resprouting behavior	3	basal	
+375	100	Resprouting behavior	4	rhizome/root/lignotuber/burl	
+376	100	Resprouting behavior	5	unknown	
+377	101	Resprouting factors	1	herbivory	
+378	101	Resprouting factors	2	fire	
+379	101	Resprouting factors	3	wind	
+380	101	Resprouting factors	4	other factors (please specify)	
+381	102	Pollen vector	1	wind	
+382	102	Pollen vector	2	water	
+383	102	Pollen vector	3	pseudocleistogamy	
+384	102	Pollen vector	4	cleistogamy	
+385	102	Pollen vector	5	insects	
+386	102	Pollen vector	6	bats	
+387	102	Pollen vector	7	birds	
+388	102	Pollen vector	8	slugs	
+389	102	Pollen vector	9	other animals	
+390	102	Pollen vector	10	other abiotic vectors	
+391	103	Mating system	1	self-compatible	
+392	103	Mating system	2	± self-compatible	
+393	103	Mating system	3	± self-incompatible	
+394	103	Mating system	4	self-incompatible	
+395	104	Floral rewards 	1	nectar	
+396	104	Floral rewards 	2	pollen	
+397	104	Floral rewards 	3	oil	
+398	104	Floral rewards 	4	deceit	
+399	105	Flower size	1	< 5 mm	
+400	105	Flower size	2	5-10	
+401	105	Flower size	3	10-30	
+402	105	Flower size	4	30-50	
+403	105	Flower size	5	50-100	
+404	105	Flower size	6	100-200	
+405	105	Flower size	7	200-500	
+406	105	Flower size	8	> 500	
+407	108	Floral symmetry	1	asymmetric	
+408	108	Floral symmetry	2	bilateral	
+409	108	Floral symmetry	3	biradial	
+410	108	Floral symmetry	4	radial	
+411	109	Flower color 	1	blue	
+412	109	Flower color 	2	brown	
+413	109	Flower color 	3	yellow	
+414	109	Flower color 	4	green	
+415	109	Flower color 	5	lilac	
+416	109	Flower color 	6	orange	
+417	109	Flower color 	7	purple	
+418	109	Flower color 	8	red	
+419	109	Flower color 	9	pink	
+420	109	Flower color 	10	various colors	
+421	109	Flower color 	11	violet	
+422	109	Flower color 	12	white	
+423	110	Heterostyly	1	distyly	
+424	110	Heterostyly	2	tristily	
+425	110	Heterostyly	3	stigma-height dimorphism	
+426	110	Heterostyly	4	homostyly	
+427	111	Breeding system 	1	allogamous	
+428	111	Breeding system 	2	facultative allogamous	
+429	111	Breeding system 	3	mixed mating	
+430	111	Breeding system 	4	facultative autogamous	
+431	111	Breeding system 	5	autogamous	
+432	111	Breeding system 	6	automixis	
+433	112	Plant sex expression	1	hermaphrodite	
+434	112	Plant sex expression	2	monoecious	
+435	112	Plant sex expression	3	dioecious	
+436	112	Plant sex expression	4	gynomonoecious	
+437	112	Plant sex expression	5	andromonoecious	
+438	112	Plant sex expression	6	trimonoecious (polygamous).	
+439	120	Typical habitat 	1	Coastal Strand	
+440	120	Typical habitat 	2	Coastal Salt Marsh	
+441	120	Typical habitat 	3	Freshwater Marsh	
+442	120	Typical habitat 	4	Northern Coastal Scrub	
+443	120	Typical habitat 	5	Coastal Sage Scrub	
+444	120	Typical habitat 	6	Sagebrush Scrub	
+445	120	Typical habitat 	7	Shadscale Scrub	
+446	120	Typical habitat 	8	Creosote Bush Scrub	
+447	120	Typical habitat 	9	Alkali Sink	
+448	120	Typical habitat 	10	North Coastal Coniferous Forest	
+449	120	Typical habitat 	11	Closed-cone Pine Forest	
+450	120	Typical habitat 	12	Redwood Forest	
+451	120	Typical habitat 	13	Douglas-Fir Forest	
+452	120	Typical habitat 	14	Yellow Pine Forest	
+453	120	Typical habitat 	15	Red Fir Forest	
+454	120	Typical habitat 	16	Lodgepole Forest	
+455	120	Typical habitat 	17	Subalpine Forest	
+456	120	Typical habitat 	18	Bristle-cone Pine Forest	
+457	120	Typical habitat 	19	Mixed Evergreen Forest	
+458	120	Typical habitat 	20	Northern Oak Woodland	
+459	120	Typical habitat 	21	Southern Oak Woodland	
+460	120	Typical habitat 	22	Foothill Woodland	
+461	120	Typical habitat 	23	Chaparral	
+462	120	Typical habitat 	24	Coastal Prairie	
+463	120	Typical habitat 	25	Valley Grassland	
+464	120	Typical habitat 	26	Alpine Fell-field	
+465	120	Typical habitat 	27	Northern Juniper Woodland	
+466	120	Typical habitat 	28	Pinyon-Juniper Woodland	
+467	120	Typical habitat 	29	Joshua Tree Woodland	
+468	125	Rabinowitz rarity: geographic	1	wide	
+469	125	Rabinowitz rarity: geographic	2	narrow	
+470	126	Rabinowitz rarity: habitat specificity	1	broad	
+471	126	Rabinowitz rarity: habitat specificity	2	restricted	
+472	127	Rabinowitz rarity: local abundance	1	somewhere large	
+473	127	Rabinowitz rarity: local abundance	2	everywhere small	
+474	128	Fed rarity status 	1	Threatened	
+475	128	Fed rarity status 	2	Endangered	
+476	128	Fed rarity status 	3	Without federal rarity status	
+477	129	CA rarity status	1	Threatened	
+478	129	CA rarity status	2	Endangered	
+479	129	CA rarity status	3	Without CA state rarity status	
+480	130	CA nativity	1	native plants	
+481	130	CA nativity	2	alien plants	
+482	130	CA nativity	3	casual alien plants	
+483	130	CA nativity	4	naturalized plants	
+484	130	CA nativity	5	invasive plants	
+485	130	CA nativity	6	transformers	
+486	130	CA nativity	7	weeds	
+487	131	Native range	1	CA	
+488	131	Native range	2	WNA	
+489	131	Native range	3	ENA	
+490	131	Native range	4	Mexico and CAm	
+491	131	Native range	5	South America	
+492	131	Native range	6	Central Chile med region	
+493	131	Native range	6	Europe	
+494	131	Native range	7	Meditteranean Basin	
+495	131	Native range	8	Africa north of Sahara	
+496	131	Native range	9	Africa south of Sahara	
+497	131	Native range	10	South Africa cape region	
+498	131	Native range	11	Central Asia	
+499	131	Native range	12	Asia incl. temperate China	
+500	131	Native range	13	South-east Asia	
+501	131	Native range	14	Australia	
+502	131	Native range	15	Western Australia med region	
+503	131	Native range	16	Polynesia	
+504	134	CA endemicity	1	yes	
+505	134	CA endemicity	2	no	
+504	135	CFP endemicity	1	yes	
+505	135	CFP endemicity	2	no	
+506	136	endemic type	1	neoendemic	
+507	136	endemic type	2	paleoendemic	

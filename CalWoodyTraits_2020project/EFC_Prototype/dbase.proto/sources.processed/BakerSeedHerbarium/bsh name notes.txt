@@ -1,0 +1,15 @@
+All names checked against TJM
+D. Ackerly; 7/17/06
+Following changes made:
+
+var changed to ssp and vice versa
+
+any name indexed in TJM as a synonym was changed
+
+obvious spelling mistakes, and fem/mas endings, corrected
+
+if Baker listed as binomial, and TJM only recognizes one taxon in CA which has ssp. or var. status, then name was expanded to match TJM
+
+if no subspp taxa are recognized, and Baker lists one, then binomial is used.
+
+?taxa were corrected but have not been added

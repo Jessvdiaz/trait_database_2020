@@ -1,0 +1,138 @@
+class	group	trait	id	type	n.states	units	source	trait.dfn
+QualCore	Vegetative: whole plant	Growth form	1	nominal	20	NA	Cornelissen et al. 2003	Growth form, mainly determined by canopy structure and height
+QualCore	Vegetative: whole plant	Life form	2	nominal	7	NA	Raunkiaer (1934) as in Cornelissen et al 2003	Type of plant form defined by the relation of the perennating tissue to the ground surface
+QuantCore	Vegetative: whole plant	Stem density	3	continuous	NA	-	Ackerly 2004	Number of stems at 1/10 of plant height
+QualCore	Vegetative: whole plant	Plant habit	4	nominal	6	NA	TJM2	Characteristic mode of growth, general form, or shape of a plant
+QualCore	Vegetative: whole plant	Maximum height (d)	5	ordered discrete	8	NA	Cornelissen et al. 2003	Shortest distance between upper boundary of the main photosynthetic tissues on a plant at reproductive maturity and the ground level
+QuantCore	Vegetative: whole plant	Maximum height (c)	6	continuous	NA	m		
+QualExt	Vegetative: whole plant	Flower height (d)	7	ordered discrete	8	NA	Cornelissen et al. 2003; EFC	Shortest distance between upper boundary of flowers on a plant at reproductive maturity and the ground level
+QuantCore	Vegetative: whole plant	Flower height (c)	8	continuous	NA	m		
+QualExt	Vegetative: whole plant	Dead branch retention	9	ordered discrete	3	NA	Keeley; Schwilk	
+QualExt	Vegetative: whole plant	Degree of ramification (branching)	10	nominal	5	NA	Cornelissen et al 2003	Number of ramification orders, as predictor of canopy architectural complexity (= Cornelissen flammability 4)
+QualExt	Vegetative: whole plant	Standing fine litter in driest season	11	nominal	6	NA	Cornelissen et al 2003	The relative amount of fine dead plant material (branches, leaves, inflorescences, bark) still attached to the plant during the dry season. ‘Fine’ litter means litter with diameter or thickness less than 6 mm (= Cornelissen flammability 6)
+QualExt	Vegetative: whole plant	Volatile oils, waxes and/or resins	12	nominal	5	NA	Cornelissen et al 2003	(= Cornelissen flammability 7)
+QualCore	Vegetative: leaves	Leaf type	13	nominal	5	NA	TJM2	Leaf type or shape of the whole leaf
+QualCore	Vegetative: leaves	Compound leaf type	14	nominal	5	NA	TJM2	type of compound leaf
+QualCore	Vegetative: leaves	Blade morphology	15	nominal	9	NA	TJM2	Shape of the lamina or leaflet if compound leaf
+QualCore	Vegetative: leaves	Blade length (d)	16	ordered discrete	7	NA	EFBI	Blade is leaflet if compound leaf
+QualCore	Vegetative: leaves	Blade width (d)	17	ordered discrete	6	NA	EFBI	Blade is leaflet if compound leaf
+QuantCore	Vegetative: leaves	Blade length (c)	18	continuous	NA	cm		Blade is leaflet if compound leaf
+QuantCore	Vegetative: leaves	Blade width (c)	19	continuous	NA	cm		Blade is leaflet if compound leaf
+QualCore	Vegetative: leaves	Compound leaf length (d)	20	ordered discrete	7	NA		Only for compound leaves
+QualCore	Vegetative: leaves	Compound leaf width (d)	21	ordered discrete	7	NA		Only for compound leaves
+QuantCore	Vegetative: leaves	Compound leaf length (c)	22	continuous	NA	cm		Only for compound leaves
+QuantCore	Vegetative: leaves	Compound leaf width (c)	23	continuous	NA	cm		Only for compound leaves
+QuantCore	Vegetative: leaves	Perimeter to Area Ratio	24	continuous	NA	NA	Weiher	
+QualExt	Vegetative: leaves	Blade area (d)	25	ordered discrete	7	NA		Blade is leaflet if compound leaf.
+QuantCore	Vegetative: leaves	Blade area (c)	26	continuous	NA	cm2		Blade is leaflet if compound leaf.
+QualCore	Vegetative: leaves	Raunkiaer leaf size	27	ordered discrete	6	NA	Raunkiaer 1934	Leaf size classes define by leaf areas in mm2 (close to Cornelissen flammability 5)
+QualCore	Vegetative: leaves	Blade  margin	28	nominal	7	NA	TJM2	Outline of leaflets if leaves are compound
+QuantCore	Vegetative: leaves	Specific leaf area	29	continuous	NA	mm2 mg-1	Cornelissen et al 2003	(Area/dry mass)
+QuantCore	Vegetative: leaves	Specific leaf area (+petiole)	30	continuous	NA	mm2 mg-1	Westoby 2000?	(Area/dry mass)
+QuantCore	Vegetative: leaves	Leaf dry matter content	31	continuous	NA	mg g-1	Cornelissen et al 2003, Garnier et al 2001	Oven-dry mass (mg) of a leaf divided by its water-saturated fresh mass (g). (It is 1 – leaf water content expressed on a fresh mass basis) (= Cornelissen flammability 3)
+QuantCore	Vegetative: leaves	Leaf thickness	32	continuous	NA	micron		Lamina thickness
+QualExt	Vegetative: leaves	Stomatal distribution	33	nominal	5	NA		Surfaces in which stomata are present 
+QuantCore	Vegetative: leaves	Stomatal density in lower surface	34	continuous	NA	mm-2		Number mm-2
+QuantCore	Vegetative: leaves	Stomatal density in upper surface	35	continuous	NA	mm-2		Number mm-2
+QuantCore	Vegetative: leaves	Leaf toughness: 1. Tensile strength	36	continuous	NA	N mm-1	Cornelissen et al 2003	Leaf tensile strength is the force needed to tear a leaf (fragment) divided by its width (e.g. Cornelissen and Thompson 1997)
+QuantCore	Vegetative: leaves	Leaf toughness: 2. Resistance to fracture	37	continuous	NA	N	Cornelissen et al 2003	Leaf resistance to fracture (also called 'force of fracture' or 'work to shear') as the mean force needed to cut a leaf or leaf fragment at a constant angle (20) and speed (e.g. Wright and Cannon 2001)
+QuantCore	Vegetative: leaves	Leaf toughness: 3. Puncturability	38	continuous	NA	unknown	Cornelissen et al 2003, Aranwela et al. 1999	Leaf puncturability provides data for the resistance of the actual leaf tissues (particularly the epidermis) to rupture, excluding toughness provided by midribs and main veins. It is measured with a punch test that involves punching a hole through the leaf lamina
+QualCore	Vegetative: leaves	Leaf texture	39	nominal	3	NA	Sampson?	Definitions based on authors’ field use of the term. 
+QuantCore	Vegetative: leaves	Leaf Nmass	40	continuous	NA	%	Cornelissen et al 2003, Glopnet	Leaf nitrogen concentration (LNC) is the total amounts of N per unit of dry leaf mass
+QuantCore	Vegetative: leaves	Leaf Narea	41	continuous	NA	g m-2	Cornelissen et al 2003, Glopnet	Leaf nitrogen concentration (LNC) in an area basis is the total amounts of N per unit of dry leaf area
+QuantCore	Vegetative: leaves	Leaf Pmass	42	continuous	NA	%	Cornelissen et al 2003, Glopnet	Leaf phosphorus concentration (LNC) is the total amounts of N per unit of dry leaf mass
+QuantCore	Vegetative: leaves	Leaf Parea	43	continuous	NA	g m-2	Cornelissen et al 2003, Glopnet	Leaf phosphorus concentration (LNC) in an area basis is the total amounts of N per unit of dry leaf area
+QuantCore	Vegetative: leaves	Leaf C:N	44	continuous	NA	-		Carbon:nitrogen ratio of the blade
+QuantCore	Vegetative: leaves	Litter Nmass	45	continuous	NA	%	EFC: Suding	Litter nitrogen concentration
+QuantCore	Vegetative: leaves	Litter Pmass	46	continuous	NA	%	EFC: Suding	Litter phosphorus concentration
+QuantCore	Vegetative: leaves	Litter C:N	47	continuous	NA	-	EFC: Suding	Litter C:N ratio
+QualExt	Vegetative: leaves	Leaf duration 	48	continuous	NA	months	Cornelissen et al 2003	Leaf duration is the number of months per year that the leaf canopy (or analogous main photosynthetic unit) is green
+QuantCore	Vegetative: leaves	Leaf longevity	49	continuous	NA	months	Cornelissen et al 2003	Leaf lifespan (longevity) is defined as the number of months during which an individual leaf (or leaf analogue) or part of a leaf is alive and physiologically active
+QualExt	Vegetative: leaves	Leaf flush begins	50	circular continuous	NA	months	Ackerly 2004	Month of first new leaf production
+QualExt	Vegetative: leaves	Leaf flush ends	51	circular continuous	NA	months	Ackerly 2004	Month of last new leaf production
+QualExt	Vegetative: leaves	Leaf drop begins	52	circular continuous	NA	months	Ackerly 2004	Month of first leaf drop
+QualExt	Vegetative: leaves	Leaf drop ends	53	circular continuous	NA	months	Ackerly 2004	Month of last leaf drop
+QualCore	Vegetative: leaves	Leaf habit	54	nominal	4	NA		
+QualExt	Vegetative: leaves	Photosynthetic pathway	55	nominal	3	NA		[Cornelissen et al 2003]
+QuantCore	Vegetative: stems/defenses	Wood density	56	continuous	NA	g cm-3	Cornelissen et al. 2003	Dry weight per fresh volume. 
+QuantCore	Vegetative: stems/defenses	Twig dry matter content 	57	ordered discrete	5	NA	Cornelissen et al 2003, Garnier et al 2001	Oven-dry mass (mg) of a twig divided by its water-saturated fresh mass (g). (It is 1 – twig water content expressed on a fresh mass basis) (= Cornelissen flammability 1)
+QuantCore	Vegetative: stems/defenses	Twig drying time	58	ordered discrete	5	NA	Cornelissen et al 2003	(= Cornelissen flammability 2)
+QualCore	Vegetative: stems/defenses	Green/photosynthetic stems	59	nominal	2	NA		
+QualCore	Vegetative: stems/defenses	Stem succulence	60	nominal	3	NA	TJM2	Thick and juicy; fleshy (e.g. Sesuvium verrucosum)
+QuantCore	Vegetative: stems/defenses	Bark thickness	61	continuous	NA	mm	Cornelissen et al 2003	The thickness of the bark, defined as the part of the stem that is external to the wood or xylem—hence it includes the vascular cambium
+QuantCore	Vegetative: stems/defenses	Bark thickness	62	ordered discrete	3	NA	Cornelissen et al 2003	The thickness of the bark, defined as the part of the stem that is external to the wood or xylem—hence it includes the vascular cambium
+QualExt	Vegetative: stems/defenses	Bark surface structure (texture)	63	nominal	5	NA	Cornelissen et al 2003	
+QualCore	Vegetative: stems/defenses	Spinescence (density)	64	ordered discrete	6	NA	Cornelissen et al 2003	Size/density of spine equivalents (spines, thorns, prickles)
+QualExt	Vegetative: stems/defenses	Surface indumenta on leaves	65	nominal	9	NA	TJM2	
+QualExt	Vegetative: stems/defenses	Surface indumenta on stems	66	nominal	9	NA	TJM2	
+QualExt	Vegetative: stems/defenses	Surface indumenta on flowers	67	nominal	9	NA	TJM2	
+QualExt	Vegetative: stems/defenses	Surface indumenta on fruits	68	nominal	9	NA	TJM2	
+QualExt	Vegetative: stems/defenses	Surface indumenta on buds	69	nominal	9	NA	TJM2	
+QualExt	Vegetative: stems/defenses	Aromatic/Chemical defences	70	nominal	5	NA	Taiz & Zeiger 2002	A diverse array of organic compounds produced by plants that appear to have no direct function in growth and development
+QualExt	Vegetative: roots	Root depth: 1. type	71	nominal	2	NA	EFBI	With respect to height of stems
+QualExt	Vegetative: roots	Root depth: 2. depth	72	ordered discrete	7	NA	Cornelissen et al 2003, Schenk and Jackson 2002	Depth above which 95% of the root biomass of a species is located
+QuantCore	Vegetative: roots	Root depth: 2. depth	73	continuous	NA	m	Cornelissen et al 2003, Schenk and Jackson 2002	Depth above which 95% of the root biomass of a species is located
+QualExt	Vegetative: roots	Root type	74	nominal	5	NA	EFBI	
+QualExt	Vegetative: roots	Mycorrhizal association 	75	nominal	6	NA	Cornelissen et al 2003	
+QualExt	Vegetative: roots	Strength of mycorrhizal association 	76	nominal	4	NA		
+QualExt	Vegetative: roots	N fixation	77	nominal	3	NA	Cornelissen et al 2003	Symbiosis with N2-fixing bacteria
+QuantCore	Life history and regeneration	Seed mass	78	continuous	NA	mg	Cornelissen et al 2003	Oven-dry mass of average seed
+QualExt	Life history and regeneration	Seed longevity 	79	ordered discrete	3	NA	Thompson 1992	Length of time that the species survive in the soil
+QualCore	Life history and regeneration	Seed length	80	ordered discrete	7	NA	LEDA	The longest dimension of the seed, no matter if it is equivalent to the morphological length
+QualCore	Life history and regeneration	Seed width	81	ordered discrete	7	NA	LEDA	The widest axis perpendicular to the length axis of the seed
+QuantCore	Life history and regeneration	Dispersule shape	82	continuous	NA	-	LEDA	Dispersule shape is the variance of its three dimensions, i.e. the length, the width, and the thickness (breadth) of the dispersule, after each of these values has been divided by the largest of the three values (Thompson et al. 1993). The seed shape (Vs) is captured by dividing length, width, and height of a seed separately by length and then calculating the variance of the three values with the formula: Vs= S (xi – mean (x))2/n, with n=3 and x1=length/length, x2=height/length, x3=width/length. The unit for all of the three measured dimensions is millimeters
+QualExt	Life history and regeneration	Annual seed production per plant 	83	ordered discrete	5	NA	EFCI	
+QuantCore	Life history and regeneration	Annual seed production per plant (c)	84	continuous	NA	-	BSH	seeds per plant
+QualExt	Life history and regeneration	Heterocarpy	85	nominal	2	NA		Production of more than one kind of seed (morphology, dispersal behavior, dormancy behavior, etc.)
+QualCore	Life history and regeneration	Dispersal mode	86	nominal	9	NA	Cornelissen et al 2003	Mode of dispersal (record all categories assumed to give significant potential dispersal in order of decreasing importance)
+QualCore	Life history and regeneration	Diaspore type	87	nominal	3	NA	LEDA	Indicates if the dispersule is vegetative or generative and if it is single-seeded or multi-seeded
+QualExt	Life history and regeneration	Seed structure	88	nominal	15	NA	LEDA	A coarse categorization of six morphological structures. Per category subcategories allow the classification of seed morphology into a finer scale
+QualCore	Life history and regeneration	Fruit morphology	89	nominal	9	NA	TJM2	
+QualCore	Life history and regeneration	Dehiscent fruit	90	nominal	2	NA	TJM2	
+QualCore	Life history and regeneration	Simple fruit	91	nominal	2	NA	TJM2	
+QualCore	Life history and regeneration	Fleshy fruit	92	nominal	2	NA	TJM2	
+QualExt	Life history and regeneration	Number of seeds per fruit	93	ordered discrete	11	NA		
+QualExt	Life history and regeneration	Germination (seed type)	94	nominal	4	NA	Baskin and Baskin 2001	
+QualExt	Life history and regeneration	Germination requirements	95	nominal	14	NA	Baskin and Baskin 2001	Environmental factors breaking dormancy (physiological, physical, or both)
+QualCore	Life history and regeneration	Longevity	96	ordered discrete	4	NA	EFBI	General longevity of an individual plant (not ramet)
+QualCore	Life history and regeneration	Reproductive episodes	97	nominal	2	NA		Reproductive behavior in relation to frequency of reproductive episodes (semelparous or iteroparous) 
+QualCore	Life history and regeneration	Minimum age at reproductive maturity 	98	ordered discrete	5	NA	EFBI; LEDA	
+QualCore	Life history and regeneration	Clonality	99	nominal	8	NA	Cornelissen et al 2003	Category of clonal behavior
+QualCore	Life history and regeneration	Resprouting behavior	100	nominal	5	NA		
+QualCore	Life history and regeneration	Resprouting factors	101	nominal	4	NA		Factors that cue a resprouting response. 
+QualCore	Reproductive morphology and phenology	Pollen vector	102	nominal	10	NA	BiolFlor	Pollen vector or type of pollen transfer
+QualExt	Reproductive morphology and phenology	Mating system	103	ordered discrete	4	NA	BiolFlor	Presence and strength of self-incompatibility of self-sterility
+QualCore	Reproductive morphology and phenology	Floral rewards 	104	nominal	4	NA	BiolFlor	Provided by flowers to attract insects
+QualCore	Reproductive morphology and phenology	Flower size	105	ordered discrete	8	NA	TJM2	Corolla/inflorescence length (or diameter?)
+QualCore	Reproductive morphology and phenology	Flower tube length	106	continuous	NA	mm		The length of the corolla or group of corollas functioning as a flower (distance from the base to the opening of the corolla)
+QualCore	Reproductive morphology and phenology	Flower diameter	107	continuous	NA	mm		The width of the corolla or group of corollas functioning as a flower (distance between the tips of opposite corolla lobes)
+QualCore	Reproductive morphology and phenology	Floral symmetry	108	nominal	4	NA	TJM2	
+QualCore	Reproductive morphology and phenology	Flower color 	109	nominal	12	NA		Flower color or description of flower coloration. 
+QualExt	Reproductive morphology and phenology	Heterostyly	110	nominal	4	NA	TJM2	Pertaining to a taxon in which individual plants produce only one of two or more flower types, each differing in style (and generally stamen) length
+QualExt	Reproductive morphology and phenology	Breeding system 	111	nominal	6	NA	BiolFlor	Origin of gametes that unite to form offspring
+QualCore	Reproductive morphology and phenology	Plant sex expression	112	nominal	6	NA		
+QualCore	Reproductive morphology and phenology	Begin of flowering	113	circular continuous	NA	months		month of first flower production
+QualCore	Reproductive morphology and phenology	End of flowering	114	circular continuous	NA	months		month of last flower production
+QualCore	Reproductive morphology and phenology	Begin of fruiting	115	circular continuous	NA	months		month of first fruit production
+QualCore	Reproductive morphology and phenology	End of fruiting	116	circular continuous	NA	months		month of last fruit production
+QualExt	Habitat and distribution	Jepson (TJM2) geographic units	117	nominal	29	NA	TJM2	A four-tiered hierarchical system of geographic units that will be used in TJM2 to convey distributional information. In this system California is divided into three provinces. Each province is divided into regions all but one of which are further divided into subregions; some subregions are even further divided into districts
+QualExt	Habitat and distribution	Low elevation	118	continuous	NA	m	TJM2	Range from minimum to maximum altitude recorded for the species.
+QualExt	Habitat and distribution	High elevation	119	continuous	NA	m	TJM2	Range from minimum to maximum altitude recorded for the species.
+QualCore	Habitat and distribution	Typical habitat 	120	nominal	29	NA	Ornduff et al.	Plant community types as defined by Munz (table I); data in Baker database.
+QuantCore	Habitat and distribution	Climate envelope: total annual precip	121	continuous	NA	mm	Loarie et al.	Multivariate trait from Ackerly et al. 
+QuantCore	Habitat and distribution	Climate envelope: seasonality precip	122	continuous	NA	mm	Loarie et al.	
+QuantCore	Habitat and distribution	Climate envelope: mean annual temp	123	continuous	NA	deg	Loarie et al.	
+QuantCore	Habitat and distribution	Climate envelope: seasonality temp	124	continuous	NA	deg	Loarie et al.	
+QualExt	Habitat and distribution	Rabinowitz rarity: geographic	125	nominal	2	NA	Rabinowitz 1981	Rabinowitz (1981) classified species based on three criteria: geographic range (wide or narrow), habitat specificity (broad or restricted), and local abundance (somewhere large or everywhere small). Only one of the eight possible combinations (wide range, broad habitat specificity, and somewhere large local abundance) is classified as common. The other seven each include some form of rarity.
+QualExt	Habitat and distribution	Rabinowitz rarity: habitat specificity	126	nominal	2	NA		
+QualExt	Habitat and distribution	Rabinowitz rarity: local abundance	127	nominal	2	NA		
+QualCore	Habitat and distribution	Fed Rarity status 	128	nominal	3	NA		Federal t/e status
+QualCore	Habitat and distribution	CA Rarity status	129	nominal	3	NA		CA state T/E status
+QualCore	Habitat and distribution	CA nativity	130	nominal	7	NA	Pysek et al. 2004	
+QualExt	Habitat and distribution	Native range	131	nominal	16	NA	EFC: Rejmanek	
+QualExt	Habitat and distribution	Native latitude-equatorial limit	132	continuous	NA	deg	EFC: Rejmanek	
+QualExt	Habitat and distribution	Native latitude-polar limit	133	continuous	NA	deg	EFC: Rejmanek	
+QualCore	Habitat and distribution	CA endemicity	134	nominal	2	NA	EFC: Rejmanek	
+QualCore	Habitat and distribution	CFP endemicity	135	nominal	2	NA	EFC: Rejmanek	
+QualCore	Habitat and distribution	Endemic type	136	nominal	2	NA	EFC: Rejmanek	
+Repos	Vegetative: stems/defenses	Leaf area to sapwood area	137	continuous	NA	mm2 mm-2	Preston et al. 2006 New Phyt	ratio of leaf area to subtending sapwood area (inverse of huber value)

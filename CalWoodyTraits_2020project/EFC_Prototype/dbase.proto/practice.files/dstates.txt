@@ -1,0 +1,34 @@
+trait	dstate.num	dstate.abb	dstate.name
+growth_form	1	shbs	short basal
+growth_form	2	lobs	long basal
+growth_form	3	sebs	semi-basal
+growth_form	4	erlf	erect leafy
+growth_form	5	cush	cushions (=pulvinate)
+growth_form	6	tuss	tussocks
+growth_form	7	dwsh	dwarf shrubs
+growth_form	8	sh	shrubs
+growth_form	9	tr	trees
+growth_form	10	lflssst	leafless shrubs or trees
+growth_form	11	shsucc	short succulents
+growth_form	12	tlsucc	tall succulents
+growth_form	13	palm	palmoids
+growth_form	14	epi	epiphytes
+growth_form	15	climb	climbers and scramblers
+growth_form	16	heep	hemi-epiphytes
+growth_form	17	hemip	hemiparasites or holoparasites
+growth_form	18	aqsb	aquatic submerged
+growth_form	19	aqfl	aquatic floating
+growth_form	20	other	other growth forms.
+life_form	1	phan	phanerophytes
+life_form	2	cham	chamaephytes
+life_form	3	hemi	hemicryptophytes
+life_form	4	geo	geophytes
+life_form	5	thero	therophytes
+life_form	6	helo	helophytes
+life_form	7	hydro	hydrophytes
+plant_habit	1	wnan	winter annual
+plant_habit	2	span	spring annual
+plant_habit	3	suan	summer annual
+plant_habit	4	pehe	perennial herbaceous
+plant_habit	5	sh	shrub
+plant_habit	6	tr	tree

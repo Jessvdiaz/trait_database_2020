@@ -1,0 +1,401 @@
+t=trait.sim(t)
+t
+rank(mContrast(simd$tip.character[,1],simd,reps=100))[1]
+t=trait.sim(t)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=1.5)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=2)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=-0.2)
+t=trait.sim(t,sigma.age=-0.1)
+t=trait.sim(t,sigma.age=0)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t
+t=trait.sim(t,sigma.age=1)
+t
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=2)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=2)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t
+t=trait.sim(t,sigma.age=2)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=10)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=10)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=10)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=10)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=10)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=10)
+rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=10);rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+t=trait.sim(t,sigma.age=1);rank(mContrast(t$tip.character[,1],t,reps=100))[1]
+source("/Users/david/Documents/Projects/Toolbox/ComparativeMethods/traitsim.R")
+t=trait.sim(t)$tip.character
+t
+phy
+trait.sim(phy)$tip.character
+plot.phylo(phy)
+phy=rcoal(16)
+plot.phylo(phy)
+dist.phylo(phy)
+trait.sim(phy)$tip.character->tips
+tips
+phy
+dist(tips)
+plot(dist.phylo(phy),dist(tips))
+length(dist.phylo(phy))
+length(dist(tips))
+class(dist(tips))
+class(dist.phylo(phy))
+as.matrix(dist(tips))
+plot(dist.phylo(phy),as.matrix(dist(tips)))
+phydist=dist.phylo(phy)
+trait.sim(phy)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+trait.sim(phy,sigma.age=-0.1)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+trait.sim(phy,sigma.age=-0.5)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+trait.sim(phy,sigma.age=0.5)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+trait.sim(phy,sigma.age=1)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+trait.sim(phy,sigma.age=2)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+trait.sim(phy,sigma.age=10)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+plot.phylo(phy)
+trait.sim(phy,sigma.age=10)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+tips
+source("/Users/david/Documents/Projects/Toolbox/ComparativeMethods/traitsim.R")
+trait.sim(phy,sigma.age=-1)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+source("/Users/david/Documents/Projects/Toolbox/ComparativeMethods/traitsim.R")
+trait.sim(phy,sigma.age=-1)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+trait.sim(phy,sigma.age=1)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+trait.sim(phy,sigma.age=10)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+trait.sim(phy,sigma.age=-1)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+trait.sim(phy,sigma.age=0)$tip.character->tips;plot(phydist,as.matrix(dist(tips)))
+phydist
+max(phydist)
+max(phydist)-phydist
+rcoal(6)
+t8=rcoal(8)
+print.phylo(t8)
+plot.phylo(t8)
+t8d=dist.phylo(t8)
+t8d
+V8=max(t8d)-t8d
+V8
+?trace
+?outer
+x
+x=1:5
+y=1:5
+outer(x,y)
+inner(x,y)
+xy=outer(x,y)
+aperm(xyy)
+aperm(xy)
+y=2:10
+y=c(2,4,6,8,10)
+outer(x,y)
+x=matrix(1:100,10,10)
+x
+t(x)
+aperm(x)
+phydist
+t8d
+V
+t8v=max(t8d)-t8d
+t8v
+t8v=t8v/max(t8v)
+t8v
+plot.phylo(t8)
+tips=trait.sim(t,sigma.age=0)#
+plot(t8d,as.matrix(dist(tips))
+)
+t
+t=phy
+t8
+tips=trait.sim(t8,sigma.age=0)#
+plot(t8d,as.matrix(dist(tips))
+)
+t8d
+tips=trait.sim(t8,sigma.age=0)$tip.character#
+plot(t8d,as.matrix(dist(tips)))
+tips=trait.sim(t8,sigma.age=-0.5)$tip.character#
+plot(t8d,as.matrix(dist(tips)))
+tips=trait.sim(t8,sigma.age=1)$tip.character#
+plot(t8d,as.matrix(dist(tips)))
+library(ape)
+t=rtree(8)
+plot.phylo(t)
+print(t)
+attributes(t)
+t$edge
+dist(t)
+phy.dist(t)
+(17+22)*7
+rm(list=ls())#
+source("/Users/david/Documents/Projects/Toolbox/NameScrubbing/taxa2cfp.R")#
+#
+efc = read.delim("/Users/david/Documents/Projects/EcologicalFloraCal/Prototype/dbase.proto/efc.tables/means.txt",as.is=TRUE)#
+#
+names(efc)#
+dim(efc)#
+#
+tlist = unique(efc$trait)#
+print(tlist)#
+#
+efc$jfp.taxon = taxa2jfp(efc$taxon,delim=' ',irank=TRUE)#
+#
+cfp = read.delim("/Users/david/Documents/Projects/CalDiversity/CAFP07Analysis/MasterFiles/CA+FP_edited_030907.txt",as.is=TRUE)#
+cfp$taxon = make.mrt(cfp$genus,cfp$species,cfp$infra,sep=' ',cfp$infraRank)#
+#
+j2e = match(efc$jfp.taxon,cfp$taxon)
+unique(jfp$RnA)
+unique(cfp$RnA)
+efc$RnA = as.factor(cfp$RnA[j2e],levels=c('NTm','CFP','MaT','WTD','SAm','Cos','NotCFP')
+)
+?as.factor
+RnAlevels=c('NTm','CFP','MaT','WTD','SAm','Cos','NotCFP')
+RnAlevels
+efc$RnA = as.factor(cfp$RnA[j2e],levels=RnAlevels)
+unique(cfp$RnA[j2e])
+RnAlevels=c('NTm','CFP','MaT','WTD','SAm','Cos','NotCFP',NA)
+efc$RnA = as.factor(cfp$RnA[j2e],levels=RnAlevels)
+?factor
+efc$RnA = factor(cfp$RnA[j2e],levels=RnAlevels)
+big4 = which(efc$RnA %in% c('NTm','CFP','MaT','WTD'))#
+sdmass = which(efc$trait==tlist[7])#
+#
+#
+t = 7#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(as.factor(efc$RnA[big4.trait]),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],'(log)'))
+plot(efc$RnA[big4.trait],log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],'(log)'))
+?boxplot
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],'(log)'))
+names(efc)
+unique(efc$units[which(efc$trait=tlist[7])]
+unique(efc$units[which(efc$trait=tlist[7])])
+unique(efc$units[which(efc$trait==tlist[7])])
+t = 7#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''))
+tlist
+t = 1#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''))
+t = 2#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''))
+t = 8#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''))
+par(mfrow=c(2,2))
+t = 1#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''))
+t = 2#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''))
+t = 7#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''))
+t = 8#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''))
+t = 8#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex=2)
+?par
+t = 8#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=2)
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5)
+par()$mai
+par(mai=c(0.7,0.7,0.7,0.3)
+)
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5)
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+par()$cex.axis
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=c(1.5,1))
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=c1.5)
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 1#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 2#
+units = unique(efc$units[which(efc$trait==tlist[7])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 2#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 1#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 2#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 7#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 8#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab='Biogeographic Origins',ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+N = length(which(!is.na(efc$value[big4.trait])))
+N
+t = 8#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+N = length(which(!is.na(efc$value[big4.trait])))#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab=paste('Biogeographic Origins (',N,')',sep=''),ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 1#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+N = length(which(!is.na(efc$value[big4.trait])))#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab=paste('Biogeographic Origins (',N,')',sep=''),ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 2#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+N = length(which(!is.na(efc$value[big4.trait])))#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab=paste('Biogeographic Origins (',N,')',sep=''),ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 7#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+N = length(which(!is.na(efc$value[big4.trait])))#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab=paste('Biogeographic Origins (',N,')',sep=''),ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 8#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+N = length(which(!is.na(efc$value[big4.trait])))#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab=paste('Biogeographic Origins (',N,')',sep=''),ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+t = 1#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+N = length(which(!is.na(efc$value[big4.trait])))#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab=paste('Biogeographic Origins',sep=''),ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+locator(n=1)
+?text
+?locator
+text(x=3.56,y=4.55,paste('N=',N,sep=''))
+text(x=3.56,y=4.55,paste('N=',N,sep=''),cex=2)
+text(x=3.86,y=4.55,paste('N=',N,sep=''),cex=2)
+par(mfrow=c(2,2))#
+#
+t = 1#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+N = length(which(!is.na(efc$value[big4.trait])))#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab=paste('Biogeographic Origins',sep=''),ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)#
+text(x=3.86,y=4.55,paste('N=',N,sep=''),cex=2)
+t = 2#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+N = length(which(!is.na(efc$value[big4.trait])))#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab=paste('Biogeographic Origins',sep=''),ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)
+text(x=3.86,y=4.55,paste('N=',N,sep=''),cex=2)
+t = 7#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+N = length(which(!is.na(efc$value[big4.trait])))#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab=paste('Biogeographic Origins',sep=''),ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)#
+text(x=3.86,y=4.55,paste('N=',N,sep=''),cex=2)
+t = 8#
+units = unique(efc$units[which(efc$trait==tlist[t])])#
+big4.trait = which(efc$RnA %in% c('NTm','CFP','MaT','WTD') & #
+	efc$trait==tlist[t])#
+N = length(which(!is.na(efc$value[big4.trait])))#
+plot(factor(efc$RnA[big4.trait],levels=c('NTm','CFP','MaT','WTD')),log(efc$value[big4.trait]),xlab=paste('Biogeographic Origins',sep=''),ylab=paste(tlist[t],' (',units,', log)',sep=''),cex.lab=1.5,cex.axis=1.5)#
+text(x=3.86,y=4.55,paste('N=',N,sep=''),cex=2)
+37-(85+37)/2
+tjm1=read.table('tjm1.txt')
+tjm1=read.delim('tjm1.txt')
+names(tjm1)
+tjm1[1,]
+tjm1[1:10,4]
+levels(tjm1$group)
+tjm1[10,]
+tjm1[which(tjm1$tjm1.valid==0),]
+dim(tjm1)
+tjm1[1:10,]
+traits=read.delim('traits.txt')
+traits[1,]
+names(traits)
+names(traits)->nt
+matrix(nt,ncol=1)
+ds = read.delim('dstates.txt')
+ds[1,]
+s
+s=read.delim('sources.txt')
+s[1,]
+names(s)
+ns=names(s0
+)
+ns=names(s)
+ns=matrix(ns,ncol=1)
+ns
+cd=read.delim('cdata-all.txt')
+cd[1,]
+dim(cd)
+cdn=names(cd)
+cdn
+cdn=matrix(cdn,ncol=1)
+cdn
+ct = read.delim('ctaxontrait.txt')
+names(ct)->ctn
+matrix(ctn,ncol(1))
+matrix(ctn,ncol=1)
+ac = read.delim('ackerly04an.txt')
+names(ac)
+bsh = read.delim('b/bsh.txt')
+bsh = read.delim('b/bsh.txt')
+names(bsh)
+unique(ac$dstate)
+ds[1,]
+plot(ds$trait.id,ds$state.id)

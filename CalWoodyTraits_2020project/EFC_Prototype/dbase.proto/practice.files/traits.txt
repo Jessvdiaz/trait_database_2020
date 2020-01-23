@@ -1,0 +1,8 @@
+trait	units	Nstates	type	definition	notes	created.by	created.date	modified.by	modified.date
+seed_mass	mg	NA	continuous	fresh mass of diaspore		D. Ackerly	6/28/06	NA	NA
+leaf_size	cm2	NA	continuous	one-sided lamina area of leaf or, if compound, leaflet		D. Ackerly	6/28/06	NA	NA
+specific_leaf_area	cm2/g	NA	continuous	fresh area/dry mass of lamina	if known, note whether leaf punch or whole lamina used for measurement	D. Ackerly	6/28/06	NA	NA
+specific_leaf_area_wpet	cm2/g	NA	continuous	fresh area/dry mass of lamina+petiole	method recommended by Westoby; not known if widely used	D. Ackerly	6/28/06	NA	NA
+wood_density	g/cm3	NA	continuous	dry mass/fresh volume of wood		D. Ackerly	6/28/06	NA	NA
+max_height	m	NA	continuous	typical height at maturity		D. Ackerly	6/28/06	NA	NA
+plant_habit	NA	6	nominal	NA	NA	D. Ackerly	6/28/06	NA	NA

@@ -1,0 +1,475 @@
+rm(list=ls())
+kt = read.csv('/Users/david/Documents/Projects/CalClimateChange/BayArea-Moore-09-10/BA-traits-2010/katie18aug.csv',as.is=T)
+head(kt)
+tail(kt)
+dim(kt)
+names(kt)
+par(cex.axis=1,cex.lab=1,mai=c(2,2,0.5,0.5))
+plot(kt$lat,kt$long,asp=1,pch=19,cex=5)
+plot(kt$lat,kt$long,asp=1,pch=19,cex=1)
+plot(kt$temp,kt$precip,cex=5,col='black',pch=19)
+plot(kt$temp,kt$precip,cex=1,col='black',pch=19)
+plot(kt$precip,kt$ldmc,pch=19,cex=1)
+kt[which(kt$sla>70),]
+species = sort(unique(kt$Species))
+species
+oaks <- grep('Quercus',kt$Species)
+oaks
+non.grass.data = which(!kt$Species %in% species[grasses])
+grasses = c(7,9,11,15)
+non.grass.data = which(!kt$Species %in% species[grasses])
+kt = kt[non.grass.data,]
+plot(kt$precip,kt$sla,pch=19,cex=1)
+oaks <- grep('Quercus',kt$Species)
+oaks
+plot(kt$precip,kt$sla,pch=19,cex=1)
+plot(kt$precip[oaks],kt$sla[oaks],pch=19,cex=1)
+head(kt)
+plot(kt$cwd[oaks],kt$sla[oaks],pch=19,cex=1)
+plot(ktl$y~as.factor(ktl$Species),lwd=5)
+ktl = subset(kt,kt$Species %in% names(Nsp)[largeSample])
+dim(ktl)
+Nsp = table(kt$Species)
+largeSample = as.numeric(which(Nsp>20))
+names(Nsp)[largeSample]
+ktl = subset(kt,kt$Species %in% names(Nsp)[largeSample])
+dim(ktl)
+lsp = sort(unique(ktl$Species))
+fit = lm(y ~ as.factor(Species) * x,data=ktl)
+anova(fit)
+source("http://faculty.ucr.edu/~tgirke/Documents/R_BioCond/My_R_Scripts/mortgage.R")
+mortgage(300000,3,5,30)
+mortgage
+monthPay
+ls()
+I=6.5
+L=30
+P=200000
+r=6.5/(12*100)
+r=I/(12*100)
+N=L*12
+mort <- P*r/(1-(1+r)^-N)
+mort
+mort = round(mort,2)
+mort
+mort=function(I,L,P) {
+r=I/(12*100)
+N=L*12
+mP <- P*r/(1-(1+r)^-N)
+mP = round(mP,2)
+}
+mort(6.5,30,200000)
+return(mP)
+mort=function(I,L,P) {
+r=I/(12*100)
+N=L*12
+mP <- P*r/(1-(1+r)^-N)
+mP = round(mP,2)
+return(mP)
+}
+mort(6.5,30,200000)
+mort(3,30,300000)
+mort(3,30,400000)
+mort(3.5,30,300000)
+2+3
+2+3*5
+2+3*6
+4+3*6
+x=2
+x
+y=3
+y
+x+y
+t=2
+5*3
+t
+x
+y
+x=2
+y=3
+t=5
+honda.purchase=16000
+honda.gas.efficiency=34
+cost.of.gas=4.2
+milesDriven=100000
+totalCost=honda.purchase+milesDriven/honda.gas.efficiency*cost.of.gas
+totalCost
+milesDriven=200000
+totalCost=honda.purchase+milesDriven/honda.gas.efficiency*cost.of.gas
+totalCost
+milesDriven=c(0,100000,200000,300000)
+totalCost=honda.purchase+milesDriven/honda.gas.efficiency*cost.of.gas
+totalCost
+milesDriven
+plot(milesDriven,totalCost)
+plot(milesDriven,totalCost,type='b')
+plot(milesDriven,totalCost,type='b',ylim=c(0,60000))
+leafPurchase=37100
+leafGasEfficiency=100
+totalCostLeaf=leafPurchase+milesDriven/leafGasEfficiency*cost.of.gas
+totalCostLeaf
+points(milesDriven,totalCostLeaf,type='b',col='red')
+hondaPurchase=16000
+costOfGas=4.2
+hondaGasEff=34
+milesDriven=seq(0,300000,by=50000)
+rm(list=ls())
+kt = read.csv('/Users/david/Documents/Projects/CalClimateChange/BayArea-Moore-09-10/BA-traits-2010/katie18aug.csv',as.is=T)
+head(kt)
+dim(kt)
+names(kt)
+sort(table(kt$Species))
+length(table(kt$Species))
+names(kt)
+plot(kt$long,kt$lat,asp=1)
+library(maptools)
+C10 <- readShapeSpatial('/Users/Shared/gisdata/maps/bayarea/political/tbc3_10counties/tbc3_10counties')
+plot(C10)
+plot(kt$long,kt$lat,asp=1)
+plot(C10,axes=T)
+projection(C10)
+library(sp)
+C10
+class(C10)
+attributes(C10)
+ktPts <- SpatialPoints(cbind(kt$long,kt$lat))
+ktPtsDF <- SpatialPointsDataFrame(ktPts,kt)
+projection(ktPts)
+proj4string(ktPts) <- CRS('+proj=longlat +datum=WGS84')
+library(rgdal)
+ktPtsTA <- spTransform(ktPts,CRS('+proj=aea +datum=NAD83 +lat_1=29.5 +lat_2=45.5 +lat_0=23 +lon_0=-96 +x_0=0 +y_0=0'))
+plot(C10,axes=T)
+plot(ktPtsTA,add=T)
+ktPtsTA <- spTransform(ktPts,CRS('+proj=aea +datum=NAD83 +lat_1=34 +lat_2=40.5 +lat_0=0 +lon_0=-120 +x_0=0 +y_0=-4000000'))
+plot(C10,axes=T)
+plot(ktPtsTA,add=T)
+plot(ktPtsTA,add=T,col='red')
+proj4string(C10)
+names(kt)
+plot(kt[,5:6])
+mean(kt[,6]/kt[,5])
+plot(kt[,10]*kt[,5],kt[,4])
+plot(kt[,5:6])
+sqrt(645)
+hist(kt$leafArea)
+sort(table(kt$Species))
+hist(kt$leafArea[which(kt$Species=='Umbellularia californica')])
+hist(kt$leafArea[which(kt$Species=='Baccharis pilularis')])
+spLA <- tapply(kt$leafArea,kt$Species,mean)
+spLA
+barplot(spLA)
+barplot(sort(spLA))
+barplot(sort(log10(spLA)))
+sort(spLA)
+spSLA <- tapply(kt$sla,kt$Species,mean)
+sort(spSLA)
+barplot(sort(spSLA))
+names(spLA)==names(spSLA)
+plot(log10(spLA),spSLA)
+plot(log10(spLA),spSLA,pch=19,cex=1.5)
+cor(log10(spLA),spSLA)
+names(spLA)
+spList <- unique(kt$Species)
+spList <- unique(kt$Species)
+spList
+spList <- sort(unique(kt$Species))
+ag <- rep('A',33)
+spList
+ag[c(16:19,22,32)]
+ag[c(16:19,22,32)] <- 'G'
+spLA <- spLA[order(names(spLA))]
+spLA
+sort(spLA)
+spSLA <- tapply(kt$sla,kt$Species,mean)
+spSLA <- spLA[order(names(spSLA))]
+names(kt)
+spHT <- tapply(kt$height,kt$Species,mean)
+spHT <- spHT[order(names(spHT))]
+sort(spHT)
+length(spHT)
+spHT
+plot(spHT,spLA)
+plot(spHT,spSLA)
+spSLA <- tapply(kt$sla,kt$Species,mean)
+spSLA <- spSLA[order(names(spSLA))]
+plot(spHT,spSLA)
+agcols <- rep('blue',33)
+agcols[c(16:19,22,32)] <- 'green'
+barplot(sort(log10(spLA)),col=agcols)
+barplot(log10(spLA)[order(spLA)],col=agcols[order(spLA)])
+par(mar=c(5.1,5.1,1,1))
+barplot(log10(spLA)[order(spLA)],col=agcols[order(spLA)])
+barplot(log10(spLA)[order(spLA)],col=agcols[order(spLA)],ylab='leaf size')
+barplot(log10(spLA)[order(spLA)],col=agcols[order(spLA)],ylab='leaf size (mm2, log10')
+barplot(log10(spLA)[order(spLA)],col=agcols[order(spLA)],ylab='leaf size (mm2, log10)')
+barplot(log10(spSLA)[order(spSLA)],col=agcols[order(spSLA)],ylab='specific leaf area')
+plot(log10(spLA),spSLA,pch=19,cex=1.5,col=agcols)
+cor(log10(spLA)[ag=='A'],spSLA[ag=='A'])
+spHT <- tapply(kt$height,kt$Species,mean)
+spHT <- spHT[order(names(spHT))]
+sort(spHT)
+sort(spHT)
+spHT
+plot(spHT,spSLA)
+plot(spHT,spSLA,pch=19,cex=1.5,col=agcols)
+barplot(log10(spHT)[order(spHT)],col=agcols[order(spHT)],ylab='height (m)')
+barplot(spHT[order(spHT)],col=agcols[order(spHT)],ylab='height (m)')
+barplot(log10(spHT+1)[order(spHT)],col=agcols[order(spHT)],ylab='height (m)')
+barplot(spHT[order(spHT)],col=agcols[order(spHT)],ylab='height (m)')
+plot(kt$leafarea,kt$sla)
+names(kt)
+plot(kt$leafArea,kt$sla)
+plot(log10(kt$leafArea),kt$sla)
+plot(log10(kt$leafArea),log10(kt$sla))
+tmax <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_BCMv4_HST_2012/teale-albers-asc/tmx1951_1980_ave_HST.asc')
+library(raster)
+tmax <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_BCMv4_HST_2012/teale-albers-asc/tmx1951_1980_ave_HST.asc')
+kt.tmax <- extract(tmax,ktPtsTA)
+kt.tmax
+names(kt)
+plot(kt.tmax,kt$temp)
+tmin <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_BCMv4_HST_2012/teale-albers-asc/tmn1951_1980_ave_HST.asc')
+kt.tmin <- extract(tmin,ktPtsTA)
+plot(kt.tmin,kt.tmax)
+cwd <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_BCMv4_HST_2012/teale-albers-asc/cwd1951_1980_ave_HST.asc')
+kt.cwd <- extract(tmin,ktPtsTA)
+ppt <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_BCMv4_HST_2012/teale-albers-asc/ppt1951_1980_ave_HST.asc')
+kt.ppt <- extract(ppt,ktPtsTA)
+plot(kt.ppt,kt.cwd)
+kt <- data.frame(kt,kt.tmax,kt.tmin,kt.ppt,kt.cwd)
+head(kt)_
+head(kt)par(cex.axis=1,cex.lab=1,mai=c(2,2,0.5,0.5))
+head(kt)
+dim(kt)
+names(kt)[21:24] <- c('tmax','tmin','ppt','cwd')
+nOcc <- table(kt$Species)
+sort(nOcc)
+hiN <- names(nOcc)[nOcc>8]
+hiN
+plot(kt$cwd,kt$sla)
+plot(kt$ppt,kt$sla)
+plot(kt$cwd,kt$sla)
+spsel <- which(kt$Species=='Umbellularia californica')
+points(kt$cwd[spsel],kt$sla[spsel],pch=19,col='red')
+abline(lm(kt$sla[spsel]~kt$cwd[spsel]))
+plot(kt$cwd,kt$sla)
+for (i in 1:length(hiN)) {
+spsel <- which(kt$Species==hiN[i])
+points(kt$cwd[spsel],kt$sla[spsel],pch=19,col='red')
+abline(lm(kt$sla[spsel]~kt$cwd[spsel]))
+}
+fit <- lm(kt$sla[spsel]~kt$cwd[spsel])
+fit
+fit$coeff
+fit$coeff[2]
+plot(kt$cwd,kt$sla)
+slopes <- c()
+for (i in 1:length(hiN)) {
+spsel <- which(kt$Species==hiN[i])
+points(kt$cwd[spsel],kt$sla[spsel],pch=19,col='red')
+fit <- lm(kt$sla[spsel]~kt$cwd[spsel])
+abline(fit)
+slopes <- c(slopes,fit$coeff[2])
+}
+hist(slopes)
+spsel <- whic(kt$Species %in% hiN)
+fit <- lm(sla[spel]~cwd[spsel]+Species[spsel],data=kt)
+fit <- lm(sla[spsel]~cwd[spsel]+Species[spsel],data=kt)
+fit <- lm(sla[spsel]~cwd[spsel]+factor(Species[spsel]),data=kt)
+spsel <- whic(kt$Species %in% hiN)
+fit <- lm(sla[spsel]~cwd[spsel]+factor(Species[spsel]),data=kt)
+spsel <- which(kt$Species %in% hiN)
+fit <- lm(sla[spsel]~cwd[spsel]+factor(Species[spsel]),data=kt)
+summary(fit)
+anova(fit)
+plot(kt$cwd,kt$leafArea)
+lla <- log10(kt$leafArea)
+plot(kt$cwd,lla)
+slopes <- c()
+pval <- c()
+for (i in 1:length(hiN)) {
+spsel <- which(kt$Species==hiN[i])
+points(lla[spsel],kt$sla[spsel],pch=19,col='red')
+fit <- lm(lla[spsel]~kt$cwd[spsel])
+abline(fit)
+slopes <- c(slopes,fit$coeff[2])
+}
+plot(kt$cwd,lla)
+slopes <- c()
+pval <- c()
+for (i in 1:length(hiN)) {
+spsel <- which(kt$Species==hiN[i])
+#points(lla[spsel],kt$sla[spsel],pch=19,col='red')
+fit <- lm(lla[spsel]~kt$cwd[spsel])
+abline(fit)
+slopes <- c(slopes,fit$coeff[2])
+}
+hist(slopes)
+plot(kt$cwd,lla)
+slopes <- c()
+pval <- c()
+for (i in 1:length(hiN)) {
+spsel <- which(kt$Species==hiN[i])
+#points(lla[spsel],kt$sla[spsel],pch=19,col='red')
+fit <- lm(lla[spsel]~kt$cwd[spsel])
+abline(fit)
+slopes <- c(slopes,fit$coeff[2])
+}
+anova(fit)
+summary(fit)
+attributes(summary(fit))
+fit <- lm(lla[spsel]~cwd[spsel]+factor(Species[spsel]),data=kt)
+spsel <- which(kt$Species %in% hiN)
+fit <- lm(lla[spsel]~cwd[spsel]+factor(Species[spsel]),data=kt)
+summary(fit)
+anova(fit)
+fit <- lm(lla[spsel]~cwd[spsel]*factor(Species[spsel]),data=kt)
+anova(fit)
+fit <- lm(lla[spsel]~cwd[spsel]+factor(Species[spsel]),data=kt)
+summary(fit)
+anova(fit)
+lla <- log10(kt$leafArea)
+plot(kt$cwd,lla)
+slopes <- c()
+pval <- c()
+for (i in 1:length(hiN)) {
+spsel <- which(kt$Species==hiN[i])
+#points(lla[spsel],kt$sla[spsel],pch=19,col='red')
+fit <- lm(lla[spsel]~kt$cwd[spsel])
+abline(fit)
+slopes <- c(slopes,fit$coeff[2])
+summary(fit)
+}
+hist(slopes)
+tmax <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_tbc3/BA_HST-1.7z/tmx1951_1980_ave_HST.asc')
+plot(tmax,axes=T)
+plot(ktPts,add=T)
+plot(ktPtsTA,add=T)
+tmin <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_tbc3/BA_HST-1.7z/tmn1951_1980_ave_HST.asc')
+tmax <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_tbc3/BA_HST-1.7z/tmx1951_1980_ave_HST.asc')
+kt.tmax <- extract(tmax,ktPtsTA)
+tmin <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_tbc3/BA_HST-1.7z/tmn1951_1980_ave_HST.asc')
+kt.tmin <- extract(tmin,ktPtsTA)
+cwd <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_tbc3/BA_HST-1.7z/cwd1951_1980_ave_HST.asc')
+kt.cwd <- extract(tmin,ktPtsTA)
+ppt <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_tbc3/BA_HST-1.7z/ppt1951_1980_ave_HST.asc')
+kt.ppt <- extract(ppt,ktPtsTA)
+kt = read.csv('/Users/david/Documents/Projects/CalClimateChange/BayArea-Moore-09-10/BA-traits-2010/katie18aug.csv',as.is=T)
+kt <- data.frame(kt,kt.tmax,kt.tmin,kt.ppt,kt.cwd)
+dim(kt)
+names(kt)[21:24] <- c('tmax','tmin','ppt','cwd')
+lla <- log10(kt$leafArea)
+plot(kt$cwd,lla)
+slopes <- c()
+pval <- c()
+for (i in 1:length(hiN)) {
+spsel <- which(kt$Species==hiN[i])
+#points(lla[spsel],kt$sla[spsel],pch=19,col='red')
+fit <- lm(lla[spsel]~kt$cwd[spsel])
+abline(fit)
+slopes <- c(slopes,fit$coeff[2])
+summary(fit)
+}
+hist(slopes)
+spsel <- which(kt$Species %in% hiN)
+fit <- lm(lla[spsel]~cwd[spsel]+factor(Species[spsel]),data=kt)
+summary(fit)
+anova(fit)
+plot(kt$cwd,lla)
+slopes <- c()
+pval <- c()
+for (i in 1:length(hiN)) {
+spsel <- which(kt$Species==hiN[i])
+#points(lla[spsel],kt$sla[spsel],pch=19,col='red')
+fit <- lm(lla[spsel]~kt$cwd[spsel])
+abline(fit)
+slopes <- c(slopes,fit$coeff[2])
+summary(fit)
+}
+rm(list=ls())
+library(maptools)
+library(sp)
+library(rgdal)
+library(raster)
+kt = read.csv('/Users/david/Documents/Projects/CalClimateChange/BayArea-Moore-09-10/BA-traits-2010/katie18aug.csv',as.is=T)
+head(kt)
+tail(kt)
+# Descriptive stats for data set
+dim(kt)
+names(kt)
+length(table(kt$Species))
+sort(table(kt$Species))
+# map locations
+C10 <- readShapeSpatial('/Users/Shared/gisdata/maps/bayarea/political/tbc3_10counties/tbc3_10counties')
+ktPts <- SpatialPoints(cbind(kt$long,kt$lat))
+proj4string(ktPts) <- CRS('+proj=longlat +datum=WGS84')
+ktPtsTA <- spTransform(ktPts,CRS('+proj=aea +datum=NAD83 +lat_1=34 +lat_2=40.5 +lat_0=0 +lon_0=-120 +x_0=0 +y_0=-4000000'))
+plot(C10,axes=T)
+plot(ktPtsTA,add=T,col='red')
+# descriptive stats
+names(kt)
+spList <- sort(unique(kt$Species))
+ag <- rep('A',33)
+ag[c(16:19,22,32)] <- 'G'
+agcols <- rep('blue',33)
+agcols[c(16:19,22,32)] <- 'green'
+# leafArea is in mm2
+par(mar=c(5.1,5.1,1,1))
+hist(kt$leafArea[which(kt$Species=='Baccharis pilularis')])
+spLA <- tapply(kt$leafArea,kt$Species,mean)
+spLA <- spLA[order(names(spLA))]
+sort(spLA)
+barplot(log10(spLA)[order(spLA)],col=agcols[order(spLA)],ylab='leaf size (mm2, log10)')
+spSLA <- tapply(kt$sla,kt$Species,mean)
+spSLA <- spSLA[order(names(spSLA))]
+sort(spSLA)
+barplot(log10(spSLA)[order(spSLA)],col=agcols[order(spSLA)],ylab='specific leaf area')
+plot(log10(spLA),spSLA,pch=19,cex=1.5,col=agcols)
+cor(log10(spLA),spSLA)
+cor(log10(spLA)[ag=='A'],spSLA[ag=='A'])
+names(spLA)
+spHT <- tapply(kt$height,kt$Species,mean)
+spHT <- spHT[order(names(spHT))]
+sort(spHT)
+barplot(log10(spHT+1)[order(spHT)],col=agcols[order(spHT)],ylab='height (m)')
+barplot(spHT[order(spHT)],col=agcols[order(spHT)],ylab='height (m)')
+length(spHT)
+spHT
+plot(spHT,spSLA,pch=19,cex=1.5,col=agcols)
+## leaf level plots
+plot(log10(kt$leafArea),log10(kt$sla))
+## query climate data
+tmax <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_tbc3/BA_HST-1.7z/tmx1951_1980_ave_HST.asc')
+plot(tmax,axes=T)
+kt.tmax <- extract(tmax,ktPtsTA)
+tmin <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_tbc3/BA_HST-1.7z/tmn1951_1980_ave_HST.asc')
+kt.tmin <- extract(tmin,ktPtsTA)
+cwd <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_tbc3/BA_HST-1.7z/cwd1951_1980_ave_HST.asc')
+kt.cwd <- extract(tmin,ktPtsTA)
+ppt <- raster('/Users/Shared/gisdata/climate_layers/BCM/SFBA_tbc3/BA_HST-1.7z/ppt1951_1980_ave_HST.asc')
+kt.ppt <- extract(ppt,ktPtsTA)
+kt <- data.frame(kt,kt.tmax,kt.tmin,kt.ppt,kt.cwd)
+dim(kt)
+names(kt)[21:24] <- c('tmax','tmin','ppt','cwd')
+## ancovas of within species variation vs. climate
+nOcc <- table(kt$Species)
+sort(nOcc)
+hiN <- names(nOcc)[nOcc>8]
+# leaf size declines at higher cwd, overall!!
+lla <- log10(kt$leafArea)
+plot(kt$cwd,lla)
+slopes <- c()
+pval <- c()
+for (i in 1:length(hiN)) {
+spsel <- which(kt$Species==hiN[i])
+#points(lla[spsel],kt$sla[spsel],pch=19,col='red')
+fit <- lm(lla[spsel]~kt$cwd[spsel])
+abline(fit)
+slopes <- c(slopes,fit$coeff[2])
+summary(fit)
+}
+hist(slopes)
+spsel <- which(kt$Species %in% hiN)
+fit <- lm(lla[spsel]~cwd[spsel]+factor(Species[spsel]),data=kt)
+summary(fit)
+anova(fit)

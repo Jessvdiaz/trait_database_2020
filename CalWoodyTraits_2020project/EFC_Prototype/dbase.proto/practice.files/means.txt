@@ -1,0 +1,121 @@
+id	family	genus	taxon	trait	N	dstate	cval	units
+1	Rhamnaceae	Ceanothus	Ceanothus arboreus	leaf_size	3	NA	15.9	cm2
+2	Rhamnaceae	Ceanothus	Ceanothus cordulatus	leaf_size	1	NA	4.55	cm2
+3	Rhamnaceae	Ceanothus	Ceanothus crassifolius	leaf_size	3	NA	2.83	cm2
+4	Rhamnaceae	Ceanothus	Ceanothus cuneatus var. cuneatus	leaf_size	4	NA	1.74	cm2
+5	Rhamnaceae	Ceanothus	Ceanothus cuneatus var. fascicularis	leaf_size	2	NA	0.945	cm2
+6	Rhamnaceae	Ceanothus	Ceanothus cuneatus var. rigidus	leaf_size	2	NA	0.36	cm2
+7	Rhamnaceae	Ceanothus	Ceanothus cyaneus	leaf_size	1	NA	4.69	cm2
+8	Rhamnaceae	Ceanothus	Ceanothus divergens	leaf_size	1	NA	1.38	cm2
+9	Rhamnaceae	Ceanothus	Ceanothus diversifolius	leaf_size	1	NA	0.94	cm2
+10	Rhamnaceae	Ceanothus	Ceanothus ferrisiae	leaf_size	1	NA	1.58	cm2
+11	Rhamnaceae	Ceanothus	Ceanothus foliosus	leaf_size	3	NA	0.637	cm2
+12	Rhamnaceae	Ceanothus	Ceanothus gloriosus var. exaltatus	leaf_size	2	NA	5.29	cm2
+13	Rhamnaceae	Ceanothus	Ceanothus gloriosus var. gloriosus	leaf_size	1	NA	0.95	cm2
+14	Rhamnaceae	Ceanothus	Ceanothus gloriosus var. porrectus	leaf_size	2	NA	1.75	cm2
+15	Rhamnaceae	Ceanothus	Ceanothus griseus	leaf_size	4	NA	3.32	cm2
+16	Rhamnaceae	Ceanothus	Ceanothus hearstiorum	leaf_size	4	NA	1.63	cm2
+17	Rhamnaceae	Ceanothus	Ceanothus impressus	leaf_size	3	NA	0.117	cm2
+18	Rhamnaceae	Ceanothus	Ceanothus incanus	leaf_size	2	NA	5.42	cm2
+19	Rhamnaceae	Ceanothus	Ceanothus integerrimus	leaf_size	3	NA	4.36	cm2
+20	Rhamnaceae	Ceanothus	Ceanothus jepsonii var. jepsonii	leaf_size	2	NA	1.88	cm2
+21	Rhamnaceae	Ceanothus	Ceanothus lemmonii	leaf_size	1	NA	4.77	cm2
+22	Rhamnaceae	Ceanothus	Ceanothus leucodermis	leaf_size	1	NA	3.22	cm2
+23	Rhamnaceae	Ceanothus	Ceanothus maritimus	leaf_size	7	NA	1.15	cm2
+24	Rhamnaceae	Ceanothus	Ceanothus masonii	leaf_size	2	NA	1.77	cm2
+25	Rhamnaceae	Ceanothus	Ceanothus megacarpus var. insularis	leaf_size	2	NA	1.35	cm2
+26	Rhamnaceae	Ceanothus	Ceanothus megacarpus var. megacarpus	leaf_size	1	NA	4.3	cm2
+27	Rhamnaceae	Ceanothus	Ceanothus oliganthus var. oliganthus	leaf_size	3	NA	3.04	cm2
+28	Rhamnaceae	Ceanothus	Ceanothus oliganthus var. sorediatus	leaf_size	2	NA	2.55	cm2
+29	Rhamnaceae	Ceanothus	Ceanothus papillosus	leaf_size	2	NA	2.55	cm2
+30	Rhamnaceae	Ceanothus	Ceanothus prostratus	leaf_size	1	NA	0.63	cm2
+31	Rhamnaceae	Ceanothus	Ceanothus purpureus	leaf_size	2	NA	2.6	cm2
+32	Rhamnaceae	Ceanothus	Ceanothus spinosus	leaf_size	1	NA	4.05	cm2
+33	Rhamnaceae	Ceanothus	Ceanothus thyrsiflorus	leaf_size	11	NA	4.83	cm2
+34	Rhamnaceae	Ceanothus	Ceanothus tomentosus	leaf_size	1	NA	1.97	cm2
+35	Rhamnaceae	Ceanothus	Ceanothus velutinus var. hookeri	leaf_size	1	NA	35.4	cm2
+36	Rhamnaceae	Ceanothus	Ceanothus verrucosus	leaf_size	1	NA	1.71	cm2
+37	Rosaceae	Cercocarpus	Cercocarpus betuloides	leaf_size	2	NA	1.98	cm2
+38	Rhamnaceae	Ceanothus	Ceanothus arboreus	specific_leaf_area	3	NA	92.8	cm2/g
+39	Rhamnaceae	Ceanothus	Ceanothus cordulatus	specific_leaf_area	1	NA	418	cm2/g
+40	Rhamnaceae	Ceanothus	Ceanothus crassifolius	specific_leaf_area	3	NA	30	cm2/g
+41	Rhamnaceae	Ceanothus	Ceanothus cuneatus var. cuneatus	specific_leaf_area	4	NA	51.9	cm2/g
+42	Rhamnaceae	Ceanothus	Ceanothus cuneatus var. fascicularis	specific_leaf_area	2	NA	49.4	cm2/g
+43	Rhamnaceae	Ceanothus	Ceanothus cuneatus var. rigidus	specific_leaf_area	2	NA	46.4	cm2/g
+44	Rhamnaceae	Ceanothus	Ceanothus cyaneus	specific_leaf_area	1	NA	84.9	cm2/g
+45	Rhamnaceae	Ceanothus	Ceanothus divergens	specific_leaf_area	1	NA	35.5	cm2/g
+46	Rhamnaceae	Ceanothus	Ceanothus diversifolius	specific_leaf_area	1	NA	121	cm2/g
+47	Rhamnaceae	Ceanothus	Ceanothus ferrisiae	specific_leaf_area	1	NA	29.2	cm2/g
+48	Rhamnaceae	Ceanothus	Ceanothus foliosus	specific_leaf_area	3	NA	71.6	cm2/g
+49	Rhamnaceae	Ceanothus	Ceanothus gloriosus var. exaltatus	specific_leaf_area	2	NA	48.4	cm2/g
+50	Rhamnaceae	Ceanothus	Ceanothus gloriosus var. gloriosus	specific_leaf_area	1	NA	35.2	cm2/g
+51	Rhamnaceae	Ceanothus	Ceanothus gloriosus var. porrectus	specific_leaf_area	2	NA	64	cm2/g
+52	Rhamnaceae	Ceanothus	Ceanothus griseus	specific_leaf_area	4	NA	64.7	cm2/g
+53	Rhamnaceae	Ceanothus	Ceanothus hearstiorum	specific_leaf_area	3	NA	86.1	cm2/g
+54	Rhamnaceae	Ceanothus	Ceanothus impressus	specific_leaf_area	3	NA	73.3	cm2/g
+55	Rhamnaceae	Ceanothus	Ceanothus incanus	specific_leaf_area	2	NA	80.3	cm2/g
+56	Rhamnaceae	Ceanothus	Ceanothus integerrimus	specific_leaf_area	3	NA	104	cm2/g
+57	Rhamnaceae	Ceanothus	Ceanothus jepsonii var. jepsonii	specific_leaf_area	2	NA	29.4	cm2/g
+58	Rhamnaceae	Ceanothus	Ceanothus lemmonii	specific_leaf_area	1	NA	147	cm2/g
+59	Rhamnaceae	Ceanothus	Ceanothus leucodermis	specific_leaf_area	1	NA	85.8	cm2/g
+60	Rhamnaceae	Ceanothus	Ceanothus maritimus	specific_leaf_area	7	NA	34	cm2/g
+61	Rhamnaceae	Ceanothus	Ceanothus masonii	specific_leaf_area	2	NA	48.4	cm2/g
+62	Rhamnaceae	Ceanothus	Ceanothus megacarpus var. insularis	specific_leaf_area	2	NA	33.6	cm2/g
+63	Rhamnaceae	Ceanothus	Ceanothus megacarpus var. megacarpus	specific_leaf_area	1	NA	49.5	cm2/g
+64	Rhamnaceae	Ceanothus	Ceanothus oliganthus var. oliganthus	specific_leaf_area	3	NA	97.1	cm2/g
+65	Rhamnaceae	Ceanothus	Ceanothus oliganthus var. sorediatus	specific_leaf_area	2	NA	86.7	cm2/g
+66	Rhamnaceae	Ceanothus	Ceanothus papillosus	specific_leaf_area	2	NA	79.4	cm2/g
+67	Rhamnaceae	Ceanothus	Ceanothus prostratus	specific_leaf_area	1	NA	30.8	cm2/g
+68	Rhamnaceae	Ceanothus	Ceanothus purpureus	specific_leaf_area	2	NA	34.5	cm2/g
+69	Rhamnaceae	Ceanothus	Ceanothus spinosus	specific_leaf_area	1	NA	75.3	cm2/g
+70	Rhamnaceae	Ceanothus	Ceanothus thyrsiflorus	specific_leaf_area	11	NA	162	cm2/g
+71	Rhamnaceae	Ceanothus	Ceanothus tomentosus	specific_leaf_area	1	NA	72.7	cm2/g
+72	Rhamnaceae	Ceanothus	Ceanothus velutinus var. hookeri	specific_leaf_area	1	NA	69.7	cm2/g
+73	Rhamnaceae	Ceanothus	Ceanothus verrucosus	specific_leaf_area	1	NA	39.6	cm2/g
+74	Rosaceae	Cercocarpus	Cercocarpus betuloides	specific_leaf_area	2	NA	73.1	cm2/g
+75	Rhamnaceae	Ceanothus	Ceanothus arboreus	seed_mass	3	NA	14.1	mg
+76	Rhamnaceae	Ceanothus	Ceanothus cordulatus	seed_mass	2	NA	2.67	mg
+77	Rhamnaceae	Ceanothus	Ceanothus cuneatus var. cuneatus	seed_mass	4	NA	9.86	mg
+78	Rhamnaceae	Ceanothus	Ceanothus cuneatus var. rigidus	seed_mass	4	NA	5.26	mg
+79	Rhamnaceae	Ceanothus	Ceanothus gloriosus var. exaltatus	seed_mass	1	NA	5.77	mg
+80	Rhamnaceae	Ceanothus	Ceanothus gloriosus var. gloriosus	seed_mass	1	NA	5.94	mg
+81	Rhamnaceae	Ceanothus	Ceanothus gloriosus var. porrectus	seed_mass	1	NA	3.76	mg
+82	Rhamnaceae	Ceanothus	Ceanothus griseus	seed_mass	3	NA	2.66	mg
+83	Rhamnaceae	Ceanothus	Ceanothus impressus	seed_mass	2	NA	4.26	mg
+84	Rhamnaceae	Ceanothus	Ceanothus incanus	seed_mass	1	NA	5.92	mg
+85	Rhamnaceae	Ceanothus	Ceanothus integerrimus	seed_mass	2	NA	5.72	mg
+86	Rhamnaceae	Ceanothus	Ceanothus jepsonii var. jepsonii	seed_mass	1	NA	4.64	mg
+87	Rhamnaceae	Ceanothus	Ceanothus lemmonii	seed_mass	1	NA	4.35	mg
+88	Rhamnaceae	Ceanothus	Ceanothus maritimus	seed_mass	1	NA	9.45	mg
+89	Rhamnaceae	Ceanothus	Ceanothus megacarpus var. megacarpus	seed_mass	1	NA	24	mg
+90	Rhamnaceae	Ceanothus	Ceanothus oliganthus var. sorediatus	seed_mass	3	NA	3.6	mg
+91	Rhamnaceae	Ceanothus	Ceanothus prostratus	seed_mass	2	NA	8.76	mg
+92	Rhamnaceae	Ceanothus	Ceanothus purpureus	seed_mass	1	NA	6.83	mg
+93	Rhamnaceae	Ceanothus	Ceanothus spinosus	seed_mass	1	NA	7.41	mg
+94	Rhamnaceae	Ceanothus	Ceanothus thyrsiflorus	seed_mass	3	NA	2.27	mg
+95	Rhamnaceae	Ceanothus	Ceanothus tomentosus	seed_mass	1	NA	2.65	mg
+96	Rhamnaceae	Ceanothus	Ceanothus verrucosus	seed_mass	1	NA	4.93	mg
+97	Pinaceae	Abies	Abies magnifica var. magnifica	seed_mass	1	NA	68.7	mg
+98	Rhamnaceae	Ceanothus	Ceanothus dentatus	seed_mass	2	NA	2.99	mg
+99	Rhamnaceae	Ceanothus	Ceanothus greggii var. perplexans	seed_mass	1	NA	7.43	mg
+100	Rhamnaceae	Ceanothus	Ceanothus palmeri	seed_mass	1	NA	2.12	mg
+101	Rhamnaceae	Ceanothus	Ceanothus papillosus var. papillosus	seed_mass	1	NA	2.19	mg
+102	Rhamnaceae	Ceanothus	Ceanothus papillosus var. roweanus	seed_mass	3	NA	2.2	mg
+103	Rhamnaceae	Ceanothus	Ceanothus parryi	seed_mass	2	NA	3.27	mg
+104	Rhamnaceae	Ceanothus	Ceanothus velutinus var. velutinus	seed_mass	1	NA	4.85	mg
+105	Pinaceae	Picea	Picea sitchensis	seed_mass	2	NA	1.85	mg
+106	Pinaceae	Pinus	Pinus attenuata	seed_mass	2	NA	21.7	mg
+107	Pinaceae	Pinus	Pinus contorta ssp. contorta	seed_mass	1	NA	3.36	mg
+108	Pinaceae	Pinus	Pinus lambertiana	seed_mass	1	NA	216	mg
+109	Pinaceae	Pinus	Pinus monophylla	seed_mass	2	NA	541	mg
+110	Pinaceae	Pinus	Pinus muricata	seed_mass	3	NA	17.1	mg
+111	Pinaceae	Pinus	Pinus radiata	seed_mass	2	NA	25.1	mg
+112	Pinaceae	Pseudotsuga	Pseudotsuga menziesii var. menziesii	seed_mass	2	NA	11.5	mg
+113	Rhamnaceae	Ceanothus	Ceanothus cuneatus var. cuneatus	wood_density	1	NA	8.83	g/cm3
+114	Rhamnaceae	Ceanothus	Ceanothus oliganthus var. sorediatus	wood_density	1	NA	0.67	g/cm3
+115	Rhamnaceae	Ceanothus	Ceanothus arboreus	max_height	1	NA	4.2	m
+116	Rhamnaceae	Ceanothus	Ceanothus cuneatus var. cuneatus	max_height	2	NA	3.2	m
+117	Rhamnaceae	Ceanothus	Ceanothus oliganthus var. sorediatus	max_height	1	NA	4.2	m
+118	Cupressaceae	Cupressus	Cupressus goveniana	max_height	1	NA	4.2	m
+119	Rhamnaceae	Ceanothus	Ceanothus arboreus	plant_habit	6	sh/tr	NA	NA
+120	Rhamnaceae	Ceanothus	Ceanothus oliganthus var. sorediatus	plant_habit	6	sh/pehe	NA	NA

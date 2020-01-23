@@ -1,0 +1,94 @@
+DATA and MEANS tables created by dbase scripts
+cdata-all.csv - table containing individual trait records
+$id - unique id number for record
+$means.id - id number of mean value (in means table) that this record contributed to
+$source - source name (add .txt to find file containing source data)
+$source.id - record id in source file
+$taxon - TJM1 name
+$trait - trait name
+$dstate - state for binary and nominal traits
+$value - trait value (for quantitative traits)
+$units - units for continuous traits
+$country - geographic info for collection site
+$state
+$county
+$place
+$lat
+$long
+$collection	- info on museum or garden accession data
+$accession
+
+
+ctaxontrait.csv - table containing trait means by species and trait
+$id - unique id number for record (generated anew each time means file is recalculated)
+$family - TJM1 family
+$genus - TJM1 genus
+$taxon - TJM1 taxon name
+$trait - trait name
+$dstate - state for binary and nominal traits
+$value - mean trait value for continuous traits
+$units - units for continuous traits
+$N - number of records for this trait and taxon
+
+INFO TABLES
+sources.csv - table containing information on each source
+$id - unique id number for each source
+$name - efc source name (add '.txt' to get corresponding file name in sources directory)
+$long.name - full name of data set
+$owner - data owner
+$owner.email - contact email for data owner
+$type - source type (unpublished, publication, specimen)
+$author - source author
+$year - publication or collection year
+$title - title of publication or other source
+$journal - journal title of publication
+$volume - journal volume for publication
+$start.page - journal pages for publication
+$url - url for publication
+$other.url - other url to access data
+$notes - notes
+$created.by - who created record
+$created.date - date record created
+$modified.by - who made last modification to record (enter created by value on creation)
+$modified.date - date of last modification of record (enter creation date on creation)
+$last.processed - date source was last run through R scripts
+
+SOURCE TABLES - all source files should have following 23 fields, plus any 
+** minimum set of columns
+* columns added if they are not present
+other columns optional
+
+**$id - unique id number for record
+**$taxon - tjm1 taxon
+**$trait - trait name
+*$dstate - state of discrete trait (necessary if any traits are discrete)
+**$value - mean value of continuous trait
+**$units - units of continuous trait
+$sd - sd of trait value
+$N - sample size for continuous trait
+*$country - country
+*$state - state
+*$county - country
+*$place.name - other place name: city, state park, research reserve, etc.
+*$lat - latitude (+ for N, - for S)
+*$long - longitude (+ for E, - for W)
+*$latlong.conf - radius of confidence for lat/long location, in km
+*$collection - collection name for specimens (bot garden, herbarium)
+*$accession - accession number for specimens
+*$notes - notes added by efc curator
+$created.by - who created record
+$created.date - date record created
+$modified.by - who made last modification to record (enter created by value on creation)
+$modified.date - date of last modification of record (enter creation date on creation)
+
+** optional columns
+$source.taxon - original taxon name from source
+$source.trait - original trait name from source
+$source.dstate - original score of discrete trait values
+$source.value - original mean for continuous trait
+$source.sd - original sd for continuous trait
+$source.N - original N (sample size)
+$source.units - original units of trait in source
+$source.notes - notes on record from source
+$source.location - for publications, indicate Table, Figure, Appendix, or page number where trait value was located
+<other fields specific to source>

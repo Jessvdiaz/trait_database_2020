@@ -1,0 +1,22 @@
+id	taxon	trait	dstate	cval	units	country	state	county	place.name	lat	long	loc.conf_km	created.by	created.date	modified.by	modified.date	notes	source.taxon	source.trait	source.state	source.value	source.units
+1	Ceanothus cuneatus var. cuneatus	seed_mass	NA	8.83	mg	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25	2	D. Ackerly	6/29/06	D. Ackerly	6/29/06	NA	Ceanothus cuneatus var. cuneatus	seed size	NA	8.83	mg
+2	Ceanothus oliganthus var. sorediatus	seed_mass	NA	4.03	mg	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25	2	D. Ackerly	6/29/06	D. Ackerly	6/29/06	NA	Ceanothus oliganthus var. sorediatus	seed size	NA	4.03	mg
+3	Ceanothus cuneatus var. cuneatus	wood_density	NA	8.83	g/cm3	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25	2	D. Ackerly	6/29/06	D. Ackerly	6/29/06	NA	Ceanothus cuneatus var. cuneatus	wood density	NA	0.698	mg/cm3
+4	Ceanothus oliganthus var. sorediatus	wood_density	NA	0.67	g/cm3	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25	2	D. Ackerly	6/29/06	D. Ackerly	6/29/06	NA	Ceanothus oliganthus var. sorediatus	wood density	NA	0.67	mg/cm3
+5	Ceanothus cuneatus var. cuneatus	max_height	NA	3.2	m	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25	2	D. Ackerly	6/29/06	D. Ackerly	6/29/06	NA	Ceanothus cuneatus var. cuneatus	maximum height	NA	3.2	m
+6	Ceanothus oliganthus var. sorediatus	max_height	NA	4.2	m	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25	2	D. Ackerly	6/29/06	D. Ackerly	6/29/06	NA	Ceanothus oliganthus var. sorediatus	maximum height	NA	4.2	m
+7	Ceanothus cuneatus var. cuneatus	max_height	NA	3.2	m	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25	2	D. Ackerly	6/29/06	D. Ackerly	6/29/06	NA	Ceanothus cuneatus var. cuneatus	maximum height	NA	3.2	m
+8	Cupressus goveniana	max_height	NA	4.2	m	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25	2	D. Ackerly	6/29/06	D. Ackerly	6/29/06	NA	Ceanothus oliganthus var. sorediatus	maximum height	NA	4.2	m
+9	Ceanothus arboreus	max_height	NA	4.2	m	USA	CA	San Mateo	Jasper Ridge Biological Preserve	37.4	-122.25	2	D. Ackerly	6/29/06	D. Ackerly	6/29/06	NA	Ceanothus oliganthus var. sorediatus	maximum height	NA	4.2	m
+10	Ceanothus arboreus	plant_habit	wnan	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+11	Ceanothus arboreus	plant_habit	span	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+12	Ceanothus arboreus	plant_habit	suan	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+13	Ceanothus arboreus	plant_habit	pehe	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+14	Ceanothus arboreus	plant_habit	sh	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+15	Ceanothus arboreus	plant_habit	tr	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+16	Ceanothus oliganthus var. sorediatus	plant_habit	wnan	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+17	Ceanothus oliganthus var. sorediatus	plant_habit	span	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+18	Ceanothus oliganthus var. sorediatus	plant_habit	suan	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+19	Ceanothus oliganthus var. sorediatus	plant_habit	pehe	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+20	Ceanothus oliganthus var. sorediatus	plant_habit	sh	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+21	Ceanothus oliganthus var. sorediatus	plant_habit	tr	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA

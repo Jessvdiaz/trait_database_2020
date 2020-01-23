@@ -1,0 +1,801 @@
+new.taxon.query(fy,'g')->int;cbind(data.frame(fy$name,int))
+new.taxon.query(fy,'h')->int;cbind(data.frame(fy$name,int))
+new.taxon.query(fy,'l')->int;cbind(data.frame(fy$name,int))
+new.taxon.query(fy,'l')->int;fy$name[which((intaxon==1)&(fy$term==1))]
+fy
+fy=fy[,1:7]
+fy
+new.taxon.query(fy,'l')->int;fy$name[which((int==1)&(fy$term==1))]
+int
+fy$term
+fy
+fy=read.fy('phylo.fy')
+fy
+int
+new.taxon.query(fy,'l')->int;fy$name[which((int==1)&(fy$term==1))]
+new.taxon.query(fy,'l')->int;sort(fy$name[which((int==1)&(fy$term==1))])
+new.taxon.query(fy,'a')->int;sort(fy$name[which((int==1)&(fy$term==1))])
+dim(sdfy)
+taxon.query = function(fy,t,debug=FALSE) {#
+	tn = fy$node[which(fy$name==t)]#
+	td = fy$depth[tn+1]#
+	if (debug) print(paste('tn/td=',tn,td))#
+	maxd = max(fy$depth)#
+	intaxon = rep(0,nrow(fy))#
+	intaxon[which(fy$name==t)] = 1#
+	for (d in (td+1):maxd) {#
+		if (debug) print(paste(d))#
+		drows = which(fy$depth==d)#
+		p.drows = fy$parent[drows]#
+		prows = match(p.drows,fy$node)#
+		in.rows = which(intaxon[prows]==1)#
+		intaxon[drows[in.rows]]=1#
+	}#
+	return(intaxon)	#
+}
+names(sdfy)
+acer=taxon.query(sdfy,'Acer')
+length(acer)
+table(acer)
+sdfy$name[acer==1]
+sapindaceae=taxon.query(sdfy,'Sapindaceae')
+sdfy$name[sapindaceae==1]
+sdfy$name[which((sapindaceae==1)&(sdfy$term==1))]
+ranunc=taxon.query(sdfy,'Ranunculales')
+date
+date()
+date();ranunc=taxon.query(sdfy,'Ranunculales');date()
+dim(sdfy)
+date();ranunc=taxon.query(sdfy,'Ranunculales');date()
+date();ranunc=taxon.query(sdfy,'Ranunculales');date()
+date();ranunc=taxon.query(sdfy,'Ranunculales');date()
+date();ranunc=taxon.query(sdfy,'Ranunculales');date()
+date();ranunc=taxon.query(sdfy,'Ranunculales');date()
+bux-ast=taxon.query(sdfy,'bux-ast')
+bux.ast=taxon.query(sdfy,'bux-ast')
+table(bux.ast)
+table(ranunc)
+table(acer)
+table(sapindaceae)
+sdsz=read.delim('traits.txt')
+names(sdsz)
+ran.names=sdfy$name[ranunc]
+ran.names[1]
+ran.taxa=sdfy$name[which((sdfy$term==1)&(ranunc==1))]
+ran.taxa[1]
+rm(ran.names)
+dim(ran.taxa)
+length(ran.taxa)
+ba.taxa=sdfy$name[which((sdfy$term==1)&(bux.ast==1))]
+length(ba.taxa)
+ba.taxa[1]
+hist(sdsz[match(ran.taxa,sdsz$taxon),2])
+hist(sdsz[match(ba.taxa,sdsz$taxon),2])
+?box.plot
+?plot
+plot(sdsz[match(ran.taxa,sdsz$taxon),2])
+extract.traits = function(fy,,t,traits,trt,debug=FALSE) {#
+	taxa = taxon.query(fy,t)#
+	names = fy$name[which((taxa==1)&(fy$nchild==0))]#
+	trows = match(names,traits[,1])#
+	return(traits[trows,trt])#
+}
+extract.traits = function(fy,t,traits,trt,debug=FALSE) {#
+	taxa = taxon.query(fy,t)#
+	names = fy$name[which((taxa==1)&(fy$nchild==0))]#
+	trows = match(names,traits[,1])#
+	return(traits[trows,trt])#
+}
+rs = extract.traits(fy,'Ranunculales',sdsz,2)
+rs = extract.traits(sdfy,'Ranunculales',sdsz,2)
+length(rs)
+wkc=read.table('spmeans.by.plot.txt')
+wkc=read.delim('spmeans.by.plot.txt')
+names(wkc)
+unique(wkc$species)
+names(wkc)
+for (t in 4:ncol(wkc)) {#
+	means = tapply(wkc[,t],wkc$species,mean,na.rm=TRUE)#
+	print(length(means))#
+}
+names(means)
+means
+array(means)
+	rec = cbind(names(means),names(wkc)[n],array(means))
+rec
+n
+t
+cbind(names(means),names(wkc)[t],array(means))
+records=NULL#
+for (t in 4:ncol(wkc)) {#
+	means = tapply(wkc[,t],wkc$species,mean,na.rm=TRUE)#
+	rec = cbind(names(means),names(wkc)[t],array(means))#
+	records=rbind(records,rec)#
+	print(length(means))#
+}
+dim(records)
+records[1,]
+records=data.frame(records)
+records[1,]
+names(records)=c('taxon','trait','value')
+records[1,]
+names(wkc)
+names(wkc)[4]='seed mass'
+names(wkc)[5]='wood density'
+names(wkc)[5]='wood density'
+wkc=read.delim('spmeans.by.plot.txt')
+names(wkc)
+wkc=read.delim('spmeans.by.plot.txt')
+names(wkc)
+records=NULL#
+for (t in 4:ncol(wkc)) {#
+	means = tapply(wkc[,t],wkc$species,mean,na.rm=TRUE)#
+	rec = cbind(names(means),names(wkc)[t],array(means))#
+	records=rbind(records,rec)#
+	print(length(means))#
+}
+records[1,]
+records=data.frame(records)
+names(records)
+names(records)=c('taxon','trait','value')
+source("/Users/david/Documents/Projects/EcologicalFloraCal/Prototype/dbase.proto/matrix2records.R")
+source("/Users/david/Documents/Projects/EcologicalFloraCal/Prototype/dbase.proto/matrix2records.R")
+ncol(wkc)
+r=matrix2records(wkc,4:14)
+wkc=read.delim('spmeans.by.plot.txt')
+names(wkc)
+wkc=read.delim('spmeans.by.plot.txt')
+r=matrix2records(wkc,4:14)
+dim(r)
+?is.na
+source("/Users/david/Documents/Projects/EcologicalFloraCal/Prototype/dbase.proto/matrix2records.R")
+r=matrix2records(wkc,4:14)
+t=4
+m=wkc
+	means = tapply(m[,t],m$taxon,mean,na.rm=TRUE)
+	means = subset(means,is.na(means))
+means
+source("/Users/david/Documents/Projects/EcologicalFloraCal/Prototype/dbase.proto/matrix2records.R")
+r=matrix2records(wkc,4:14)
+r[is.na(r[,3])]
+r[!is.na(r[,3])]
+r[!is.na(r[,3]),]
+dim(r)
+write.table(r,file='cornwell06.txt',row.names=FALSE,quote=FALSE,sep='\')
+)
+'
+)
+write.table(r,file='cornwell06.txt',row.names=FALSE,quote=FALSE,sep='\t')
+r$id=1:nrow(r)
+r$dstate=NA
+r$sd=NA
+r$N=NA
+r$source.units=NA
+r$country='USA'
+r$state='CA'
+r$county='San Mateo'
+r$place.name='Jasper Ridge Biological Preserve'
+names(r)
+r$lat=37.4
+r$long=-122.25
+r$loc.conf_km=2
+r$created.by='D. Ackerly'
+r$created.date=date()
+write.table(r,file='cornwell06.txt',row.names=FALSE,quote=FALSE,sep='\t')
+now='Wed Jul 12 18:40:52 2006'
+class(now)
+now
+class(date())
+?date
+sys.time()
+sys.time
+Sys.time()
+Sys.date()
+Sys.Date()
+class(Sys.Date())
+wkc=read.delim('cornwell06.txt')
+names(wkc)
+wkc$notes=NA
+wkc$collection=NA
+wkc$accession=NA
+names(wkc)
+wkc=wkc[,c(1:19,28:30,20:27)]
+wkc=wkc[,c(1:19,27:29,20:26)]
+names(wkc)
+wkc=wkc[,c(1:15,20,16:29)]
+names(wkc)
+wkc=wkc[,-21]
+names(wkc)
+wkc=wkc[,c(1:15,21,22,16:20,23:29)]
+names(wkc)
+wkc$source.notes=NA
+wkc$source.detail=NA
+write.table(wkc,file='cornwell06.txt',row.names=FALSE,quote=FALSE,sep='\t')
+wkc=read.delim('cornwell06.txt')
+names(wkc)
+setwd('~/Documents/Projects/EcologicalFloraCal/Prototype/dbase.proto')#
+#
+source('efc.R')
+setwd('~/Documents/Projects/EcologicalFloraCal/Prototype/dbase.proto')#
+#
+source('efc.R')
+setwd('~/Documents/Projects/EcologicalFloraCal/Prototype/dbase.proto')#
+#
+source('efc.R')
+print(dir())#
+table.dir = 'info.tables'
+tjm1=read.delim(paste(table.dir,'tjm1.txt',sep='/'))
+tables = load.tables(table.dir)#
+traits = tables[[1]]#
+dstates = tables[[2]]#
+sources = tables[[3]]#
+files.in.dir = tables[[4]]
+files.in.dir
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]
+sdata=NULL
+	nfiles = length(files.in.dir)#
+	file2list = match(files.in.dir,sources$files)#
+#
+	# if newbuild = FALSE then check if current sources are#
+	# already in data.txt, and remove matching records#
+	if (!newbuild) {#
+		replace.lines = which(sdata$source%in%sources$name[file2list])#
+		sdata = sdata[-replace.lines,]#
+		if (nrow(sdata)>0) {#
+			for (c in ncol(sdata)) {#
+				if (class(sdata[,c])=='factor') #
+					sdata[,c] = as.character(sdata[,c])#
+				}#
+			} else newbuild = TRUE #
+		}
+	taxa.check = NULL#
+	trait.check = NULL#
+	units.check = NULL#
+	dstates.check = NULL
+f=1
+		source.file = files.in.dir[f]#
+		source.name = sources$name[file2list[f]]#
+		print(source.file)#
+		indat = read.delim(paste#
+			('sources.to.enter',source.file,sep='/'))#
+		#
+		check.results = check.indat(f,#
+			source.name,tjm1,traits,sources,#
+			files.in.dir,check.tjm,indat,#
+			taxa.check,trait.check,units.check,dstates.check)
+		taxa.check = check.results[[1]]#
+		trait.check = check.results[[2]]#
+		units.check = check.results[[3]]#
+		dstates.check = check.results[[4]]		#
+		tr.miss = check.results[[5]]#
+		tx.miss = check.results[[6]]#
+		units.mismatch = check.results[[7]]#
+		trst.mismatch = check.results[[8]]
+taxa.check
+trait.check
+tables = load.tables(table.dir)#
+traits = tables[[1]]#
+dstates = tables[[2]]#
+sources = tables[[3]]#
+files.in.dir = tables[[4]]
+tables = load.tables(table.dir)#
+traits = tables[[1]]#
+dstates = tables[[2]]#
+sources = tables[[3]]#
+files.in.dir = tables[[4]]
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = d
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]
+print(taxa.check)#
+print(trait.check)#
+print(units.check)#
+print(dstates.check)
+names(traits)
+traits$trait
+tables = load.tables(table.dir)#
+traits = tables[[1]]#
+dstates = tables[[2]]#
+sources = tables[[3]]#
+files.in.dir = tables[[4]]
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]#
+#
+print(taxa.check)#
+print(trait.check)#
+print(units.check)#
+print(dstates.check)
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]#
+#
+print(taxa.check)#
+print(trait.check)#
+print(units.check)#
+print(dstates.check)
+traits$trait
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]#
+#
+print(taxa.check)#
+print(trait.check)#
+print(units.check)#
+print(dstates.check)
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]#
+#
+print(taxa.check)#
+print(trait.check)#
+print(units.check)#
+print(dstates.check)
+unique(new.sdata$units)
+sdata = new.sdata#
+#
+pot.dups = check.duplicates(sdata)
+mtables = build.means(tjm1,traits,sdata)#
+sdata = mtables[[1]]#
+means = mtables[[2]]
+	trait.list = unique(sdata$trait)#
+	ntraits = length(trait.list)
+ntraits
+	for (t in 1:ntraits) {#
+		tr2trt = match(trait.list[t],traits$trait)#
+		dt = subset(sdata,(sdata$trait==trait.list[t])&!is.na(sdata$value))#
+		if (traits$type[tr2trt]=='continuous') {#
+			tm = tapply(dt$value,dt$taxon,mean)#
+			tm = tm[which(!is.na(tm))]#
+			tm = signif(tm,digits=3)#
+			ts = rep(NA,length(tm)) #placeholder for dstate#
+			tN = tapply(dt$value,dt$taxon,length)#
+			tN = tN[which(!is.na(tN))]#
+		} else {#
+			# summary stats for multiple observations of nominal states needed here#
+			tN = tapply(dt$dstate,dt$taxon,length)#
+			tN = tN[which(!is.na(tN))]	#
+			ts = rep(NA,length(tN))#
+			tm = rep(NA,length(tN)) #placeholder for value#
+			st.mn = aggregate(dt$value,#
+				list(dt$dstate,dt$taxon),mean)#
+			for (tx in 1:length(tN)) {#
+				st.mnx = subset(st.mn,(st.mn[,2]==names(tN)[tx])					&(st.mn$x!=0))#
+				ord.st = st.mnx[,1][order(st.mnx$x,#
+					decreasing=TRUE)]#
+				ts[tx]=paste(ord.st[1])#
+				for (s in 2:length(ord.st)) ts[tx] = #
+					paste(ts[tx],ord.st[s],sep='/')#
+			}#
+		}#
+		tname = rep(trait.list[t],length(tN))#
+		taxon = row.names(tN)#
+		units = rep(traits[match(trait.list[t],traits[,1]),#
+			2],length(tN))#
+		tmean = data.frame(taxon,tname,array(tN),ts,array(tm),units)#
+		names(tmean) = c('taxon','trait','N','dstate','value','units')#
+		if (t>1) {#
+			means = rbind(means,tmean)#
+			} else means = tmean#
+		}
+t=1
+		tr2trt = match(trait.list[t],traits$trait)#
+		dt = subset(sdata,(sdata$trait==trait.list[t])&!is.na(sdata$value))
+		if (traits$type[tr2trt]=='continuous') {#
+			tm = tapply(dt$value,dt$taxon,mean)#
+			tm = tm[which(!is.na(tm))]#
+			tm = signif(tm,digits=3)#
+			ts = rep(NA,length(tm)) #placeholder for dstate#
+			tN = tapply(dt$value,dt$taxon,length)#
+			tN = tN[which(!is.na(tN))]#
+		}
+		tname = rep(trait.list[t],length(tN))#
+		taxon = row.names(tN)#
+		units = rep(traits[match(trait.list[t],traits[,1]),#
+			2],length(tN))#
+		tmean = data.frame(taxon,tname,array(tN),ts,array(tm),units)#
+		names(tmean) = c('taxon','trait','N','dstate','value','units')#
+		if (t>1) {#
+			means = rbind(means,tmean)#
+			} else means = tmean
+		if (traits$type[tr2trt]=='continuous') {#
+			tm = tapply(dt$value,dt$taxon,mean)#
+			tm = tm[which(!is.na(tm))]#
+			tm = signif(tm,digits=3)#
+			ts = rep(NA,length(tm)) #placeholder for dstate#
+			tN = tapply(dt$value,dt$taxon,length)#
+			tN = tN[which(!is.na(tN))]#
+		} else {#
+			# summary stats for multiple observations of nominal states needed here#
+			tN = tapply(dt$dstate,dt$taxon,length)#
+			tN = tN[which(!is.na(tN))]	#
+			ts = rep(NA,length(tN))#
+			tm = rep(NA,length(tN)) #placeholder for value#
+			st.mn = aggregate(dt$value,#
+				list(dt$dstate,dt$taxon),mean)#
+			for (tx in 1:length(tN)) {#
+				st.mnx = subset(st.mn,(st.mn[,2]==names(tN)[tx])					&(st.mn$x!=0))#
+				ord.st = st.mnx[,1][order(st.mnx$x,#
+					decreasing=TRUE)]#
+				ts[tx]=paste(ord.st[1])#
+				for (s in 2:length(ord.st)) ts[tx] = #
+					paste(ts[tx],ord.st[s],sep='/')#
+			}#
+		}
+	for (t in 1:ntraits) {#
+		print(t)#
+		tr2trt = match(trait.list[t],traits$trait)#
+		dt = subset(sdata,(sdata$trait==trait.list[t])&!is.na(sdata$value))#
+		if (traits$type[tr2trt]=='continuous') {#
+			tm = tapply(dt$value,dt$taxon,mean)#
+			tm = tm[which(!is.na(tm))]#
+			tm = signif(tm,digits=3)#
+			ts = rep(NA,length(tm)) #placeholder for dstate#
+			tN = tapply(dt$value,dt$taxon,length)#
+			tN = tN[which(!is.na(tN))]#
+		} else {#
+			# summary stats for multiple observations of nominal states needed here#
+			tN = tapply(dt$dstate,dt$taxon,length)#
+			tN = tN[which(!is.na(tN))]	#
+			ts = rep(NA,length(tN))#
+			tm = rep(NA,length(tN)) #placeholder for value#
+			st.mn = aggregate(dt$value,#
+				list(dt$dstate,dt$taxon),mean)#
+			for (tx in 1:length(tN)) {#
+				st.mnx = subset(st.mn,(st.mn[,2]==names(tN)[tx])					&(st.mn$x!=0))#
+				ord.st = st.mnx[,1][order(st.mnx$x,#
+					decreasing=TRUE)]#
+				ts[tx]=paste(ord.st[1])#
+				for (s in 2:length(ord.st)) ts[tx] = #
+					paste(ts[tx],ord.st[s],sep='/')#
+			}#
+		}#
+		tname = rep(trait.list[t],length(tN))#
+		taxon = row.names(tN)#
+		units = rep(traits[match(trait.list[t],traits[,1]),#
+			2],length(tN))#
+		tmean = data.frame(taxon,tname,array(tN),ts,array(tm),units)#
+		names(tmean) = c('taxon','trait','N','dstate','value','units')#
+		if (t>1) {#
+			means = rbind(means,tmean)#
+			} else means = tmean#
+		}
+t=6
+		print(t)#
+		tr2trt = match(trait.list[t],traits$trait)#
+		dt = subset(sdata,(sdata$trait==trait.list[t])&!is.na(sdata$value))#
+		if (traits$type[tr2trt]=='continuous') {#
+			tm = tapply(dt$value,dt$taxon,mean)#
+			tm = tm[which(!is.na(tm))]#
+			tm = signif(tm,digits=3)#
+			ts = rep(NA,length(tm)) #placeholder for dstate#
+			tN = tapply(dt$value,dt$taxon,length)#
+			tN = tN[which(!is.na(tN))]#
+		} else {#
+			# summary stats for multiple observations of nominal states needed here#
+			tN = tapply(dt$dstate,dt$taxon,length)#
+			tN = tN[which(!is.na(tN))]	#
+			ts = rep(NA,length(tN))#
+			tm = rep(NA,length(tN)) #placeholder for value#
+			st.mn = aggregate(dt$value,#
+				list(dt$dstate,dt$taxon),mean)#
+			for (tx in 1:length(tN)) {#
+				st.mnx = subset(st.mn,(st.mn[,2]==names(tN)[tx])					&(st.mn$x!=0))#
+				ord.st = st.mnx[,1][order(st.mnx$x,#
+					decreasing=TRUE)]#
+				ts[tx]=paste(ord.st[1])#
+				for (s in 2:length(ord.st)) ts[tx] = #
+					paste(ts[tx],ord.st[s],sep='/')#
+			}#
+		}
+tr2trt
+trait.list[t]
+		dt = subset(sdata,(sdata$trait==trait.list[t])&!is.na(sdata$value))
+dim(dt)
+traits$type[tr2trt]
+tables = load.tables(table.dir)#
+traits = tables[[1]]#
+dstates = tables[[2]]#
+sources = tables[[3]]#
+files.in.dir = tables[[4]]
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]#
+#
+print(taxa.check)#
+print(trait.check)#
+print(units.check)#
+print(dstates.check)
+sdata = new.sdata
+mtables = build.means(tjm1,traits,sdata)
+	trait.list = unique(sdata$trait)#
+	ntraits = length(trait.list)#
+	#
+	for (t in 1:ntraits) {#
+		print(t)#
+		tr2trt = match(trait.list[t],traits$trait)#
+		dt = subset(sdata,(sdata$trait==trait.list[t])&!is.na(sdata$value))#
+		if (traits$type[tr2trt]=='continuous') {#
+			tm = tapply(dt$value,dt$taxon,mean)#
+			tm = tm[which(!is.na(tm))]#
+			tm = signif(tm,digits=3)#
+			ts = rep(NA,length(tm)) #placeholder for dstate#
+			tN = tapply(dt$value,dt$taxon,length)#
+			tN = tN[which(!is.na(tN))]#
+		} else {#
+			# summary stats for multiple observations of nominal states needed here#
+			tN = tapply(dt$dstate,dt$taxon,length)#
+			tN = tN[which(!is.na(tN))]	#
+			ts = rep(NA,length(tN))#
+			tm = rep(NA,length(tN)) #placeholder for value#
+			st.mn = aggregate(dt$value,#
+				list(dt$dstate,dt$taxon),mean)#
+			for (tx in 1:length(tN)) {#
+				st.mnx = subset(st.mn,(st.mn[,2]==names(tN)[tx])					&(st.mn$x!=0))#
+				ord.st = st.mnx[,1][order(st.mnx$x,#
+					decreasing=TRUE)]#
+				ts[tx]=paste(ord.st[1])#
+				for (s in 2:length(ord.st)) ts[tx] = #
+					paste(ts[tx],ord.st[s],sep='/')#
+			}#
+		}#
+		tname = rep(trait.list[t],length(tN))#
+		taxon = row.names(tN)#
+		units = rep(traits[match(trait.list[t],traits[,1]),#
+			2],length(tN))#
+		tmean = data.frame(taxon,tname,array(tN),ts,array(tm),units)#
+		names(tmean) = c('taxon','trait','N','dstate','value','units')#
+		if (t>1) {#
+			means = rbind(means,tmean)#
+			} else means = tmean#
+	}
+		tr2trt = match(trait.list[t],traits$trait)
+traits$type[tr2trt]
+tables = load.tables(table.dir)#
+traits = tables[[1]]#
+dstates = tables[[2]]#
+sources = tables[[3]]#
+files.in.dir = tables[[4]]
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]
+print(taxa.check)#
+print(trait.check)#
+print(units.check)#
+print(dstates.check)
+sdata = new.sdata
+mtables = build.means(tjm1,traits,sdata)
+sdata = mtables[[1]]#
+means = mtables[[2]]
+means[1,]
+source('efc.R')
+mtables = build.means(tjm1,traits,sdata)
+sdata = mtables[[1]]#
+means = mtables[[2]]
+means[1,]
+source('efc.R')
+mtables = build.means(tjm1,traits,sdata)#
+sdata = mtables[[1]]#
+means = mtables[[2]]
+means[1,]
+means[1:10,]
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]#
+#
+print(taxa.check)#
+print(trait.check)#
+print(units.check)#
+print(dstates.check)
+print(units.check)
+tables = load.tables(table.dir)#
+traits = tables[[1]]#
+dstates = tables[[2]]#
+sources = tables[[3]]#
+files.in.dir = tables[[4]]
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]#
+#
+print(taxa.check)#
+print(trait.check)#
+print(units.check)#
+print(dstates.check)
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]#
+#
+print(taxa.check)#
+print(trait.check)#
+print(units.check)#
+print(dstates.check)
+newbuild = TRUE#
+check.tjm = TRUE#
+#
+if (newbuild) {#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm)#
+	} else {#
+	datafile = 'efc.tables/data.txt'#
+	sdata = read.delim(datafile)#
+	print(dim(sdata))#
+	data.build = build.data(tjm1,traits,sources,#
+		files.in.dir,newbuild,check.tjm,sdata)#
+	}#
+taxa.check = data.build[[1]]#
+trait.check = data.build[[2]]#
+units.check = data.build[[3]]#
+dstates.check = data.build[[4]]#
+new.sdata = data.build[[5]]#
+#
+print(taxa.check)#
+print(trait.check)#
+print(units.check)#
+print(dstates.check)
