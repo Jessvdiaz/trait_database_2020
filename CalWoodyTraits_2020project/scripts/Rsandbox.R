@@ -6,6 +6,7 @@ splist_dir <- "CalWoodyTraits_2020project/data/species_lists/"
 CF <- read.csv(paste(splist_dir,"chilefornia_species.csv",sep=""),header=T,as.is=T)
 PWD <- read.csv("CalWoodyTraits_2020project/data/species_lists/PWD_woody_veg.csv",header=T,as.is=T,na.strings = "NA")
 BA <- read.csv(paste(splist_dir,"katie_bayarea_splist.csv",sep=""),header=T,as.is=T)
+Querc <-read.csv(paste(splist_dir,"Quercus_spp_list.csv",sep=""),header=T,as.is=T)
 
 # remove NA species - subset worked!!
 dim(PWD)
@@ -22,11 +23,13 @@ rm('CF')
 head(CA) # 'species' column
 head(PWD) # SPECIES columns, CF_species_name in CA data
 head(BA) # "x" column
+head(Querc) # Querc dataset includes all species from CA/PWD/BA and all of Quercus spp. Ackerly Lab has sampled
 
 names(BA) <- c("rownum","species","notes")
 names(CA)
 names(PWD)
 names(BA)
+names(Querc)
 
 ## Merging data frames example #####
 # x <- data.frame(species=c('a','b','c'),traitx=c(1,2,3),traity=c(10,12,14))
@@ -36,13 +39,13 @@ names(BA)
  
 # LEE's example using 'join' from dplyr2
 
-library(dplyr) # load for 'join' function
+#library(dplyr) # load for 'join' function
 # left_join = keep all rows from left dataframe, drop unused from right
 # right_join = keep all rows from right dataframe, drop unused from left
 # full_join = keep all rows from all dataframes
 
-CAPWD <- full_join(CA,PWD, by = c("species"="CF_species_name"))
-CAPWDBA <- full_join(CAPWD, BA)
+#CAPWD <- full_join(CA,PWD, by = c("species"="CF_species_name"))
+#CAPWDBA <- full_join(CAPWD, BA)
 
 ###############################
 #### Merging species List #####
@@ -57,12 +60,17 @@ PWD$CF_species_name[PWD_in_CA]
 # print species that are absent
 PWD$CF_species_name[!PWD_in_CA]
 
+# merge first two species list 
+
 sp_list <- merge(CA,PWD,by.x="species", by.y="CF_species_name",all=T)
 
-sp_all <- merge(sp_list,BA,all=T)
+# merge 2nd and 3rd species list 
+sp_add_1 <- merge(sp_list,BA,all=T)
 
-sp_all
-names(sp_all)
+#merge 3rd and 4th species list 
+sp_all <- merge(sp_add_1,Querc, all=T)
+
+
 
 # look at a record that came in from PWD for a species that was not in the CA tree list - see NAs for the columns from the original CA file
 sp_list[sp_list$species=='Ceanothus cuneatus',]
