@@ -3,7 +3,7 @@ rm(list=ls()) # erase everything in current environment
 getwd() # get working directory
 
 splist_dir <- "CalWoodyTraits_2020project/data/species_lists/"
-CF <- read.csv(paste(splist_dir,"chilefornia_species.csv",sep=""),header=T,as.is=T)
+CF <- read.csv(paste(splist_dir,"Chilefornia_species_list.csv",sep=""),header=T,as.is=T)
 PWD <- read.csv("CalWoodyTraits_2020project/data/species_lists/PWD_woody_veg.csv",header=T,as.is=T,na.strings = "NA")
 BA <- read.csv(paste(splist_dir,"katie_bayarea_splist.csv",sep=""),header=T,as.is=T)
 Querc <-read.csv(paste(splist_dir,"Quercus_spp_list.csv",sep=""),header=T,as.is=T)

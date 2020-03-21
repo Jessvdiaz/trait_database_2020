@@ -1,0 +1,33 @@
+Directions/ Data Management notes 
+
+Step one: Combine/merge species lists to create a master's Species list of California Tree's and shrubs
+
+Pepperwood, FIA data, North Bay species, and Chilean species 
+
+Step 2: data cleaning- managing species names that are spelled or have different common names that will be used to query Try DB add common species in selected datasets for listed SPP.
+
+Step 3: add second column of corrected species names to be able to pull from databases for traits 
+
+Step 4: add/create trait data from our own personal data/ unpublished, look at data that Ackerly lab has published and crosscheck sources within Try DB 
+
+Step 5: look at what trait data we have in DB common and uncommon.
+
+Step 6: start to develop targeted traits for species
+
+Step 7: index a database for use in our lab and Collaborator's analyses on commnuities. 
+
+List of sources: 
+
+Try Database 
+eventually Baker seed herbarium 
+Jepson ed 1 and 2
+
+sources for looking up common species of particular area 
+
+Pepperwood preserve website 
+
+https://www.pepperwoodpreserve.org/
+
+arctostaphylos species and salix spp. found on preserve. 
+
+
