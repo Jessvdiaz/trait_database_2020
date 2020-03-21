@@ -69,7 +69,7 @@ sp_add_1 <- merge(sp_list,BA,all=T)
 
 #merge 3rd and 4th species list 
 sp_all <- merge(sp_add_1,Querc, all=T)
-
+sp_all
 
 
 # look at a record that came in from PWD for a species that was not in the CA tree list - see NAs for the columns from the original CA file
