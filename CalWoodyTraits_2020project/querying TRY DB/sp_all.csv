@@ -1,0 +1,345 @@
+"","species","hemisphere","chilefornia_northbay","chilefornia_california","chilefornia_westernNA","fia_northbay","fia_california","fia_westernNA","CODE","SPECIES","COMMON.NAME","TR","SA","TS","hectares","rownum","notes"
+"1","Abies amabilis","north",0,22,961,0,2,1540,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Abies bracteata","north",0,183,183,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Abies concolor","north",37,2881,2755,16,1867,2553,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Abies grandis","north",86,189,667,28,81,731,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","Abies lasiocarpa","north",0,29,373,0,3,249,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","Abies magnifica","north",13,1152,1119,1,502,478,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Abies procera","north",1,58,353,0,5,573,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","Acacia caven","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","Acer circinatum","north",25,316,1915,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","Acer glabrum","north",0,982,1293,0,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","Acer macrophyllum","north",407,2638,5293,54,374,1850,"ACEMAC","Acer macrophyllum","Big Leaf Maple",NA,NA,NA,12,1,""
+"12","Acer negundo","north",135,775,752,1,6,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","Acrisione cymosa","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","Acrisione denticulata","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","Adenostoma fasciculatum",NA,NA,NA,NA,NA,NA,NA,"ADEFAS","Adenostoma fasciculatum","Chamise",8,3,0,NA,2,""
+"16","Adenostoma sparsifolium","north",0,250,222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","Aesculus californica","north",472,2262,2201,30,145,144,"AESCAL","Aesculus californica","Buckeye",19,5,2,65,3,""
+"18","Aextoxicon punctatum","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","Alnus incana","north",4,655,492,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","Alnus rhombifolia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","Alnus rubra","north",210,578,2564,15,162,2740,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","Alnus viridis","north",0,118,355,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","Amelanchier alnifolia","north",33,505,759,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","Amelanchier utahensis","north",164,1989,1435,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","Amomyrtus luma","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","Amomyrtus meli","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","Amorpha",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","Amorpha californica",NA,NA,NA,NA,NA,NA,NA,"AMOCAL","Amorpha californica","California false indigo",53,339,14,NA,NA,NA
+"29","Araucaria araucana","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","Arbutus menzesii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,""
+"31","Arbutus menziesii","north",704,2346,3153,344,911,1742,"ARBMEN","Arbutus menziesii","Madrone",129,128,11,255,NA,NA
+"32","Arctostaphylos columbiana","north",301,566,776,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Arctostaphylos glauca","north",0,1116,900,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","Arctostaphylos manzanita",NA,NA,NA,NA,NA,NA,NA,"ARCMAN","Arctostaphylos manzanita","Manzanita",48,11,2,72,NA,NA
+"35","Arctostaphylos pringlei","north",0,505,384,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","Arctostaphylos spp.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,"Check calflora/jepson to determine the most common species in the Bay Area - I think we should include A. manzanita and A. glandulosa"
+"37","Arctostaphylos viscida","north",316,1993,2031,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","Aristotelia chilensis","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","Artemesia californica",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,""
+"40","Artemisia copa","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","Artemisia tridentata","north",0,1269,616,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","Austrocedrus chilensis","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","Avena spp.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,"Check calflora/jepson to determine the most common species in the Bay Area"
+"44","Azara celastrina","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","Azara integrifolia","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","Azara lanceolata","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","Azara microphylla","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","Azara petiolaris","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","Azara serrata","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","Baccharis pilularis",NA,NA,NA,NA,NA,NA,NA,"BACPIL","Baccharis pilularis","Coyote bush",9,54,1,NA,8,""
+"51","Beilschmiedia berteroana","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","Beilschmiedia miersii","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","Berberis ilicifolia","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","Berberis valdiviana","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","Betula neoalaskana","north",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","Betula occidentalis","north",0,359,121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","Betula papyrifera","north",0,0,114,0,0,45,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","Blepharocalyx cruckshanksii","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","Bromus spp.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,"Check calflora/jepson to determine the most common species in the Bay Area"
+"60","Buddleja globosa","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","Bursera fagaroides","north",0,0,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","Bursera microphylla","north",0,94,104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","Caesalpinia spinosa","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","Caldcluvia paniculata","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Calocedrus decurrens","north",79,2821,3056,11,1443,2224,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","Ceanothus arboreus","north",0,302,301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","Ceanothus cuneatus",NA,NA,NA,NA,NA,NA,NA,"CEACUN","Ceanothus cuneatus","buckbrush",NA,2,NA,NA,10,""
+"68","Ceanothus impressus","north",0,122,120,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","Ceanothus spinosus","north",0,332,352,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","Ceanothus thyrsiflorus","north",212,686,642,NA,NA,NA,"CEATHY","Ceanothus thyrsiflorus","California lilac",NA,4,NA,NA,NA,NA
+"71","Ceanothus velutinus","north",121,1044,809,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","Cephalanthus occidentalis","north",53,506,506,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","Cercocarpus betuloides ",NA,NA,NA,NA,NA,NA,NA,"CERBET","Cercocarpus betuloides ","Mountain mahogany ",NA,22,NA,NA,NA,NA
+"74","Cercocarpus betuloides var. betuloides",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","Cercocarpus montanus","north",241,2671,2385,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","Chamaecyparis lawsoniana","north",4,338,461,0,25,168,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","Chamaecyparis nootkaensis","north",0,22,163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","Chilopsis linearis","north",0,1054,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","Chrysolepis chrysophylla","north",244,771,1119,13,107,688,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","Citronella mucronata","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","Condalia globosa","north",0,119,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","Cordia decandra","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","Cornus glabrata","north",158,552,556,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","Cornus nuttallii","north",130,1267,1486,3,168,344,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","Cornus sericea","north",114,1660,1648,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","Cornus sessilis","north",0,267,264,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","Corylus cornuta","north",253,1096,1309,NA,NA,NA,"CORCOR","Corylus cornuta","California hazelnut",NA,2,NA,NA,NA,NA
+"88","Corynabutilon vitifolium","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","Crataegus douglasii","north",51,194,399,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","Crinodendron hookerianum","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91","Crinodendron patagua","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","Cryptocarya alba","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","Dasyphyllum diacanthoides","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","Dasyphyllum excelsum","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","Dendromecon harfordii","north",0,288,289,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","Dendromecon rigida","north",203,2141,1912,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","Desfontainia fulgens","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","Discaria chacaye","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","Drimys winteri","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","Embothrium coccineum","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","Erythrina flabelliformis","north",0,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102","Escallonia angustifolia","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","Escallonia myrtoidea","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","Escallonia pulverulenta","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","Escallonia revoluta","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106","Escallonia rubra","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107","Eucryphia cordifolia","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108","Eucryphia glutinosa","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109","Euonymus occidentalis","north",89,414,437,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","Festuca rubra",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,""
+"111","Fitzroya cupressoides","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","Frangula californica","north",584,4510,4174,NA,NA,NA,"FRACAL","Frangula californica","Coffeeberry",26,70,3,NA,NA,NA
+"113","Frangula purshiana","north",65,660,910,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","Fraxinus anomala","north",0,94,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115","Fraxinus dipetala","north",88,848,872,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","Fraxinus latifolia","north",266,830,1013,9,40,167,"FRALAT","Fraxinus latifolia","Oregon ash",NA,NA,NA,15,NA,NA
+"117","Fraxinus velutina","north",0,498,317,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","Garrya congdonii","north",104,228,228,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","Garrya elliptica","north",226,720,714,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","Garrya flavescens","north",81,1171,861,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","Garrya fremontii","north",181,924,970,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","Garrya veatchii","north",3,773,742,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","Geoffroea decorticans","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","Gevuina avellana","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","Gomortega keule","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","Haplorhus peruviana","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","Hesperocyparis bakeri","north",0,167,175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","Hesperocyparis forbesii","north",0,122,126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","Hesperocyparis goveniana","north",26,124,119,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","Hesperocyparis macnabiana","north",233,477,478,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","Hesperocyparis macrocarpa","north",4,120,79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","Hesperocyparis sargentii","north",480,621,621,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","Heteromeles arbutifolia","north",398,4035,3917,NA,NA,NA,"HETARB","Heteromeles arbutifolia","Toyon",552,138,99,NA,12,""
+"134","Jubaea chilensis","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","Juglans californica","north",14,1141,1121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","Juglans hindsii","north",60,487,487,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137","Juniperus californica","north",17,1017,553,1,131,82,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138","Juniperus communis","north",0,383,470,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","Juniperus grandis","north",0,438,213,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","Juniperus occidentalis","north",4,1565,1225,0,487,566,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","Juniperus osteosperma","north",0,557,15,0,57,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","Juniperus scopulorum","north",0,4,46,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","Kageneckia angustifolia","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","Kageneckia oblonga","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","Karwinskia humboldtiana","north",0,0,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","Koeberlinia spinosa","north",0,41,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","Larix lyallii","north",0,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148","Larix occidentalis","north",0,0,5,0,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","Latua pubiflora","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150","Laurelia sempervirens","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","Laureliopsis philippiana","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","Legrandia concinna","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153","Lepidospartum squamatum","north",0,1289,957,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","Lithocarpus densiflorus",NA,NA,NA,NA,NA,NA,NA,"NOTDEN","Notholithocarpus densiflorus","Tanoak",11,7,3,NA,13,"name!"
+"155","Lithraea caustica","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156","Lomatia dentata","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157","Lomatia ferruginea","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","Lomatia hirsuta","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159","Luma apiculata","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160","Luma chequen","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161","Lyonothamnus floribundus","north",0,492,489,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162","Malosma laurina","north",0,2379,2392,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","Malus fusca","north",2,86,459,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","Maytenus boaria","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165","Maytenus magellanica","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166","Maytenus phyllanthoides","north",0,0,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","Mimulus aurantiacus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,""
+"168","Monttea chilensis","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","Morella californica","north",193,509,515,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170","Morella pavonis","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171","Myrceugenia chrysocarpa","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172","Myrceugenia colchaguensis","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173","Myrceugenia correifolia","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","Myrceugenia exsucca","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","Myrceugenia obtusa","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","Myrceugenia ovata","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","Myrceugenia parvifolia","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","Myrceugenia planipes","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","Nassella pulchra",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,""
+"180","Nothofagus alessandri","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","Nothofagus alpina","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"182","Nothofagus antarctica","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"183","Nothofagus betuloides","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"184","Nothofagus dombeyi","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"185","Nothofagus glauca","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186","Nothofagus macrocarpa","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"187","Nothofagus nitida","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188","Nothofagus obliqua","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"189","Nothofagus pumilio","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190","Notholithocarpus densiflorus","north",399,1506,1522,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191","Oemleria cerasiformis","north",187,846,1230,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192","Olneya tesota","north",0,367,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"193","Otholobium glandulosum","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"194","Ovidia andina","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195","Parkinsonia florida","north",0,333,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"196","Parkinsonia microphylla","north",0,117,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"197","Persea lingue","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"198","Peucephyllum schottii","north",0,831,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"199","Peumus boldus","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200","Picea breweriana","north",0,221,244,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201","Picea engelmannii","north",0,40,160,0,2,107,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202","Picea glauca","north",0,0,11,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"203","Picea sitchensis","north",32,204,1770,0,24,537,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"204","Pilgerodendron uviferum","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205","Pinus attenuata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,""
+"206","Pinus balfouriana","north",0,382,295,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","Pinus contorta","north",221,1912,2333,2,434,1038,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","Pinus flexilis","north",0,460,196,0,21,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"209","Pinus jeffreyi","north",9,430,316,3,901,781,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"210","Pinus lambertiana","north",36,439,413,38,1241,1655,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"211","Pinus longaeva","north",0,247,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"212","Pinus monophylla","north",0,632,186,0,291,94,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","Pinus monticola","north",3,851,1078,1,296,758,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214","Pinus muricata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,""
+"215","Pinus ponderosa","north",142,2445,2873,84,1923,2975,NA,NA,NA,NA,NA,NA,NA,18,""
+"216","Pinus quadrifolia","north",0,96,98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"217","Pinus radiata","north",0,105,95,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218","Pinus sabiniana","north",183,1441,1367,53,502,497,NA,NA,NA,NA,NA,NA,NA,19,""
+"219","Pinus virginiana",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"220","Pitavia punctata","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221","Platanus racemosa","north",9,2189,2052,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,""
+"222","Podocarpus nubigenus","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"223","Podocarpus salignus","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"224","Polylepis rugulosa","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"225","Polylepis tarapacana","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"226","Populus angustifolia","north",0,27,12,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"227","Populus balsamifera","north",10,694,693,0,21,219,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228","Populus fremontii","north",60,1645,1192,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,""
+"229","Populus tremuloides","north",1,671,431,0,46,38,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"230","Porlieria chilensis","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"231","Pouteria splendens","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232","Prosopis alba","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"233","Prosopis chilensis","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"234","Prosopis glandulosa","north",0,1043,167,0,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"235","Prosopis pubescens","north",0,237,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"236","Prosopis tamarugo","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"237","Prumnopitys andina","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"238","Prunus cerasifera",NA,NA,NA,NA,NA,NA,NA,"PRUCER","Prunus cerasifera","Cherry plum",2,3,NA,NA,NA,NA
+"239","Prunus emarginata","north",91,1985,2108,2,29,339,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"240","Prunus fremontii","north",0,554,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"241","Prunus ilicifolia","north",14,2086,1943,NA,NA,NA,"PRUILI","Prunus ilicifolia","Holly leaf cherry ",NA,NA,NA,NA,NA,NA
+"242","Prunus subcordata","north",94,573,571,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"243","Prunus virginiana","north",145,1538,1399,1,5,41,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"244","Pseudotsuga menzesii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,"check spelling"
+"245","Pseudotsuga menziesii","north",625,2910,7231,511,2517,9809,"PSEMEN","Pseudotsuga menziesii","Douglas-fir",519,368,NA,140,NA,NA
+"246","Psorothamnus spinosus","north",0,677,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"247","Ptelea crenulata","north",55,367,367,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"248","Quercus agrifolia","north",140,1432,1393,119,441,440,"QUEAGR","Quercus agrifolia","Coast live oak",372,357,38,944,23,""
+"249","Quercus berberidifolia","north",186,1582,1518,NA,NA,NA,"QUEBER","Quercus berberidifolia","Scrub oak",12,38,2,NA,NA,NA
+"250","Quercus cedrosensis","north",0,20,94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"251","Quercus chrysolepis","north",368,4327,3949,177,1312,1525,NA,NA,NA,NA,NA,NA,NA,24,""
+"252","Quercus chrysolepis var. chrysolepis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"253","Quercus cornelius-mulleri",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"254","Quercus douglasii","north",236,2010,1967,56,824,823,"QUEDOU","Quercus douglasii","Blue oak",60,3,NA,276,25,""
+"255","Quercus dumosa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"256","Quercus dumosa var. dumosa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"257","Quercus durata","north",479,1292,1291,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,""
+"258","Quercus engelmannii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"259","Quercus gambelii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"260","Quercus gambelii var. gambelii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"261","Quercus gambellii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"262","Quercus garryana","north",369,1517,2049,107,361,679,"QUEGAR","Quercus garryana","Oregon oak",335,12,8,1480,27,""
+"263","Quercus john-tuckeri","north",0,451,294,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"264","Quercus kelloggii","north",187,1208,1098,239,1604,1851,"QUEKEL","Quercus kelloggii","Black oak",79,3,NA,389,28,""
+"265","Quercus lobata","north",284,2044,1986,66,168,169,"QUELOB","Quercus lobata","Valley oak",2,NA,NA,14,29,""
+"266","Quercus oblongifolia","north",0,2,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"267","Quercus pacifica",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"268","Quercus palmeri","north",1,187,126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"269","Quercus parvula","north",134,508,506,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"270","Quercus parvula var. shrevei",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"271","Quercus sadleriana",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"272","Quercus tomentella",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"273","Quercus turbinella","north",0,186,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"274","Quercus vaccinifolia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"275","Quercus vacciniifolia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"276","Quercus wislizeni","north",452,2903,2687,82,566,559,"QUEWIS","Quercus wislizeni","Interior live oak",1,NA,NA,NA,30,"check spelling"
+"277","Quillaja saponaria","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"278","Raukaua laetevirens","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"279","Rhamnus crocea",NA,NA,NA,NA,NA,NA,NA,"RHACRO","Rhamnus crocea","Redberry buckthorn",NA,8,NA,NA,NA,NA
+"280","Rhaphithamnus spinosus","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"281","Rhododendron macrophyllum","north",202,391,564,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"282","Rhus integrifolia","north",5,1985,1850,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"283","Rhus kearneyi","north",0,0,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"284","Rhus ovata","north",0,1962,1607,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"285","Robinia neomexicana","north",0,10,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"286","Salix alaxensis","north",0,0,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"287","Salix amygdaloides","north",0,3,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"288","Salix barclayi","north",0,0,131,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"289","Salix bebbiana","north",0,6,23,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"290","Salix bonplandiana","north",0,0,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"291","Salix breweri","north",115,271,271,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"292","Salix exigua","north",193,2803,1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"293","Salix exigua var. hindsiana",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"294","Salix geyeriana","north",0,410,244,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"295","Salix glauca","north",0,0,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296","Salix gooddingii","north",22,1303,937,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"297","Salix hookeriana","north",63,324,483,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"298","Salix humboldtiana","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"299","Salix laevigata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"300","Salix lasiandra","north",90,1069,904,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"301","Salix lasiolepis","north",360,4544,4002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"302","Salix ligulifolia","north",0,146,112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"303","Salix lutea","north",1,345,156,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304","Salix maccalliana","north",0,0,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"305","Salix melanopsis","north",76,616,616,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"306","Salix myrtillifolia","north",0,1,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"307","Salix planifolia","north",0,171,111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"308","Salix prolixa","north",1,41,72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"309","Salix pulchra","north",0,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"310","Salix scouleriana","north",108,1289,1301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"311","Salix sessilifolia","north",0,0,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"312","Salix sitchensis","north",155,552,861,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"313","Salix spp.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,"Check calflora/jepson to determine the most common species in the Bay Area"
+"314","Salix taxifolia","north",0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"315","Salix tracyi","north",6,52,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"316","Sambucus nigra",NA,NA,NA,NA,NA,NA,NA,"SAMNIG","Sambucus nigra","Elderberry",NA,2,NA,NA,NA,NA
+"317","Sambucus racemosa","north",122,909,1276,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"318","Saxegothaea conspicua","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"319","Schinus latifolius","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"320","Schinus molle","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"321","Schinus patagonicus","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"322","Schinus polygamus","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"323","Senegalia greggii","north",0,829,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"324","Sequoia sempervirens","north",167,497,493,258,494,504,NA,NA,NA,NA,NA,NA,NA,32,""
+"325","Sequoiadendron giganteum","north",0,128,128,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"326","Shepherdia argentea","north",0,150,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"327","Sophora cassioides","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"328","Sophora macrocarpa","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329","Sorbus scopulina","north",0,249,327,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"330","Sorbus sitchensis","north",0,35,288,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"331","Staphylea bolanderi","north",0,135,135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"332","Styrax redivivus","north",47,681,673,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"333","Taxus brevifolia","north",57,529,909,1,41,429,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"334","Tepualia stipularis","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"335","Thuja plicata","north",1,121,2236,0,5,2236,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"336","Torreya californica","north",306,684,684,NA,NA,NA,"TORCAL","Torreya californica","California nutmeg",NA,5,NA,NA,NA,NA
+"337","Tsuga heterophylla","north",72,184,3988,12,62,4385,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"338","Tsuga mertensiana","north",0,532,1881,0,89,790,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"339","Umbellularia californica","north",926,4001,4039,190,481,635,"UMBCAL","Umbellularia californica","California Bay",421,951,28,678,33,""
+"340","Vauquelinia californica","north",0,0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"341","Washingtonia filifera","north",0,514,63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"342","Weinmannia trichosperma","south",0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"343","Yucca brevifolia","north",0,1050,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"344","Ziziphus obtusifolia","north",0,155,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
