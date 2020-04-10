@@ -2,7 +2,7 @@ rm(list=ls()) # erase everything in current environment
 getwd() # get working directory
 
 
-setwd("~/Desktop/trait_database_2020/CalWoodyTraits_2020project/querying TRY DB")
+setwd("CalWoodyTraits_2020project/querying TRY DB")
 all_sp <-read.csv("sp_all.csv",header = T,as.is=T)
 trydb <- read.csv("TryAccSpecies.csv",header=T,as.is=T)
 
